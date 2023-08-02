@@ -2,9 +2,6 @@
 
 ## Distribución de Roles
 
-### El master de las serializaciones
-*Eduardo Montecchia
-
 ### Kernel
 * Carlos Vasquez
 * Fermin Lucero
