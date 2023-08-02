@@ -1,0 +1,2481 @@
+[INFO] 16:09:33:724 log_informacion/(6716:6716): Finalizando programa
+[INFO] 16:15:06:016 log_informacion/(6945:6945): Finalizando programa
+[INFO] 17:19:52:497 log_informacion/(1945:1945): Finalizando programa
+[INFO] 17:31:23:086 log_informacion/(2226:2226): Finalizando programa
+[INFO] 18:24:21:588 log_informacion/(3079:3079): Finalizando programa
+[INFO] 18:46:26:319 log_informacion/(4133:4133): Finalizando programa
+[INFO] 18:47:06:270 log_informacion/(4170:4170): Finalizando programa
+[INFO] 19:21:34:060 log_informacion/(4291:4291): Finalizando programa
+[INFO] 19:35:05:322 log_informacion/(4411:4411): Finalizando programa
+[INFO] 19:36:02:388 log_informacion/(4473:4473): Finalizando programa
+[INFO] 19:37:09:370 log_informacion/(4521:4521): Finalizando programa
+[INFO] 19:37:40:896 log_informacion/(4581:4581): Finalizando programa
+[INFO] 19:37:53:412 log_informacion/(4623:4623): Finalizando programa
+[INFO] 19:38:32:475 log_informacion/(4659:4659): Finalizando programa
+[INFO] 19:39:43:493 log_informacion/(4698:4698): Instrucciones correctas
+[INFO] 19:39:43:494 log_informacion/(4698:4698): Conectando a servidor
+[INFO] 19:39:43:494 log_informacion/(4698:4698): Finalizando programa
+[INFO] 19:40:53:279 log_informacion/(4727:4727): Instrucciones correctas
+[INFO] 19:40:53:280 log_informacion/(4727:4727): Conectando a servidor
+[INFO] 19:40:53:280 log_informacion/(4727:4727): Finalizando programa
+[INFO] 20:15:15:361 log_informacion/(5191:5191): Instrucciones correctas
+[INFO] 20:15:15:362 log_informacion/(5191:5191): Conectando a servidor
+[INFO] 20:15:15:362 log_informacion/(5191:5191): Enviando instrucciones
+[INFO] 20:15:15:362 log_informacion/(5191:5191): Finalizando programa
+[INFO] 23:42:54:881 log_informacion/(7360:7360): Instrucciones correctas
+[INFO] 23:42:54:895 log_informacion/(7360:7360): Conectando a servidor
+[INFO] 23:42:54:895 log_informacion/(7360:7360): Enviando instrucciones
+[INFO] 23:45:28:322 log_informacion/(7486:7486): Instrucciones correctas
+[INFO] 23:45:31:434 log_informacion/(7486:7486): Conectando a servidor
+[INFO] 23:45:34:724 log_informacion/(7486:7486): Enviando instrucciones
+[INFO] 23:47:50:082 log_informacion/(7790:7790): Instrucciones correctas
+[INFO] 23:49:36:402 log_informacion/(7857:7857): Instrucciones correctas
+[INFO] 23:51:20:122 log_informacion/(8052:8052): Instrucciones correctas
+[INFO] 23:51:51:744 log_informacion/(8089:8089): Instrucciones correctas
+[INFO] 23:53:30:776 log_informacion/(8318:8318): Instrucciones correctas
+[INFO] 23:53:46:661 log_informacion/(8463:8463): Instrucciones correctas
+[INFO] 23:54:17:255 log_informacion/(8505:8505): Instrucciones correctas
+[INFO] 23:55:37:554 log_informacion/(8555:8555): Instrucciones correctas
+[INFO] 23:56:23:287 log_informacion/(8594:8594): Instrucciones correctas
+[INFO] 23:59:30:082 log_informacion/(8898:8898): Instrucciones correctas
+[INFO] 00:00:06:877 log_informacion/(8935:8935): Instrucciones correctas
+[INFO] 00:00:39:958 log_informacion/(9263:9263): Instrucciones correctas
+[INFO] 00:01:27:612 log_informacion/(9373:9373): Instrucciones correctas
+[INFO] 00:05:05:231 log_informacion/(9573:9573): Instrucciones correctas
+[INFO] 00:07:04:691 log_informacion/(9621:9621): Instrucciones correctas
+[INFO] 00:07:20:719 log_informacion/(10080:10080): Instrucciones correctas
+[INFO] 00:08:10:834 log_informacion/(10110:10110): Instrucciones correctas
+[INFO] 00:11:00:467 log_informacion/(10392:10392): Instrucciones correctas
+[INFO] 00:13:57:325 log_informacion/(10471:10471): Instrucciones correctas
+[INFO] 00:15:04:214 log_informacion/(10618:10618): Instrucciones correctas
+[INFO] 00:16:50:241 log_informacion/(10736:10736): Instrucciones correctas
+[INFO] 00:17:27:906 log_informacion/(10848:10848): Instrucciones correctas
+[INFO] 00:18:17:068 log_informacion/(10972:10972): Instrucciones correctas
+[INFO] 00:19:21:628 log_informacion/(11072:11072): Instrucciones correctas
+[INFO] 00:19:35:587 log_informacion/(11106:11106): Instrucciones correctas
+[INFO] 00:20:10:456 log_informacion/(11183:11183): Instrucciones correctas
+[INFO] 00:20:44:571 log_informacion/(11275:11275): Instrucciones correctas
+[INFO] 00:20:55:883 log_informacion/(11322:11322): Instrucciones correctas
+[INFO] 00:21:42:970 log_informacion/(11436:11436): Instrucciones correctas
+[INFO] 00:22:33:095 log_informacion/(11540:11540): Instrucciones correctas
+[INFO] 00:29:39:647 log_informacion/(11788:11788): Instrucciones correctas
+[INFO] 00:31:01:698 log_informacion/(11889:11889): Instrucciones correctas
+[INFO] 00:32:14:585 log_informacion/(12093:12093): Instrucciones correctas
+[INFO] 00:33:38:641 log_informacion/(12291:12291): Instrucciones correctas
+[INFO] 00:34:36:676 log_informacion/(12349:12349): Instrucciones correctas
+[INFO] 00:35:10:808 log_informacion/(12391:12391): Instrucciones correctas
+[INFO] 00:35:34:912 log_informacion/(12428:12428): Instrucciones correctas
+[INFO] 00:35:34:912 log_informacion/(12428:12428): Conectando a servidor
+[INFO] 00:35:34:913 log_informacion/(12428:12428): Enviando instrucciones
+[INFO] 00:35:50:813 log_informacion/(12501:12501): Instrucciones correctas
+[INFO] 00:35:50:814 log_informacion/(12501:12501): Conectando a servidor
+[INFO] 00:35:50:815 log_informacion/(12501:12501): Enviando instrucciones
+[INFO] 00:36:19:870 log_informacion/(12564:12564): Instrucciones correctas
+[INFO] 00:37:28:467 log_informacion/(12708:12708): Instrucciones correctas
+[INFO] 00:38:46:512 log_informacion/(12873:12873): Instrucciones correctas
+[INFO] 00:39:43:229 log_informacion/(12969:12969): Instrucciones correctas
+[INFO] 00:40:33:156 log_informacion/(13068:13068): Instrucciones correctas
+[INFO] 00:44:58:643 log_informacion/(13579:13579): Instrucciones correctas
+[INFO] 00:49:43:103 log_informacion/(13740:13740): Instrucciones correctas
+[INFO] 00:50:21:894 log_informacion/(13803:13803): Instrucciones correctas
+[INFO] 00:51:29:827 log_informacion/(13862:13862): Instrucciones correctas
+[INFO] 00:51:29:828 log_informacion/(13862:13862): Conectando a servidor
+[INFO] 00:51:29:828 log_informacion/(13862:13862): Enviando instrucciones
+[INFO] 00:53:31:612 log_informacion/(13901:13901): Instrucciones correctas
+[INFO] 00:53:31:614 log_informacion/(13901:13901): Conectando a servidor
+[INFO] 00:53:31:614 log_informacion/(13901:13901): Enviando instrucciones
+[INFO] 00:54:04:345 log_informacion/(13938:13938): Instrucciones correctas
+[INFO] 00:54:10:004 log_informacion/(13938:13938): Conectando a servidor
+[INFO] 00:54:13:269 log_informacion/(13938:13938): Enviando instrucciones
+[INFO] 00:54:59:403 log_informacion/(14005:14005): Instrucciones correctas
+[INFO] 00:55:00:652 log_informacion/(14005:14005): Conectando a servidor
+[INFO] 00:55:01:593 log_informacion/(14005:14005): Enviando instrucciones
+[INFO] 00:55:12:845 log_informacion/(14072:14072): Instrucciones correctas
+[INFO] 00:55:13:565 log_informacion/(14072:14072): Conectando a servidor
+[INFO] 00:55:14:610 log_informacion/(14072:14072): Enviando instrucciones
+[INFO] 00:55:31:966 log_informacion/(14138:14138): Instrucciones correctas
+[INFO] 00:55:32:535 log_informacion/(14138:14138): Conectando a servidor
+[INFO] 00:55:33:372 log_informacion/(14138:14138): Enviando instrucciones
+[INFO] 00:56:52:202 log_informacion/(14247:14247): Instrucciones correctas
+[INFO] 00:59:44:948 log_informacion/(14247:14247): Conectando a servidor
+[INFO] 01:00:35:745 log_informacion/(14580:14580): Instrucciones correctas
+[INFO] 01:02:21:530 log_informacion/(14580:14580): Conectando a servidor
+[INFO] 01:02:26:073 log_informacion/(14580:14580): Enviando instrucciones
+[INFO] 01:05:16:455 log_informacion/(14941:14941): Instrucciones correctas
+[INFO] 01:05:16:488 log_informacion/(14941:14941): Conectando a servidor
+[INFO] 01:05:16:492 log_informacion/(14941:14941): Enviando instrucciones
+[INFO] 01:11:17:483 log_informacion/(15214:15214): Instrucciones correctas
+[INFO] 01:11:17:483 log_informacion/(15214:15214): Conectando a servidor
+[INFO] 01:11:17:484 log_informacion/(15214:15214): Enviando instrucciones
+[INFO] 01:11:33:091 log_informacion/(15254:15254): Instrucciones correctas
+[INFO] 01:11:42:177 log_informacion/(15254:15254): Conectando a servidor
+[INFO] 01:11:46:666 log_informacion/(15254:15254): Enviando instrucciones
+[INFO] 01:12:25:782 log_informacion/(15343:15343): Instrucciones correctas
+[INFO] 01:12:25:783 log_informacion/(15343:15343): Conectando a servidor
+[INFO] 01:12:25:783 log_informacion/(15343:15343): Enviando instrucciones
+[INFO] 01:12:25:783 log_informacion/(15343:15343): Finalizando programa
+[INFO] 21:08:36:676 log_informacion/(2150:2150): Instrucciones correctas
+[INFO] 21:08:36:694 log_informacion/(2150:2150): Conectando a servidor
+[INFO] 21:08:36:694 log_informacion/(2150:2150): Enviando instrucciones
+[INFO] 21:08:36:694 log_informacion/(2150:2150): Finalizando programa
+[INFO] 21:09:31:275 log_informacion/(2189:2189): Instrucciones correctas
+[INFO] 21:09:31:280 log_informacion/(2189:2189): Conectando a servidor
+[INFO] 21:09:31:281 log_informacion/(2189:2189): Enviando instrucciones
+[INFO] 21:09:31:281 log_informacion/(2189:2189): Finalizando programa
+[INFO] 21:10:07:749 log_informacion/(2203:2203): Instrucciones correctas
+[INFO] 21:10:07:750 log_informacion/(2203:2203): Conectando a servidor
+[INFO] 21:10:07:750 log_informacion/(2203:2203): Enviando instrucciones
+[INFO] 21:10:07:750 log_informacion/(2203:2203): Finalizando programa
+[INFO] 21:10:38:528 log_informacion/(2235:2235): Instrucciones correctas
+[INFO] 21:10:38:561 log_informacion/(2235:2235): Conectando a servidor
+[INFO] 21:10:38:561 log_informacion/(2235:2235): Enviando instrucciones
+[INFO] 21:10:38:561 log_informacion/(2235:2235): Finalizando programa
+[INFO] 21:35:18:577 log_informacion/(2295:2295): Instrucciones correctas
+[INFO] 21:35:18:580 log_informacion/(2295:2295): Conectando a servidor
+[INFO] 21:35:18:581 log_informacion/(2295:2295): Enviando instrucciones
+[INFO] 21:35:18:581 log_informacion/(2295:2295): Finalizando programa
+[INFO] 21:35:27:876 log_informacion/(2310:2310): Instrucciones correctas
+[INFO] 21:35:27:876 log_informacion/(2310:2310): Conectando a servidor
+[INFO] 21:35:27:876 log_informacion/(2310:2310): Enviando instrucciones
+[INFO] 21:35:27:876 log_informacion/(2310:2310): Finalizando programa
+[INFO] 21:38:44:766 log_informacion/(2396:2396): Instrucciones correctas
+[INFO] 21:39:25:234 log_informacion/(2430:2430): Instrucciones correctas
+[INFO] 21:42:24:950 log_informacion/(2623:2623): Instrucciones correctas
+[INFO] 21:43:31:164 log_informacion/(2684:2684): Instrucciones correctas
+[INFO] 21:45:04:737 log_informacion/(2727:2727): Instrucciones correctas
+[INFO] 21:47:22:880 log_informacion/(2764:2764): Instrucciones correctas
+[INFO] 21:50:17:893 log_informacion/(2837:2837): Instrucciones correctas
+[INFO] 21:51:47:840 log_informacion/(2886:2886): Instrucciones correctas
+[INFO] 21:51:47:840 log_informacion/(2886:2886): Conectando a servidor
+[INFO] 21:51:47:841 log_informacion/(2886:2886): Enviando instrucciones
+[INFO] 21:51:47:841 log_informacion/(2886:2886): Finalizando programa
+[INFO] 23:38:10:137 log_informacion/(4120:4120): Instrucciones correctas
+[INFO] 23:41:11:726 log_informacion/(4171:4171): Instrucciones correctas
+[INFO] 23:42:36:934 log_informacion/(4270:4270): Instrucciones correctas
+[INFO] 23:42:55:290 log_informacion/(4329:4329): Instrucciones correctas
+[INFO] 23:43:11:270 log_informacion/(4391:4391): Instrucciones correctas
+[INFO] 23:47:44:466 log_informacion/(4509:4509): Instrucciones correctas
+[INFO] 23:56:13:411 log_informacion/(4653:4653): Instrucciones correctas
+[INFO] 23:56:13:412 log_informacion/(4653:4653): Conectando a servidor
+[INFO] 23:56:13:413 log_informacion/(4653:4653): Enviando instrucciones
+[INFO] 23:56:13:413 log_informacion/(4653:4653): Finalizando programa
+[INFO] 23:56:29:790 log_informacion/(4703:4703): Instrucciones correctas
+[INFO] 23:56:29:790 log_informacion/(4703:4703): Conectando a servidor
+[INFO] 23:56:29:791 log_informacion/(4703:4703): Enviando instrucciones
+[INFO] 23:56:29:791 log_informacion/(4703:4703): Finalizando programa
+[INFO] 23:57:32:148 log_informacion/(4774:4774): Instrucciones correctas
+[INFO] 23:57:32:149 log_informacion/(4774:4774): Conectando a servidor
+[INFO] 23:57:32:149 log_informacion/(4774:4774): Enviando instrucciones
+[INFO] 23:57:32:149 log_informacion/(4774:4774): Finalizando programa
+[INFO] 23:59:28:650 log_informacion/(4815:4815): Instrucciones correctas
+[INFO] 23:59:28:651 log_informacion/(4815:4815): Conectando a servidor
+[INFO] 23:59:28:652 log_informacion/(4815:4815): Enviando instrucciones
+[INFO] 23:59:28:652 log_informacion/(4815:4815): Finalizando programa
+[INFO] 23:59:54:034 log_informacion/(4850:4850): Instrucciones correctas
+[INFO] 23:59:54:034 log_informacion/(4850:4850): Conectando a servidor
+[INFO] 23:59:54:034 log_informacion/(4850:4850): Enviando instrucciones
+[INFO] 23:59:54:034 log_informacion/(4850:4850): Finalizando programa
+[INFO] 00:13:30:571 log_informacion/(5097:5097): Instrucciones correctas
+[INFO] 00:13:30:571 log_informacion/(5097:5097): Conectando a servidor
+[INFO] 00:13:30:572 log_informacion/(5097:5097): Enviando instrucciones
+[INFO] 00:13:30:572 log_informacion/(5097:5097): Finalizando programa
+[INFO] 00:48:09:857 log_informacion/(5858:5858): Instrucciones correctas
+[INFO] 00:48:09:858 log_informacion/(5858:5858): Conectando a servidor
+[INFO] 00:48:09:858 log_informacion/(5858:5858): Enviando instrucciones
+[INFO] 00:48:09:858 log_informacion/(5858:5858): Finalizando programa
+[INFO] 00:51:35:770 log_informacion/(6047:6047): Instrucciones correctas
+[INFO] 00:51:35:770 log_informacion/(6047:6047): Conectando a servidor
+[INFO] 00:51:35:771 log_informacion/(6047:6047): Enviando instrucciones
+[INFO] 00:51:35:771 log_informacion/(6047:6047): Finalizando programa
+[INFO] 01:05:48:108 log_informacion/(6757:6757): Instrucciones correctas
+[INFO] 01:05:48:109 log_informacion/(6757:6757): Conectando a servidor
+[INFO] 01:05:48:109 log_informacion/(6757:6757): Enviando instrucciones
+[INFO] 01:05:48:117 log_informacion/(6757:6757): Finalizando programa
+[INFO] 01:09:14:577 log_informacion/(6832:6832): Instrucciones correctas
+[INFO] 01:09:14:577 log_informacion/(6832:6832): Conectando a servidor
+[INFO] 01:09:14:577 log_informacion/(6832:6832): Enviando instrucciones
+[INFO] 01:09:14:577 log_informacion/(6832:6832): Finalizando programa
+[INFO] 01:10:27:219 log_informacion/(6944:6944): Instrucciones correctas
+[INFO] 01:10:27:219 log_informacion/(6944:6944): Conectando a servidor
+[INFO] 01:10:27:219 log_informacion/(6944:6944): Enviando instrucciones
+[INFO] 01:10:27:219 log_informacion/(6944:6944): Finalizando programa
+[INFO] 01:18:56:759 log_informacion/(7086:7086): Instrucciones correctas
+[INFO] 01:18:56:759 log_informacion/(7086:7086): Conectando a servidor
+[INFO] 01:18:56:759 log_informacion/(7086:7086): Enviando instrucciones
+[INFO] 01:18:56:759 log_informacion/(7086:7086): Finalizando programa
+[INFO] 01:20:57:482 log_informacion/(7156:7156): Instrucciones correctas
+[INFO] 01:20:57:483 log_informacion/(7156:7156): Conectando a servidor
+[INFO] 01:20:57:483 log_informacion/(7156:7156): Enviando instrucciones
+[INFO] 01:20:57:483 log_informacion/(7156:7156): Finalizando programa
+[INFO] 01:22:21:317 log_informacion/(7217:7217): Instrucciones correctas
+[INFO] 01:22:21:318 log_informacion/(7217:7217): Conectando a servidor
+[INFO] 01:22:21:320 log_informacion/(7217:7217): Enviando instrucciones
+[INFO] 01:22:21:321 log_informacion/(7217:7217): Finalizando programa
+[INFO] 01:23:19:505 log_informacion/(7306:7306): Instrucciones correctas
+[INFO] 01:23:19:506 log_informacion/(7306:7306): Conectando a servidor
+[INFO] 01:23:19:507 log_informacion/(7306:7306): Enviando instrucciones
+[INFO] 01:23:19:510 log_informacion/(7306:7306): Finalizando programa
+[INFO] 01:25:16:643 log_informacion/(7451:7451): Instrucciones correctas
+[INFO] 01:25:16:644 log_informacion/(7451:7451): Conectando a servidor
+[INFO] 01:25:16:645 log_informacion/(7451:7451): Enviando instrucciones
+[INFO] 01:25:16:648 log_informacion/(7451:7451): Finalizando programa
+[INFO] 01:27:25:805 log_informacion/(7524:7524): Instrucciones correctas
+[INFO] 01:27:25:808 log_informacion/(7524:7524): Conectando a servidor
+[INFO] 01:27:25:809 log_informacion/(7524:7524): Enviando instrucciones
+[INFO] 01:27:25:811 log_informacion/(7524:7524): Finalizando programa
+[INFO] 01:28:37:684 log_informacion/(7560:7560): Instrucciones correctas
+[INFO] 01:28:37:684 log_informacion/(7560:7560): Conectando a servidor
+[INFO] 01:28:37:684 log_informacion/(7560:7560): Enviando instrucciones
+[INFO] 01:28:37:687 log_informacion/(7560:7560): Finalizando programa
+[INFO] 02:07:55:882 log_informacion/(8400:8400): Instrucciones correctas
+[INFO] 02:07:55:882 log_informacion/(8400:8400): Conectando a servidor
+[INFO] 02:07:55:882 log_informacion/(8400:8400): Enviando instrucciones
+[INFO] 02:07:55:885 log_informacion/(8400:8400): Finalizando programa
+[INFO] 02:08:47:502 log_informacion/(8431:8431): Instrucciones correctas
+[INFO] 02:08:47:502 log_informacion/(8431:8431): Conectando a servidor
+[INFO] 02:08:47:519 log_informacion/(8431:8431): Enviando instrucciones
+[INFO] 02:08:47:519 log_informacion/(8431:8431): Finalizando programa
+[INFO] 02:09:02:443 log_informacion/(8466:8466): Instrucciones correctas
+[INFO] 02:09:02:444 log_informacion/(8466:8466): Conectando a servidor
+[INFO] 02:09:02:444 log_informacion/(8466:8466): Enviando instrucciones
+[INFO] 02:09:02:444 log_informacion/(8466:8466): Finalizando programa
+[INFO] 02:10:29:322 log_informacion/(8588:8588): Instrucciones correctas
+[INFO] 02:10:29:322 log_informacion/(8588:8588): Conectando a servidor
+[INFO] 02:10:29:323 log_informacion/(8588:8588): Enviando instrucciones
+[INFO] 02:10:29:323 log_informacion/(8588:8588): Finalizando programa
+[INFO] 02:11:13:991 log_informacion/(8620:8620): Instrucciones correctas
+[INFO] 02:11:13:991 log_informacion/(8620:8620): Conectando a servidor
+[INFO] 02:11:13:992 log_informacion/(8620:8620): Enviando instrucciones
+[INFO] 02:11:13:992 log_informacion/(8620:8620): Finalizando programa
+[INFO] 02:11:25:077 log_informacion/(8652:8652): Instrucciones correctas
+[INFO] 02:11:25:077 log_informacion/(8652:8652): Conectando a servidor
+[INFO] 02:11:25:077 log_informacion/(8652:8652): Enviando instrucciones
+[INFO] 02:11:25:077 log_informacion/(8652:8652): Finalizando programa
+[INFO] 02:11:49:619 log_informacion/(8682:8682): Instrucciones correctas
+[INFO] 02:11:49:619 log_informacion/(8682:8682): Conectando a servidor
+[INFO] 02:11:49:619 log_informacion/(8682:8682): Enviando instrucciones
+[INFO] 02:11:49:624 log_informacion/(8682:8682): Finalizando programa
+[INFO] 02:23:34:274 log_informacion/(8914:8914): Instrucciones correctas
+[INFO] 02:23:34:274 log_informacion/(8914:8914): Conectando a servidor
+[INFO] 02:23:34:274 log_informacion/(8914:8914): Enviando instrucciones
+[INFO] 02:23:34:276 log_informacion/(8914:8914): Finalizando programa
+[INFO] 02:24:29:809 log_informacion/(8951:8951): Instrucciones correctas
+[INFO] 02:24:29:810 log_informacion/(8951:8951): Conectando a servidor
+[INFO] 02:24:29:810 log_informacion/(8951:8951): Enviando instrucciones
+[INFO] 02:24:29:810 log_informacion/(8951:8951): Finalizando programa
+[INFO] 02:24:46:470 log_informacion/(8986:8986): Instrucciones correctas
+[INFO] 02:24:46:470 log_informacion/(8986:8986): Conectando a servidor
+[INFO] 02:24:46:470 log_informacion/(8986:8986): Enviando instrucciones
+[INFO] 02:24:46:471 log_informacion/(8986:8986): Finalizando programa
+[INFO] 02:27:37:676 log_informacion/(9164:9164): Instrucciones correctas
+[INFO] 02:27:37:677 log_informacion/(9164:9164): Conectando a servidor
+[INFO] 02:27:37:694 log_informacion/(9164:9164): Enviando instrucciones
+[INFO] 02:27:37:695 log_informacion/(9164:9164): Finalizando programa
+[INFO] 02:28:50:525 log_informacion/(9237:9237): Instrucciones correctas
+[INFO] 02:28:50:526 log_informacion/(9237:9237): Conectando a servidor
+[INFO] 02:28:50:527 log_informacion/(9237:9237): Enviando instrucciones
+[INFO] 02:28:50:527 log_informacion/(9237:9237): Finalizando programa
+[INFO] 02:30:52:543 log_informacion/(9307:9307): Instrucciones correctas
+[INFO] 02:30:52:543 log_informacion/(9307:9307): Conectando a servidor
+[INFO] 02:30:52:543 log_informacion/(9307:9307): Enviando instrucciones
+[INFO] 02:30:52:544 log_informacion/(9307:9307): Finalizando programa
+[INFO] 02:32:16:790 log_informacion/(9379:9379): Instrucciones correctas
+[INFO] 02:32:16:791 log_informacion/(9379:9379): Conectando a servidor
+[INFO] 02:32:16:791 log_informacion/(9379:9379): Enviando instrucciones
+[INFO] 02:32:16:791 log_informacion/(9379:9379): Finalizando programa
+[INFO] 02:35:16:229 log_informacion/(9552:9552): Instrucciones correctas
+[INFO] 02:35:16:229 log_informacion/(9552:9552): Conectando a servidor
+[INFO] 02:35:16:240 log_informacion/(9552:9552): Enviando instrucciones
+[INFO] 02:35:16:240 log_informacion/(9552:9552): Finalizando programa
+[INFO] 02:41:05:380 log_informacion/(9617:9617): Instrucciones correctas
+[INFO] 02:41:05:381 log_informacion/(9617:9617): Conectando a servidor
+[INFO] 02:41:05:381 log_informacion/(9617:9617): Enviando instrucciones
+[INFO] 02:41:05:384 log_informacion/(9617:9617): Finalizando programa
+[INFO] 03:43:15:516 log_informacion/(11061:11061): Instrucciones correctas
+[INFO] 03:44:01:675 log_informacion/(11103:11103): Instrucciones correctas
+[INFO] 03:45:27:104 log_informacion/(11291:11291): Instrucciones correctas
+[INFO] 03:45:27:104 log_informacion/(11291:11291): Conectando a servidor
+[INFO] 03:45:27:104 log_informacion/(11291:11291): Enviando instrucciones
+[INFO] 03:45:27:104 log_informacion/(11291:11291): Finalizando programa
+[INFO] 03:45:43:990 log_informacion/(11330:11330): Instrucciones correctas
+[INFO] 03:45:43:990 log_informacion/(11330:11330): Conectando a servidor
+[INFO] 03:45:43:990 log_informacion/(11330:11330): Enviando instrucciones
+[INFO] 03:45:43:991 log_informacion/(11330:11330): Finalizando programa
+[INFO] 03:54:17:320 log_informacion/(11418:11418): Instrucciones correctas
+[INFO] 03:54:17:320 log_informacion/(11418:11418): Conectando a servidor
+[INFO] 03:54:17:322 log_informacion/(11418:11418): Enviando instrucciones
+[INFO] 03:54:38:540 log_informacion/(11418:11418): Finalizando programa
+[INFO] 04:02:39:178 log_informacion/(11595:11595): Instrucciones correctas
+[INFO] 04:02:39:178 log_informacion/(11595:11595): Conectando a servidor
+[INFO] 04:02:39:179 log_informacion/(11595:11595): Enviando instrucciones
+[INFO] 04:02:39:179 log_informacion/(11595:11595): Finalizando programa
+[INFO] 15:15:17:361 log_informacion/(12211:12211): Instrucciones correctas
+[INFO] 15:15:17:362 log_informacion/(12211:12211): Conectando a servidor
+[INFO] 15:15:17:363 log_informacion/(12211:12211): Enviando instrucciones
+[INFO] 15:15:17:363 log_informacion/(12211:12211): Finalizando programa
+[INFO] 15:27:37:005 log_informacion/(12491:12491): Instrucciones correctas
+[INFO] 15:27:37:005 log_informacion/(12491:12491): Conectando a servidor
+[INFO] 15:27:37:005 log_informacion/(12491:12491): Enviando instrucciones
+[INFO] 15:27:37:006 log_informacion/(12491:12491): Finalizando programa
+[INFO] 15:30:33:254 log_informacion/(12594:12594): Instrucciones correctas
+[INFO] 15:30:33:254 log_informacion/(12594:12594): Conectando a servidor
+[INFO] 15:30:33:254 log_informacion/(12594:12594): Enviando instrucciones
+[INFO] 15:30:33:254 log_informacion/(12594:12594): Finalizando programa
+[INFO] 15:37:00:360 log_informacion/(12706:12706): Instrucciones correctas
+[INFO] 15:37:00:361 log_informacion/(12706:12706): Conectando a servidor
+[INFO] 15:37:00:361 log_informacion/(12706:12706): Enviando instrucciones
+[INFO] 15:37:25:634 log_informacion/(12706:12706): Finalizando programa
+[INFO] 15:48:39:188 log_informacion/(2025:2025): Instrucciones correctas
+[INFO] 15:48:39:203 log_informacion/(2025:2025): Conectando a servidor
+[INFO] 15:48:39:205 log_informacion/(2025:2025): Enviando instrucciones
+[INFO] 15:48:39:205 log_informacion/(2025:2025): Finalizando programa
+[INFO] 15:51:09:149 log_informacion/(2123:2123): Instrucciones correctas
+[INFO] 15:51:09:149 log_informacion/(2123:2123): Conectando a servidor
+[INFO] 15:51:09:150 log_informacion/(2123:2123): Enviando instrucciones
+[INFO] 15:51:09:150 log_informacion/(2123:2123): Finalizando programa
+[INFO] 15:51:32:410 log_informacion/(2177:2177): Instrucciones correctas
+[INFO] 15:51:32:411 log_informacion/(2177:2177): Conectando a servidor
+[INFO] 15:51:32:411 log_informacion/(2177:2177): Enviando instrucciones
+[INFO] 15:51:32:411 log_informacion/(2177:2177): Finalizando programa
+[INFO] 15:52:44:785 log_informacion/(2219:2219): Instrucciones correctas
+[INFO] 15:52:44:785 log_informacion/(2219:2219): Conectando a servidor
+[INFO] 15:52:44:785 log_informacion/(2219:2219): Enviando instrucciones
+[INFO] 15:52:44:786 log_informacion/(2219:2219): Finalizando programa
+[INFO] 15:53:57:344 log_informacion/(2282:2282): Instrucciones correctas
+[INFO] 15:53:57:344 log_informacion/(2282:2282): Conectando a servidor
+[INFO] 15:53:57:344 log_informacion/(2282:2282): Enviando instrucciones
+[INFO] 15:53:57:345 log_informacion/(2282:2282): Finalizando programa
+[INFO] 15:54:23:300 log_informacion/(2343:2343): Instrucciones correctas
+[INFO] 15:54:23:300 log_informacion/(2343:2343): Conectando a servidor
+[INFO] 15:54:23:300 log_informacion/(2343:2343): Enviando instrucciones
+[INFO] 15:54:23:300 log_informacion/(2343:2343): Finalizando programa
+[INFO] 15:54:53:136 log_informacion/(2381:2381): Instrucciones correctas
+[INFO] 15:54:53:136 log_informacion/(2381:2381): Conectando a servidor
+[INFO] 15:54:53:136 log_informacion/(2381:2381): Enviando instrucciones
+[INFO] 15:54:53:136 log_informacion/(2381:2381): Finalizando programa
+[INFO] 15:55:09:523 log_informacion/(2418:2418): Instrucciones correctas
+[INFO] 15:55:09:524 log_informacion/(2418:2418): Conectando a servidor
+[INFO] 15:55:09:524 log_informacion/(2418:2418): Enviando instrucciones
+[INFO] 15:55:09:524 log_informacion/(2418:2418): Finalizando programa
+[INFO] 15:55:30:244 log_informacion/(2439:2439): Instrucciones correctas
+[INFO] 15:55:30:244 log_informacion/(2439:2439): Conectando a servidor
+[INFO] 15:55:30:245 log_informacion/(2439:2439): Enviando instrucciones
+[INFO] 15:55:30:245 log_informacion/(2439:2439): Finalizando programa
+[INFO] 15:56:43:499 log_informacion/(2498:2498): Instrucciones correctas
+[INFO] 15:56:43:499 log_informacion/(2498:2498): Conectando a servidor
+[INFO] 15:56:43:502 log_informacion/(2498:2498): Enviando instrucciones
+[INFO] 15:56:43:502 log_informacion/(2498:2498): Finalizando programa
+[INFO] 15:57:51:593 log_informacion/(2530:2530): Instrucciones correctas
+[INFO] 15:57:51:594 log_informacion/(2530:2530): Conectando a servidor
+[INFO] 15:57:51:594 log_informacion/(2530:2530): Enviando instrucciones
+[INFO] 15:57:51:595 log_informacion/(2530:2530): Finalizando programa
+[INFO] 15:58:26:861 log_informacion/(2585:2585): Instrucciones correctas
+[INFO] 15:58:26:865 log_informacion/(2585:2585): Conectando a servidor
+[INFO] 15:58:26:866 log_informacion/(2585:2585): Enviando instrucciones
+[INFO] 15:58:26:866 log_informacion/(2585:2585): Finalizando programa
+[INFO] 15:58:50:693 log_informacion/(2619:2619): Instrucciones correctas
+[INFO] 15:58:50:693 log_informacion/(2619:2619): Conectando a servidor
+[INFO] 15:58:50:693 log_informacion/(2619:2619): Enviando instrucciones
+[INFO] 15:58:50:693 log_informacion/(2619:2619): Finalizando programa
+[INFO] 15:59:22:418 log_informacion/(2636:2636): Instrucciones correctas
+[INFO] 15:59:22:418 log_informacion/(2636:2636): Conectando a servidor
+[INFO] 15:59:22:418 log_informacion/(2636:2636): Enviando instrucciones
+[INFO] 15:59:22:419 log_informacion/(2636:2636): Finalizando programa
+[INFO] 15:59:37:921 log_informacion/(2669:2669): Instrucciones correctas
+[INFO] 15:59:37:921 log_informacion/(2669:2669): Conectando a servidor
+[INFO] 15:59:37:921 log_informacion/(2669:2669): Enviando instrucciones
+[INFO] 15:59:37:922 log_informacion/(2669:2669): Finalizando programa
+[INFO] 16:04:37:639 log_informacion/(2845:2845): Instrucciones correctas
+[INFO] 16:04:37:639 log_informacion/(2845:2845): Conectando a servidor
+[INFO] 16:04:37:639 log_informacion/(2845:2845): Enviando instrucciones
+[INFO] 16:04:37:640 log_informacion/(2845:2845): Finalizando programa
+[INFO] 16:07:12:120 log_informacion/(2967:2967): Instrucciones correctas
+[INFO] 16:07:12:120 log_informacion/(2967:2967): Conectando a servidor
+[INFO] 16:07:12:120 log_informacion/(2967:2967): Enviando instrucciones
+[INFO] 16:07:12:123 log_informacion/(2967:2967): Finalizando programa
+[INFO] 16:08:04:392 log_informacion/(3001:3001): Instrucciones correctas
+[INFO] 16:08:04:393 log_informacion/(3001:3001): Conectando a servidor
+[INFO] 16:08:04:394 log_informacion/(3001:3001): Enviando instrucciones
+[INFO] 16:08:04:394 log_informacion/(3001:3001): Finalizando programa
+[INFO] 16:08:21:528 log_informacion/(3033:3033): Instrucciones correctas
+[INFO] 16:08:21:531 log_informacion/(3033:3033): Conectando a servidor
+[INFO] 16:08:21:532 log_informacion/(3033:3033): Enviando instrucciones
+[INFO] 16:08:21:533 log_informacion/(3033:3033): Finalizando programa
+[INFO] 16:11:07:508 log_informacion/(3133:3133): Instrucciones correctas
+[INFO] 16:11:07:508 log_informacion/(3133:3133): Conectando a servidor
+[INFO] 16:11:07:508 log_informacion/(3133:3133): Enviando instrucciones
+[INFO] 16:11:07:508 log_informacion/(3133:3133): Finalizando programa
+[INFO] 16:13:45:607 log_informacion/(3251:3251): Instrucciones correctas
+[INFO] 16:13:45:607 log_informacion/(3251:3251): Conectando a servidor
+[INFO] 16:13:45:607 log_informacion/(3251:3251): Enviando instrucciones
+[INFO] 16:13:45:609 log_informacion/(3251:3251): Finalizando programa
+[INFO] 16:14:16:756 log_informacion/(3306:3306): Instrucciones correctas
+[INFO] 16:14:16:756 log_informacion/(3306:3306): Conectando a servidor
+[INFO] 16:14:16:756 log_informacion/(3306:3306): Enviando instrucciones
+[INFO] 16:14:16:756 log_informacion/(3306:3306): Finalizando programa
+[INFO] 16:14:41:112 log_informacion/(3346:3346): Instrucciones correctas
+[INFO] 16:14:41:112 log_informacion/(3346:3346): Conectando a servidor
+[INFO] 16:14:41:112 log_informacion/(3346:3346): Enviando instrucciones
+[INFO] 16:14:41:112 log_informacion/(3346:3346): Finalizando programa
+[INFO] 16:15:28:664 log_informacion/(3383:3383): Instrucciones correctas
+[INFO] 16:15:28:665 log_informacion/(3383:3383): Conectando a servidor
+[INFO] 16:15:28:665 log_informacion/(3383:3383): Enviando instrucciones
+[INFO] 16:15:28:665 log_informacion/(3383:3383): Finalizando programa
+[INFO] 16:16:03:207 log_informacion/(3415:3415): Instrucciones correctas
+[INFO] 16:16:03:207 log_informacion/(3415:3415): Conectando a servidor
+[INFO] 16:16:03:207 log_informacion/(3415:3415): Enviando instrucciones
+[INFO] 16:16:03:207 log_informacion/(3415:3415): Finalizando programa
+[INFO] 16:16:06:295 log_informacion/(3426:3426): Instrucciones correctas
+[INFO] 16:16:06:295 log_informacion/(3426:3426): Conectando a servidor
+[INFO] 16:16:06:295 log_informacion/(3426:3426): Enviando instrucciones
+[INFO] 16:16:06:295 log_informacion/(3426:3426): Finalizando programa
+[INFO] 16:16:20:553 log_informacion/(3458:3458): Instrucciones correctas
+[INFO] 16:16:20:553 log_informacion/(3458:3458): Conectando a servidor
+[INFO] 16:16:20:553 log_informacion/(3458:3458): Enviando instrucciones
+[INFO] 16:16:20:556 log_informacion/(3458:3458): Finalizando programa
+[INFO] 16:22:24:675 log_informacion/(3534:3534): Instrucciones correctas
+[INFO] 16:22:24:676 log_informacion/(3534:3534): Conectando a servidor
+[INFO] 16:22:24:676 log_informacion/(3534:3534): Enviando instrucciones
+[INFO] 16:22:24:676 log_informacion/(3534:3534): Finalizando programa
+[INFO] 16:22:49:242 log_informacion/(3592:3592): Instrucciones correctas
+[INFO] 16:22:49:242 log_informacion/(3592:3592): Conectando a servidor
+[INFO] 16:22:49:243 log_informacion/(3592:3592): Enviando instrucciones
+[INFO] 16:22:49:244 log_informacion/(3592:3592): Finalizando programa
+[INFO] 16:23:15:894 log_informacion/(3627:3627): Instrucciones correctas
+[INFO] 16:23:15:895 log_informacion/(3627:3627): Conectando a servidor
+[INFO] 16:23:15:897 log_informacion/(3627:3627): Enviando instrucciones
+[INFO] 16:23:15:897 log_informacion/(3627:3627): Finalizando programa
+[INFO] 16:23:22:447 log_informacion/(3643:3643): Instrucciones correctas
+[INFO] 16:23:22:448 log_informacion/(3643:3643): Conectando a servidor
+[INFO] 16:23:22:448 log_informacion/(3643:3643): Enviando instrucciones
+[INFO] 16:23:22:448 log_informacion/(3643:3643): Finalizando programa
+[INFO] 16:23:38:786 log_informacion/(3675:3675): Instrucciones correctas
+[INFO] 16:23:38:786 log_informacion/(3675:3675): Conectando a servidor
+[INFO] 16:23:38:786 log_informacion/(3675:3675): Enviando instrucciones
+[INFO] 16:23:38:786 log_informacion/(3675:3675): Finalizando programa
+[INFO] 16:23:51:961 log_informacion/(3707:3707): Instrucciones correctas
+[INFO] 16:23:51:961 log_informacion/(3707:3707): Conectando a servidor
+[INFO] 16:23:51:961 log_informacion/(3707:3707): Enviando instrucciones
+[INFO] 16:23:51:961 log_informacion/(3707:3707): Finalizando programa
+[INFO] 16:24:06:687 log_informacion/(3740:3740): Instrucciones correctas
+[INFO] 16:24:06:687 log_informacion/(3740:3740): Conectando a servidor
+[INFO] 16:24:06:687 log_informacion/(3740:3740): Enviando instrucciones
+[INFO] 16:24:06:688 log_informacion/(3740:3740): Finalizando programa
+[INFO] 16:24:52:525 log_informacion/(3786:3786): Instrucciones correctas
+[INFO] 16:24:52:526 log_informacion/(3786:3786): Conectando a servidor
+[INFO] 16:24:52:528 log_informacion/(3786:3786): Enviando instrucciones
+[INFO] 16:24:52:528 log_informacion/(3786:3786): Finalizando programa
+[INFO] 16:25:04:003 log_informacion/(3823:3823): Instrucciones correctas
+[INFO] 16:25:04:004 log_informacion/(3823:3823): Conectando a servidor
+[INFO] 16:25:04:004 log_informacion/(3823:3823): Enviando instrucciones
+[INFO] 16:25:04:005 log_informacion/(3823:3823): Finalizando programa
+[INFO] 16:25:23:940 log_informacion/(3860:3860): Instrucciones correctas
+[INFO] 16:25:23:940 log_informacion/(3860:3860): Conectando a servidor
+[INFO] 16:25:23:940 log_informacion/(3860:3860): Enviando instrucciones
+[INFO] 16:25:23:942 log_informacion/(3860:3860): Finalizando programa
+[INFO] 16:26:40:324 log_informacion/(3921:3921): Instrucciones correctas
+[INFO] 16:26:40:324 log_informacion/(3921:3921): Conectando a servidor
+[INFO] 16:26:40:325 log_informacion/(3921:3921): Enviando instrucciones
+[INFO] 16:26:40:326 log_informacion/(3921:3921): Finalizando programa
+[INFO] 16:27:19:554 log_informacion/(3958:3958): Instrucciones correctas
+[INFO] 16:27:19:564 log_informacion/(3958:3958): Conectando a servidor
+[INFO] 16:27:19:564 log_informacion/(3958:3958): Enviando instrucciones
+[INFO] 16:27:19:585 log_informacion/(3958:3958): Finalizando programa
+[INFO] 16:27:35:467 log_informacion/(3991:3991): Instrucciones correctas
+[INFO] 16:27:35:467 log_informacion/(3991:3991): Conectando a servidor
+[INFO] 16:27:35:467 log_informacion/(3991:3991): Enviando instrucciones
+[INFO] 16:27:35:467 log_informacion/(3991:3991): Finalizando programa
+[INFO] 16:27:40:773 log_informacion/(4007:4007): Instrucciones correctas
+[INFO] 16:27:40:774 log_informacion/(4007:4007): Conectando a servidor
+[INFO] 16:27:40:774 log_informacion/(4007:4007): Enviando instrucciones
+[INFO] 16:27:40:774 log_informacion/(4007:4007): Finalizando programa
+[INFO] 16:28:08:516 log_informacion/(4045:4045): Instrucciones correctas
+[INFO] 16:28:08:516 log_informacion/(4045:4045): Conectando a servidor
+[INFO] 16:28:08:517 log_informacion/(4045:4045): Enviando instrucciones
+[INFO] 16:28:08:517 log_informacion/(4045:4045): Finalizando programa
+[INFO] 16:28:37:452 log_informacion/(4115:4115): Instrucciones correctas
+[INFO] 16:28:37:452 log_informacion/(4115:4115): Conectando a servidor
+[INFO] 16:28:37:453 log_informacion/(4115:4115): Enviando instrucciones
+[INFO] 16:28:37:453 log_informacion/(4115:4115): Finalizando programa
+[INFO] 16:28:53:392 log_informacion/(4131:4131): Instrucciones correctas
+[INFO] 16:28:53:393 log_informacion/(4131:4131): Conectando a servidor
+[INFO] 16:28:53:393 log_informacion/(4131:4131): Enviando instrucciones
+[INFO] 16:28:53:393 log_informacion/(4131:4131): Finalizando programa
+[INFO] 16:28:56:691 log_informacion/(4142:4142): Instrucciones correctas
+[INFO] 16:28:56:692 log_informacion/(4142:4142): Conectando a servidor
+[INFO] 16:28:56:692 log_informacion/(4142:4142): Enviando instrucciones
+[INFO] 16:28:56:692 log_informacion/(4142:4142): Finalizando programa
+[INFO] 16:28:58:607 log_informacion/(4153:4153): Instrucciones correctas
+[INFO] 16:28:58:607 log_informacion/(4153:4153): Conectando a servidor
+[INFO] 16:28:58:607 log_informacion/(4153:4153): Enviando instrucciones
+[INFO] 16:28:58:607 log_informacion/(4153:4153): Finalizando programa
+[INFO] 16:29:59:060 log_informacion/(4230:4230): Instrucciones correctas
+[INFO] 16:29:59:060 log_informacion/(4230:4230): Conectando a servidor
+[INFO] 16:29:59:060 log_informacion/(4230:4230): Enviando instrucciones
+[INFO] 16:29:59:061 log_informacion/(4230:4230): Finalizando programa
+[INFO] 16:54:47:645 log_informacion/(4356:4356): Instrucciones correctas
+[INFO] 16:54:47:646 log_informacion/(4356:4356): Conectando a servidor
+[INFO] 16:54:47:646 log_informacion/(4356:4356): Enviando instrucciones
+[INFO] 16:54:47:647 log_informacion/(4356:4356): Finalizando programa
+[INFO] 16:55:36:088 log_informacion/(4392:4392): Instrucciones correctas
+[INFO] 17:05:34:698 log_informacion/(4783:4783): Instrucciones correctas
+[INFO] 17:05:34:698 log_informacion/(4783:4783): Conectando a servidor
+[INFO] 17:05:34:699 log_informacion/(4783:4783): Enviando instrucciones
+[INFO] 17:05:34:699 log_informacion/(4783:4783): Finalizando programa
+[INFO] 17:06:52:835 log_informacion/(4852:4852): Instrucciones correctas
+[INFO] 17:06:52:835 log_informacion/(4852:4852): Conectando a servidor
+[INFO] 17:06:52:836 log_informacion/(4852:4852): Enviando instrucciones
+[INFO] 17:06:52:836 log_informacion/(4852:4852): Finalizando programa
+[INFO] 17:07:37:098 log_informacion/(4887:4887): Instrucciones correctas
+[INFO] 17:07:37:098 log_informacion/(4887:4887): Conectando a servidor
+[INFO] 17:07:37:098 log_informacion/(4887:4887): Enviando instrucciones
+[INFO] 17:07:37:099 log_informacion/(4887:4887): Finalizando programa
+[INFO] 17:09:50:263 log_informacion/(4966:4966): Instrucciones correctas
+[INFO] 17:09:50:264 log_informacion/(4966:4966): Conectando a servidor
+[INFO] 17:09:50:264 log_informacion/(4966:4966): Enviando instrucciones
+[INFO] 17:09:50:264 log_informacion/(4966:4966): Finalizando programa
+[INFO] 17:11:47:366 log_informacion/(5019:5019): Instrucciones correctas
+[INFO] 17:11:47:369 log_informacion/(5019:5019): Conectando a servidor
+[INFO] 17:11:47:369 log_informacion/(5019:5019): Enviando instrucciones
+[INFO] 17:11:47:374 log_informacion/(5019:5019): Finalizando programa
+[INFO] 17:13:02:722 log_informacion/(5115:5115): Instrucciones correctas
+[INFO] 17:13:02:722 log_informacion/(5115:5115): Conectando a servidor
+[INFO] 17:13:02:722 log_informacion/(5115:5115): Enviando instrucciones
+[INFO] 17:13:02:722 log_informacion/(5115:5115): Finalizando programa
+[INFO] 17:16:01:405 log_informacion/(5301:5301): Instrucciones correctas
+[INFO] 17:16:01:405 log_informacion/(5301:5301): Conectando a servidor
+[INFO] 17:16:01:405 log_informacion/(5301:5301): Enviando instrucciones
+[INFO] 17:16:01:406 log_informacion/(5301:5301): Finalizando programa
+[INFO] 17:16:35:121 log_informacion/(5381:5381): Instrucciones correctas
+[INFO] 17:16:35:121 log_informacion/(5381:5381): Conectando a servidor
+[INFO] 17:16:35:121 log_informacion/(5381:5381): Enviando instrucciones
+[INFO] 17:16:35:122 log_informacion/(5381:5381): Finalizando programa
+[INFO] 17:17:23:550 log_informacion/(5442:5442): Instrucciones correctas
+[INFO] 17:17:23:550 log_informacion/(5442:5442): Conectando a servidor
+[INFO] 17:17:23:550 log_informacion/(5442:5442): Enviando instrucciones
+[INFO] 17:17:23:571 log_informacion/(5442:5442): Finalizando programa
+[INFO] 17:24:46:037 log_informacion/(5485:5485): Instrucciones correctas
+[INFO] 17:24:46:037 log_informacion/(5485:5485): Conectando a servidor
+[INFO] 17:24:46:038 log_informacion/(5485:5485): Enviando instrucciones
+[INFO] 17:24:46:039 log_informacion/(5485:5485): Finalizando programa
+[INFO] 17:24:54:759 log_informacion/(5520:5520): Instrucciones correctas
+[INFO] 17:24:54:759 log_informacion/(5520:5520): Conectando a servidor
+[INFO] 17:24:54:759 log_informacion/(5520:5520): Enviando instrucciones
+[INFO] 17:24:54:760 log_informacion/(5520:5520): Finalizando programa
+[INFO] 17:28:59:025 log_informacion/(5574:5574): Instrucciones correctas
+[INFO] 17:28:59:026 log_informacion/(5574:5574): Conectando a servidor
+[INFO] 17:28:59:026 log_informacion/(5574:5574): Enviando instrucciones
+[INFO] 17:28:59:042 log_informacion/(5574:5574): Finalizando programa
+[INFO] 17:31:54:264 log_informacion/(5645:5645): Instrucciones correctas
+[INFO] 17:31:54:269 log_informacion/(5645:5645): Conectando a servidor
+[INFO] 17:31:54:269 log_informacion/(5645:5645): Enviando instrucciones
+[INFO] 17:31:54:269 log_informacion/(5645:5645): Finalizando programa
+[INFO] 17:34:09:028 log_informacion/(5749:5749): Instrucciones correctas
+[INFO] 17:34:09:029 log_informacion/(5749:5749): Conectando a servidor
+[INFO] 17:34:09:029 log_informacion/(5749:5749): Enviando instrucciones
+[INFO] 17:34:09:029 log_informacion/(5749:5749): Finalizando programa
+[INFO] 17:35:49:742 log_informacion/(5821:5821): Instrucciones correctas
+[INFO] 17:35:49:742 log_informacion/(5821:5821): Conectando a servidor
+[INFO] 17:35:49:742 log_informacion/(5821:5821): Enviando instrucciones
+[INFO] 17:35:49:743 log_informacion/(5821:5821): Finalizando programa
+[INFO] 17:39:17:802 log_informacion/(6248:6248): Instrucciones correctas
+[INFO] 17:39:17:834 log_informacion/(6248:6248): Conectando a servidor
+[INFO] 17:39:17:834 log_informacion/(6248:6248): Enviando instrucciones
+[INFO] 17:39:17:834 log_informacion/(6248:6248): Finalizando programa
+[INFO] 17:44:38:245 log_informacion/(6488:6488): Instrucciones correctas
+[INFO] 17:44:38:245 log_informacion/(6488:6488): Conectando a servidor
+[INFO] 17:44:38:245 log_informacion/(6488:6488): Enviando instrucciones
+[INFO] 17:44:38:246 log_informacion/(6488:6488): Finalizando programa
+[INFO] 17:45:35:401 log_informacion/(6571:6571): Instrucciones correctas
+[INFO] 17:45:35:401 log_informacion/(6571:6571): Conectando a servidor
+[INFO] 17:45:35:406 log_informacion/(6571:6571): Enviando instrucciones
+[INFO] 17:45:35:406 log_informacion/(6571:6571): Finalizando programa
+[INFO] 17:48:36:964 log_informacion/(6776:6776): Instrucciones correctas
+[INFO] 17:48:36:967 log_informacion/(6776:6776): Conectando a servidor
+[INFO] 17:48:36:969 log_informacion/(6776:6776): Enviando instrucciones
+[INFO] 17:48:36:969 log_informacion/(6776:6776): Finalizando programa
+[INFO] 17:53:19:084 log_informacion/(7029:7029): Instrucciones correctas
+[INFO] 17:53:19:084 log_informacion/(7029:7029): Conectando a servidor
+[INFO] 17:53:19:084 log_informacion/(7029:7029): Enviando instrucciones
+[INFO] 17:53:19:085 log_informacion/(7029:7029): Finalizando programa
+[INFO] 17:53:55:300 log_informacion/(7070:7070): Instrucciones correctas
+[INFO] 17:53:55:301 log_informacion/(7070:7070): Conectando a servidor
+[INFO] 17:53:55:301 log_informacion/(7070:7070): Enviando instrucciones
+[INFO] 17:53:55:301 log_informacion/(7070:7070): Finalizando programa
+[INFO] 17:54:01:639 log_informacion/(7086:7086): Instrucciones correctas
+[INFO] 17:54:01:645 log_informacion/(7086:7086): Conectando a servidor
+[INFO] 17:54:01:646 log_informacion/(7086:7086): Enviando instrucciones
+[INFO] 17:54:01:646 log_informacion/(7086:7086): Finalizando programa
+[INFO] 17:54:18:396 log_informacion/(7123:7123): Instrucciones correctas
+[INFO] 17:54:18:396 log_informacion/(7123:7123): Conectando a servidor
+[INFO] 17:54:18:396 log_informacion/(7123:7123): Enviando instrucciones
+[INFO] 17:54:18:396 log_informacion/(7123:7123): Finalizando programa
+[INFO] 17:54:32:193 log_informacion/(7149:7149): Instrucciones correctas
+[INFO] 17:54:32:194 log_informacion/(7149:7149): Conectando a servidor
+[INFO] 17:54:32:195 log_informacion/(7149:7149): Enviando instrucciones
+[INFO] 17:54:32:195 log_informacion/(7149:7149): Finalizando programa
+[INFO] 17:54:40:638 log_informacion/(7181:7181): Instrucciones correctas
+[INFO] 17:54:40:639 log_informacion/(7181:7181): Conectando a servidor
+[INFO] 17:54:40:639 log_informacion/(7181:7181): Enviando instrucciones
+[INFO] 17:54:40:640 log_informacion/(7181:7181): Finalizando programa
+[INFO] 17:55:23:615 log_informacion/(7257:7257): Instrucciones correctas
+[INFO] 17:55:23:615 log_informacion/(7257:7257): Conectando a servidor
+[INFO] 17:55:23:645 log_informacion/(7257:7257): Enviando instrucciones
+[INFO] 17:55:23:646 log_informacion/(7257:7257): Finalizando programa
+[INFO] 18:01:17:616 log_informacion/(7416:7416): Instrucciones correctas
+[INFO] 18:01:17:617 log_informacion/(7416:7416): Conectando a servidor
+[INFO] 18:01:17:617 log_informacion/(7416:7416): Enviando instrucciones
+[INFO] 18:01:17:618 log_informacion/(7416:7416): Finalizando programa
+[INFO] 18:02:19:556 log_informacion/(7491:7491): Instrucciones correctas
+[INFO] 18:02:19:557 log_informacion/(7491:7491): Conectando a servidor
+[INFO] 18:02:19:557 log_informacion/(7491:7491): Enviando instrucciones
+[INFO] 18:02:19:558 log_informacion/(7491:7491): Finalizando programa
+[INFO] 18:05:41:826 log_informacion/(7610:7610): Instrucciones correctas
+[INFO] 18:05:41:826 log_informacion/(7610:7610): Conectando a servidor
+[INFO] 18:05:41:827 log_informacion/(7610:7610): Enviando instrucciones
+[INFO] 18:05:41:827 log_informacion/(7610:7610): Finalizando programa
+[INFO] 18:08:59:582 log_informacion/(7724:7724): Instrucciones correctas
+[INFO] 18:08:59:583 log_informacion/(7724:7724): Conectando a servidor
+[INFO] 18:08:59:583 log_informacion/(7724:7724): Enviando instrucciones
+[INFO] 18:08:59:583 log_informacion/(7724:7724): Finalizando programa
+[INFO] 18:12:39:179 log_informacion/(7851:7851): Instrucciones correctas
+[INFO] 18:12:39:179 log_informacion/(7851:7851): Conectando a servidor
+[INFO] 18:12:39:180 log_informacion/(7851:7851): Enviando instrucciones
+[INFO] 18:12:39:180 log_informacion/(7851:7851): Finalizando programa
+[INFO] 18:13:09:602 log_informacion/(7927:7927): Instrucciones correctas
+[INFO] 18:13:09:602 log_informacion/(7927:7927): Conectando a servidor
+[INFO] 18:13:09:603 log_informacion/(7927:7927): Enviando instrucciones
+[INFO] 18:13:09:603 log_informacion/(7927:7927): Finalizando programa
+[INFO] 18:23:10:801 log_informacion/(8281:8281): Instrucciones correctas
+[INFO] 18:23:10:801 log_informacion/(8281:8281): Conectando a servidor
+[INFO] 18:23:10:802 log_informacion/(8281:8281): Enviando instrucciones
+[INFO] 18:23:10:802 log_informacion/(8281:8281): Finalizando programa
+[INFO] 18:24:26:553 log_informacion/(8405:8405): Instrucciones correctas
+[INFO] 18:24:26:553 log_informacion/(8405:8405): Conectando a servidor
+[INFO] 18:24:26:554 log_informacion/(8405:8405): Enviando instrucciones
+[INFO] 18:24:26:556 log_informacion/(8405:8405): Finalizando programa
+[INFO] 18:27:41:923 log_informacion/(8551:8551): Instrucciones correctas
+[INFO] 18:27:41:923 log_informacion/(8551:8551): Conectando a servidor
+[INFO] 18:27:41:923 log_informacion/(8551:8551): Enviando instrucciones
+[INFO] 18:27:41:924 log_informacion/(8551:8551): Finalizando programa
+[INFO] 18:28:44:441 log_informacion/(8698:8698): Instrucciones correctas
+[INFO] 18:28:44:442 log_informacion/(8698:8698): Conectando a servidor
+[INFO] 18:28:44:442 log_informacion/(8698:8698): Enviando instrucciones
+[INFO] 18:28:44:443 log_informacion/(8698:8698): Finalizando programa
+[INFO] 18:29:44:623 log_informacion/(8772:8772): Instrucciones correctas
+[INFO] 18:29:44:624 log_informacion/(8772:8772): Conectando a servidor
+[INFO] 18:29:44:624 log_informacion/(8772:8772): Enviando instrucciones
+[INFO] 18:29:44:625 log_informacion/(8772:8772): Finalizando programa
+[INFO] 18:30:04:554 log_informacion/(8842:8842): Instrucciones correctas
+[INFO] 18:30:04:554 log_informacion/(8842:8842): Conectando a servidor
+[INFO] 18:30:04:557 log_informacion/(8842:8842): Enviando instrucciones
+[INFO] 18:30:04:557 log_informacion/(8842:8842): Finalizando programa
+[INFO] 18:33:10:240 log_informacion/(9000:9000): Instrucciones correctas
+[INFO] 18:33:10:241 log_informacion/(9000:9000): Conectando a servidor
+[INFO] 18:33:10:241 log_informacion/(9000:9000): Enviando instrucciones
+[INFO] 18:33:10:241 log_informacion/(9000:9000): Finalizando programa
+[INFO] 18:33:44:505 log_informacion/(9059:9059): Instrucciones correctas
+[INFO] 18:33:44:505 log_informacion/(9059:9059): Conectando a servidor
+[INFO] 18:33:44:505 log_informacion/(9059:9059): Enviando instrucciones
+[INFO] 18:33:44:506 log_informacion/(9059:9059): Finalizando programa
+[INFO] 18:35:13:341 log_informacion/(9157:9157): Instrucciones correctas
+[INFO] 18:35:13:341 log_informacion/(9157:9157): Conectando a servidor
+[INFO] 18:35:13:342 log_informacion/(9157:9157): Enviando instrucciones
+[INFO] 18:35:13:343 log_informacion/(9157:9157): Finalizando programa
+[INFO] 18:35:50:893 log_informacion/(9224:9224): Instrucciones correctas
+[INFO] 18:35:50:894 log_informacion/(9224:9224): Conectando a servidor
+[INFO] 18:35:50:894 log_informacion/(9224:9224): Enviando instrucciones
+[INFO] 18:35:50:894 log_informacion/(9224:9224): Finalizando programa
+[INFO] 18:36:26:474 log_informacion/(9311:9311): Instrucciones correctas
+[INFO] 18:36:26:474 log_informacion/(9311:9311): Conectando a servidor
+[INFO] 18:36:26:475 log_informacion/(9311:9311): Enviando instrucciones
+[INFO] 18:36:26:475 log_informacion/(9311:9311): Finalizando programa
+[INFO] 18:37:31:187 log_informacion/(9415:9415): Instrucciones correctas
+[INFO] 18:37:31:187 log_informacion/(9415:9415): Conectando a servidor
+[INFO] 18:37:31:187 log_informacion/(9415:9415): Enviando instrucciones
+[INFO] 18:37:31:189 log_informacion/(9415:9415): Finalizando programa
+[INFO] 18:50:48:817 log_informacion/(9503:9503): Instrucciones correctas
+[INFO] 18:50:48:817 log_informacion/(9503:9503): Conectando a servidor
+[INFO] 18:50:48:817 log_informacion/(9503:9503): Enviando instrucciones
+[INFO] 18:50:48:818 log_informacion/(9503:9503): Finalizando programa
+[INFO] 19:04:46:805 log_informacion/(9617:9617): Instrucciones correctas
+[INFO] 19:04:46:805 log_informacion/(9617:9617): Conectando a servidor
+[INFO] 19:04:46:806 log_informacion/(9617:9617): Enviando instrucciones
+[INFO] 19:04:46:807 log_informacion/(9617:9617): Finalizando programa
+[INFO] 19:05:50:771 log_informacion/(9660:9660): Instrucciones correctas
+[INFO] 19:05:50:771 log_informacion/(9660:9660): Conectando a servidor
+[INFO] 19:05:50:772 log_informacion/(9660:9660): Enviando instrucciones
+[INFO] 19:05:50:773 log_informacion/(9660:9660): Finalizando programa
+[INFO] 19:06:52:213 log_informacion/(9696:9696): Instrucciones correctas
+[INFO] 19:06:52:214 log_informacion/(9696:9696): Conectando a servidor
+[INFO] 19:06:52:214 log_informacion/(9696:9696): Enviando instrucciones
+[INFO] 19:06:52:215 log_informacion/(9696:9696): Finalizando programa
+[INFO] 19:14:31:161 log_informacion/(9796:9796): Instrucciones correctas
+[INFO] 19:14:31:162 log_informacion/(9796:9796): Conectando a servidor
+[INFO] 19:14:31:165 log_informacion/(9796:9796): Enviando instrucciones
+[INFO] 19:14:31:165 log_informacion/(9796:9796): Finalizando programa
+[INFO] 19:19:00:370 log_informacion/(9949:9949): Instrucciones correctas
+[INFO] 19:19:00:370 log_informacion/(9949:9949): Conectando a servidor
+[INFO] 19:19:00:370 log_informacion/(9949:9949): Enviando instrucciones
+[INFO] 19:19:00:371 log_informacion/(9949:9949): Finalizando programa
+[INFO] 19:19:41:959 log_informacion/(10049:10049): Instrucciones correctas
+[INFO] 19:19:41:959 log_informacion/(10049:10049): Conectando a servidor
+[INFO] 19:19:41:960 log_informacion/(10049:10049): Enviando instrucciones
+[INFO] 19:19:41:960 log_informacion/(10049:10049): Finalizando programa
+[INFO] 19:20:35:311 log_informacion/(10133:10133): Instrucciones correctas
+[INFO] 19:20:35:312 log_informacion/(10133:10133): Conectando a servidor
+[INFO] 19:20:35:312 log_informacion/(10133:10133): Enviando instrucciones
+[INFO] 19:20:35:312 log_informacion/(10133:10133): Finalizando programa
+[INFO] 19:20:54:239 log_informacion/(10171:10171): Instrucciones correctas
+[INFO] 19:20:54:240 log_informacion/(10171:10171): Conectando a servidor
+[INFO] 19:20:54:240 log_informacion/(10171:10171): Enviando instrucciones
+[INFO] 19:20:54:243 log_informacion/(10171:10171): Finalizando programa
+[INFO] 19:21:19:238 log_informacion/(10203:10203): Instrucciones correctas
+[INFO] 19:21:19:238 log_informacion/(10203:10203): Conectando a servidor
+[INFO] 19:21:19:239 log_informacion/(10203:10203): Enviando instrucciones
+[INFO] 19:21:19:239 log_informacion/(10203:10203): Finalizando programa
+[INFO] 19:21:49:925 log_informacion/(10224:10224): Instrucciones correctas
+[INFO] 19:21:49:925 log_informacion/(10224:10224): Conectando a servidor
+[INFO] 19:21:49:926 log_informacion/(10224:10224): Enviando instrucciones
+[INFO] 19:21:49:926 log_informacion/(10224:10224): Finalizando programa
+[INFO] 19:22:07:322 log_informacion/(10258:10258): Instrucciones correctas
+[INFO] 19:22:07:322 log_informacion/(10258:10258): Conectando a servidor
+[INFO] 19:22:07:322 log_informacion/(10258:10258): Enviando instrucciones
+[INFO] 19:22:07:324 log_informacion/(10258:10258): Finalizando programa
+[INFO] 19:22:52:434 log_informacion/(10340:10340): Instrucciones correctas
+[INFO] 19:22:52:438 log_informacion/(10340:10340): Conectando a servidor
+[INFO] 19:22:52:439 log_informacion/(10340:10340): Enviando instrucciones
+[INFO] 19:22:52:439 log_informacion/(10340:10340): Finalizando programa
+[INFO] 19:23:04:063 log_informacion/(10372:10372): Instrucciones correctas
+[INFO] 19:23:04:063 log_informacion/(10372:10372): Conectando a servidor
+[INFO] 19:23:04:063 log_informacion/(10372:10372): Enviando instrucciones
+[INFO] 19:23:04:063 log_informacion/(10372:10372): Finalizando programa
+[INFO] 19:23:23:877 log_informacion/(10404:10404): Instrucciones correctas
+[INFO] 19:23:23:877 log_informacion/(10404:10404): Conectando a servidor
+[INFO] 19:23:23:877 log_informacion/(10404:10404): Enviando instrucciones
+[INFO] 19:23:23:881 log_informacion/(10404:10404): Finalizando programa
+[INFO] 19:35:04:645 log_informacion/(10511:10511): Instrucciones correctas
+[INFO] 19:35:04:646 log_informacion/(10511:10511): Conectando a servidor
+[INFO] 19:35:04:646 log_informacion/(10511:10511): Enviando instrucciones
+[INFO] 19:35:04:646 log_informacion/(10511:10511): Finalizando programa
+[INFO] 19:36:32:084 log_informacion/(10650:10650): Instrucciones correctas
+[INFO] 19:36:32:084 log_informacion/(10650:10650): Conectando a servidor
+[INFO] 19:36:32:084 log_informacion/(10650:10650): Enviando instrucciones
+[INFO] 19:36:32:085 log_informacion/(10650:10650): Finalizando programa
+[INFO] 19:37:07:927 log_informacion/(10731:10731): Instrucciones correctas
+[INFO] 19:37:07:928 log_informacion/(10731:10731): Conectando a servidor
+[INFO] 19:37:07:928 log_informacion/(10731:10731): Enviando instrucciones
+[INFO] 19:37:07:929 log_informacion/(10731:10731): Finalizando programa
+[INFO] 19:37:49:866 log_informacion/(10809:10809): Instrucciones correctas
+[INFO] 19:37:49:867 log_informacion/(10809:10809): Conectando a servidor
+[INFO] 19:37:49:867 log_informacion/(10809:10809): Enviando instrucciones
+[INFO] 19:37:49:867 log_informacion/(10809:10809): Finalizando programa
+[INFO] 19:41:17:980 log_informacion/(10948:10948): Instrucciones correctas
+[INFO] 19:41:17:980 log_informacion/(10948:10948): Conectando a servidor
+[INFO] 19:41:17:981 log_informacion/(10948:10948): Enviando instrucciones
+[INFO] 19:41:17:982 log_informacion/(10948:10948): Finalizando programa
+[INFO] 19:43:37:429 log_informacion/(11136:11136): Instrucciones correctas
+[INFO] 19:43:37:431 log_informacion/(11136:11136): Conectando a servidor
+[INFO] 19:43:37:462 log_informacion/(11136:11136): Enviando instrucciones
+[INFO] 19:43:37:462 log_informacion/(11136:11136): Finalizando programa
+[INFO] 19:44:49:072 log_informacion/(11251:11251): Instrucciones correctas
+[INFO] 19:44:49:089 log_informacion/(11251:11251): Conectando a servidor
+[INFO] 19:44:49:089 log_informacion/(11251:11251): Enviando instrucciones
+[INFO] 19:44:49:090 log_informacion/(11251:11251): Finalizando programa
+[INFO] 19:50:40:349 log_informacion/(11395:11395): Instrucciones correctas
+[INFO] 19:50:40:350 log_informacion/(11395:11395): Conectando a servidor
+[INFO] 19:50:40:350 log_informacion/(11395:11395): Enviando instrucciones
+[INFO] 19:51:20:003 log_informacion/(11454:11454): Instrucciones correctas
+[INFO] 19:51:20:003 log_informacion/(11454:11454): Conectando a servidor
+[INFO] 19:51:20:003 log_informacion/(11454:11454): Enviando instrucciones
+[INFO] 19:51:20:004 log_informacion/(11454:11454): Finalizando programa
+[INFO] 19:55:50:553 log_informacion/(11569:11569): Instrucciones correctas
+[INFO] 19:55:50:553 log_informacion/(11569:11569): Conectando a servidor
+[INFO] 19:55:50:553 log_informacion/(11569:11569): Enviando instrucciones
+[INFO] 19:55:50:554 log_informacion/(11569:11569): Finalizando programa
+[INFO] 19:58:53:603 log_informacion/(11652:11652): Instrucciones correctas
+[INFO] 19:58:53:619 log_informacion/(11652:11652): Conectando a servidor
+[INFO] 19:58:53:623 log_informacion/(11652:11652): Enviando instrucciones
+[INFO] 19:58:53:623 log_informacion/(11652:11652): Finalizando programa
+[INFO] 20:00:04:949 log_informacion/(11765:11765): Instrucciones correctas
+[INFO] 20:00:04:949 log_informacion/(11765:11765): Conectando a servidor
+[INFO] 20:00:04:949 log_informacion/(11765:11765): Enviando instrucciones
+[INFO] 20:00:04:958 log_informacion/(11765:11765): Finalizando programa
+[INFO] 20:00:31:266 log_informacion/(11834:11834): Instrucciones correctas
+[INFO] 20:00:31:267 log_informacion/(11834:11834): Conectando a servidor
+[INFO] 20:00:31:271 log_informacion/(11834:11834): Enviando instrucciones
+[INFO] 20:00:31:271 log_informacion/(11834:11834): Finalizando programa
+[INFO] 20:04:27:204 log_informacion/(12034:12034): Instrucciones correctas
+[INFO] 20:04:27:205 log_informacion/(12034:12034): Conectando a servidor
+[INFO] 20:04:27:207 log_informacion/(12034:12034): Enviando instrucciones
+[INFO] 20:04:27:207 log_informacion/(12034:12034): Finalizando programa
+[INFO] 20:06:05:517 log_informacion/(12179:12179): Instrucciones correctas
+[INFO] 20:06:05:517 log_informacion/(12179:12179): Conectando a servidor
+[INFO] 20:06:05:518 log_informacion/(12179:12179): Enviando instrucciones
+[INFO] 20:06:05:519 log_informacion/(12179:12179): Finalizando programa
+[INFO] 20:06:34:657 log_informacion/(12260:12260): Instrucciones correctas
+[INFO] 20:06:34:658 log_informacion/(12260:12260): Conectando a servidor
+[INFO] 20:06:34:658 log_informacion/(12260:12260): Enviando instrucciones
+[INFO] 20:06:34:658 log_informacion/(12260:12260): Finalizando programa
+[INFO] 20:06:51:438 log_informacion/(12297:12297): Instrucciones correctas
+[INFO] 20:06:51:438 log_informacion/(12297:12297): Conectando a servidor
+[INFO] 20:06:51:439 log_informacion/(12297:12297): Enviando instrucciones
+[INFO] 20:06:51:439 log_informacion/(12297:12297): Finalizando programa
+[INFO] 20:07:03:813 log_informacion/(12329:12329): Instrucciones correctas
+[INFO] 20:07:03:814 log_informacion/(12329:12329): Conectando a servidor
+[INFO] 20:07:03:814 log_informacion/(12329:12329): Enviando instrucciones
+[INFO] 20:07:03:814 log_informacion/(12329:12329): Finalizando programa
+[INFO] 20:07:19:076 log_informacion/(12368:12368): Instrucciones correctas
+[INFO] 20:07:19:076 log_informacion/(12368:12368): Conectando a servidor
+[INFO] 20:07:19:077 log_informacion/(12368:12368): Enviando instrucciones
+[INFO] 20:07:19:079 log_informacion/(12368:12368): Finalizando programa
+[INFO] 20:07:51:140 log_informacion/(12400:12400): Instrucciones correctas
+[INFO] 20:07:51:140 log_informacion/(12400:12400): Conectando a servidor
+[INFO] 20:07:51:141 log_informacion/(12400:12400): Enviando instrucciones
+[INFO] 20:07:51:141 log_informacion/(12400:12400): Finalizando programa
+[INFO] 20:07:58:119 log_informacion/(12416:12416): Instrucciones correctas
+[INFO] 20:07:58:120 log_informacion/(12416:12416): Conectando a servidor
+[INFO] 20:07:58:121 log_informacion/(12416:12416): Enviando instrucciones
+[INFO] 20:07:58:121 log_informacion/(12416:12416): Finalizando programa
+[INFO] 20:08:19:527 log_informacion/(12450:12450): Instrucciones correctas
+[INFO] 20:08:19:528 log_informacion/(12450:12450): Conectando a servidor
+[INFO] 20:08:19:528 log_informacion/(12450:12450): Enviando instrucciones
+[INFO] 20:08:19:528 log_informacion/(12450:12450): Finalizando programa
+[INFO] 20:08:44:932 log_informacion/(12482:12482): Instrucciones correctas
+[INFO] 20:08:44:935 log_informacion/(12482:12482): Conectando a servidor
+[INFO] 20:08:44:935 log_informacion/(12482:12482): Enviando instrucciones
+[INFO] 20:08:44:937 log_informacion/(12482:12482): Finalizando programa
+[INFO] 20:11:15:141 log_informacion/(12533:12533): Instrucciones correctas
+[INFO] 20:11:15:163 log_informacion/(12533:12533): Conectando a servidor
+[INFO] 20:11:15:163 log_informacion/(12533:12533): Enviando instrucciones
+[INFO] 20:11:15:163 log_informacion/(12533:12533): Finalizando programa
+[INFO] 01:14:41:623 log_informacion/(13807:13807): Instrucciones correctas
+[INFO] 01:14:45:085 log_informacion/(13807:13807): Conectando a servidor
+[INFO] 23:22:23:454 log_informacion/(4449:4449): Instrucciones correctas
+[INFO] 23:22:23:474 log_informacion/(4449:4449): Conectando a servidor
+[INFO] 23:22:38:375 log_informacion/(4464:4464): Instrucciones correctas
+[INFO] 23:22:38:377 log_informacion/(4464:4464): Conectando a servidor
+[INFO] 23:23:42:853 log_informacion/(4481:4481): Instrucciones correctas
+[INFO] 23:23:42:853 log_informacion/(4481:4481): Conectando a servidor
+[INFO] 23:24:37:679 log_informacion/(4449:4449): Enviando instrucciones
+[INFO] 23:24:37:679 log_informacion/(4481:4481): Enviando instrucciones
+[INFO] 23:24:37:679 log_informacion/(4449:4449): Finalizando programa
+[INFO] 23:24:37:679 log_informacion/(4481:4481): Finalizando programa
+[INFO] 23:27:25:778 log_informacion/(4544:4544): Instrucciones correctas
+[INFO] 23:27:25:778 log_informacion/(4544:4544): Conectando a servidor
+[INFO] 23:27:25:779 log_informacion/(4544:4544): Enviando instrucciones
+[INFO] 23:27:25:779 log_informacion/(4544:4544): Finalizando programa
+[INFO] 23:27:49:526 log_informacion/(4602:4602): Instrucciones correctas
+[INFO] 23:27:49:526 log_informacion/(4602:4602): Conectando a servidor
+[INFO] 23:30:59:415 log_informacion/(4648:4648): Instrucciones correctas
+[INFO] 23:30:59:415 log_informacion/(4648:4648): Conectando a servidor
+[INFO] 23:32:42:937 log_informacion/(4719:4719): Instrucciones correctas
+[INFO] 23:32:42:937 log_informacion/(4719:4719): Conectando a servidor
+[INFO] 23:33:08:556 log_informacion/(4734:4734): Instrucciones correctas
+[INFO] 23:33:08:557 log_informacion/(4734:4734): Conectando a servidor
+[INFO] 23:33:16:485 log_informacion/(4734:4734): Enviando instrucciones
+[INFO] 23:33:16:485 log_informacion/(4734:4734): Finalizando programa
+[INFO] 23:34:32:442 log_informacion/(4778:4778): Instrucciones correctas
+[INFO] 23:34:32:459 log_informacion/(4778:4778): Conectando a servidor
+[INFO] 23:34:57:787 log_informacion/(4856:4856): Instrucciones correctas
+[INFO] 23:34:57:787 log_informacion/(4856:4856): Conectando a servidor
+[INFO] 23:34:57:792 log_informacion/(4856:4856): Enviando instrucciones
+[INFO] 23:34:57:793 log_informacion/(4856:4856): Finalizando programa
+[INFO] 23:39:07:576 log_informacion/(4906:4906): Instrucciones correctas
+[INFO] 23:39:07:576 log_informacion/(4906:4906): Conectando a servidor
+[INFO] 23:39:07:578 log_informacion/(4906:4906): Enviando instrucciones
+[INFO] 23:39:07:578 log_informacion/(4906:4906): Finalizando programa
+[INFO] 23:39:10:751 log_informacion/(4922:4922): Instrucciones correctas
+[INFO] 23:39:10:751 log_informacion/(4922:4922): Conectando a servidor
+[INFO] 23:39:10:752 log_informacion/(4922:4922): Enviando instrucciones
+[INFO] 23:39:10:752 log_informacion/(4922:4922): Finalizando programa
+[INFO] 23:39:33:903 log_informacion/(4958:4958): Instrucciones correctas
+[INFO] 23:39:33:904 log_informacion/(4958:4958): Conectando a servidor
+[INFO] 23:39:33:905 log_informacion/(4958:4958): Enviando instrucciones
+[INFO] 23:39:33:905 log_informacion/(4958:4958): Finalizando programa
+[INFO] 23:39:43:964 log_informacion/(4978:4978): Instrucciones correctas
+[INFO] 23:39:43:965 log_informacion/(4978:4978): Conectando a servidor
+[INFO] 23:39:43:965 log_informacion/(4978:4978): Enviando instrucciones
+[INFO] 23:39:43:965 log_informacion/(4978:4978): Finalizando programa
+[INFO] 23:39:49:447 log_informacion/(4993:4993): Instrucciones correctas
+[INFO] 23:39:49:447 log_informacion/(4993:4993): Conectando a servidor
+[INFO] 23:39:49:448 log_informacion/(4993:4993): Enviando instrucciones
+[INFO] 23:39:49:448 log_informacion/(4993:4993): Finalizando programa
+[INFO] 23:51:52:842 log_informacion/(5031:5031): Instrucciones correctas
+[INFO] 23:51:52:856 log_informacion/(5031:5031): Conectando a servidor
+[INFO] 23:51:52:857 log_informacion/(5031:5031): Enviando instrucciones
+[INFO] 23:51:52:857 log_informacion/(5031:5031): Finalizando programa
+[INFO] 23:52:07:266 log_informacion/(5081:5081): Instrucciones correctas
+[INFO] 23:52:07:267 log_informacion/(5081:5081): Conectando a servidor
+[INFO] 23:52:07:269 log_informacion/(5081:5081): Enviando instrucciones
+[INFO] 23:52:07:269 log_informacion/(5081:5081): Finalizando programa
+[INFO] 23:52:10:084 log_informacion/(5091:5091): Instrucciones correctas
+[INFO] 23:52:10:084 log_informacion/(5091:5091): Conectando a servidor
+[INFO] 23:52:10:085 log_informacion/(5091:5091): Enviando instrucciones
+[INFO] 23:52:10:086 log_informacion/(5091:5091): Finalizando programa
+[INFO] 23:55:27:699 log_informacion/(5149:5149): Instrucciones correctas
+[INFO] 23:55:27:700 log_informacion/(5149:5149): Conectando a servidor
+[INFO] 23:55:27:700 log_informacion/(5149:5149): Enviando instrucciones
+[INFO] 23:55:27:700 log_informacion/(5149:5149): Finalizando programa
+[INFO] 01:46:29:669 log_informacion/(5686:5686): Instrucciones correctas
+[INFO] 01:46:29:669 log_informacion/(5686:5686): Conectando a servidor
+[INFO] 01:46:29:669 log_informacion/(5686:5686): Enviando instrucciones
+[INFO] 01:46:29:669 log_informacion/(5686:5686): Finalizando programa
+[INFO] 01:48:39:685 log_informacion/(5729:5729): Instrucciones correctas
+[INFO] 01:48:39:685 log_informacion/(5729:5729): Conectando a servidor
+[INFO] 01:48:39:686 log_informacion/(5729:5729): Enviando instrucciones
+[INFO] 01:48:39:686 log_informacion/(5729:5729): Finalizando programa
+[INFO] 18:18:04:153 log_informacion/(6105:6105): Instrucciones correctas
+[INFO] 18:18:04:153 log_informacion/(6105:6105): Conectando a servidor
+[INFO] 18:18:04:154 log_informacion/(6105:6105): Enviando instrucciones
+[INFO] 18:18:04:154 log_informacion/(6105:6105): Finalizando programa
+[INFO] 18:18:17:473 log_informacion/(6120:6120): Instrucciones correctas
+[INFO] 18:18:17:474 log_informacion/(6120:6120): Conectando a servidor
+[INFO] 18:18:17:474 log_informacion/(6120:6120): Enviando instrucciones
+[INFO] 18:18:17:474 log_informacion/(6120:6120): Finalizando programa
+[INFO] 23:37:41:044 log_informacion/(8048:8048): Instrucciones correctas
+[INFO] 23:37:41:044 log_informacion/(8048:8048): Conectando a servidor
+[INFO] 23:37:41:044 log_informacion/(8048:8048): Enviando instrucciones
+[INFO] 23:37:41:045 log_informacion/(8048:8048): Finalizando programa
+[INFO] 01:34:33:929 log_informacion/(9866:9866): Instrucciones correctas
+[INFO] 01:34:33:929 log_informacion/(9866:9866): Conectando a servidor
+[INFO] 01:34:33:930 log_informacion/(9866:9866): Enviando instrucciones
+[INFO] 01:34:33:930 log_informacion/(9866:9866): Finalizando programa
+[INFO] 23:48:01:450 log_informacion/(10614:10614): Instrucciones correctas
+[INFO] 23:48:01:462 log_informacion/(10614:10614): Conectando a servidor
+[INFO] 23:48:01:462 log_informacion/(10614:10614): Enviando instrucciones
+[INFO] 23:48:01:462 log_informacion/(10614:10614): Finalizando programa
+[INFO] 23:55:09:334 log_informacion/(10769:10769): Instrucciones correctas
+[INFO] 23:55:09:340 log_informacion/(10769:10769): Conectando a servidor
+[INFO] 23:55:09:345 log_informacion/(10769:10769): Enviando instrucciones
+[INFO] 23:55:09:348 log_informacion/(10769:10769): Finalizando programa
+[INFO] 23:55:41:595 log_informacion/(10815:10815): Instrucciones correctas
+[INFO] 23:55:41:595 log_informacion/(10815:10815): Conectando a servidor
+[INFO] 23:55:41:596 log_informacion/(10815:10815): Enviando instrucciones
+[INFO] 23:55:41:596 log_informacion/(10815:10815): Finalizando programa
+[INFO] 00:05:28:913 log_informacion/(11009:11009): Instrucciones correctas
+[INFO] 00:05:28:913 log_informacion/(11009:11009): Conectando a servidor
+[INFO] 00:05:28:914 log_informacion/(11009:11009): Enviando instrucciones
+[INFO] 00:05:28:914 log_informacion/(11009:11009): Finalizando programa
+[INFO] 00:19:41:682 log_informacion/(11207:11207): Instrucciones correctas
+[INFO] 00:19:41:683 log_informacion/(11207:11207): Conectando a servidor
+[INFO] 00:19:41:683 log_informacion/(11207:11207): Enviando instrucciones
+[INFO] 00:19:41:683 log_informacion/(11207:11207): Finalizando programa
+[INFO] 00:22:09:197 log_informacion/(11305:11305): Instrucciones correctas
+[INFO] 00:22:09:198 log_informacion/(11305:11305): Conectando a servidor
+[INFO] 00:22:09:203 log_informacion/(11305:11305): Enviando instrucciones
+[INFO] 00:22:09:204 log_informacion/(11305:11305): Finalizando programa
+[INFO] 00:22:33:240 log_informacion/(11388:11388): Instrucciones correctas
+[INFO] 00:22:33:241 log_informacion/(11388:11388): Conectando a servidor
+[INFO] 00:22:33:241 log_informacion/(11388:11388): Enviando instrucciones
+[INFO] 00:22:33:241 log_informacion/(11388:11388): Finalizando programa
+[INFO] 00:34:25:539 log_informacion/(11605:11605): Instrucciones correctas
+[INFO] 00:34:25:539 log_informacion/(11605:11605): Conectando a servidor
+[INFO] 00:34:25:547 log_informacion/(11605:11605): Enviando instrucciones
+[INFO] 00:34:25:547 log_informacion/(11605:11605): Finalizando programa
+[INFO] 01:23:37:774 log_informacion/(12306:12306): Instrucciones correctas
+[INFO] 01:23:37:806 log_informacion/(12306:12306): Conectando a servidor
+[INFO] 01:23:37:806 log_informacion/(12306:12306): Enviando instrucciones
+[INFO] 01:23:37:809 log_informacion/(12306:12306): Finalizando programa
+[INFO] 01:24:09:598 log_informacion/(12357:12357): Instrucciones correctas
+[INFO] 01:24:09:598 log_informacion/(12357:12357): Conectando a servidor
+[INFO] 01:24:09:598 log_informacion/(12357:12357): Enviando instrucciones
+[INFO] 01:24:09:598 log_informacion/(12357:12357): Finalizando programa
+[INFO] 01:24:32:474 log_informacion/(12403:12403): Instrucciones correctas
+[INFO] 01:24:32:494 log_informacion/(12403:12403): Conectando a servidor
+[INFO] 01:24:32:495 log_informacion/(12403:12403): Enviando instrucciones
+[INFO] 01:24:32:495 log_informacion/(12403:12403): Finalizando programa
+[INFO] 01:26:12:526 log_informacion/(12482:12482): Instrucciones correctas
+[INFO] 01:26:12:529 log_informacion/(12482:12482): Conectando a servidor
+[INFO] 01:26:12:532 log_informacion/(12482:12482): Enviando instrucciones
+[INFO] 01:26:12:537 log_informacion/(12482:12482): Finalizando programa
+[INFO] 01:29:22:529 log_informacion/(12567:12567): Instrucciones correctas
+[INFO] 01:29:22:529 log_informacion/(12567:12567): Conectando a servidor
+[INFO] 01:29:22:530 log_informacion/(12567:12567): Enviando instrucciones
+[INFO] 01:29:22:530 log_informacion/(12567:12567): Finalizando programa
+[INFO] 01:30:11:030 log_informacion/(12640:12640): Instrucciones correctas
+[INFO] 01:30:11:030 log_informacion/(12640:12640): Conectando a servidor
+[INFO] 01:30:11:033 log_informacion/(12640:12640): Enviando instrucciones
+[INFO] 01:30:11:033 log_informacion/(12640:12640): Finalizando programa
+[INFO] 01:33:05:055 log_informacion/(12719:12719): Instrucciones correctas
+[INFO] 01:33:05:095 log_informacion/(12719:12719): Conectando a servidor
+[INFO] 01:33:05:096 log_informacion/(12719:12719): Enviando instrucciones
+[INFO] 01:33:05:096 log_informacion/(12719:12719): Finalizando programa
+[INFO] 01:34:11:096 log_informacion/(12807:12807): Instrucciones correctas
+[INFO] 01:34:11:096 log_informacion/(12807:12807): Conectando a servidor
+[INFO] 01:34:11:097 log_informacion/(12807:12807): Enviando instrucciones
+[INFO] 01:34:11:097 log_informacion/(12807:12807): Finalizando programa
+[INFO] 01:35:42:014 log_informacion/(12926:12926): Instrucciones correctas
+[INFO] 01:35:42:015 log_informacion/(12926:12926): Conectando a servidor
+[INFO] 01:35:42:015 log_informacion/(12926:12926): Enviando instrucciones
+[INFO] 01:35:42:015 log_informacion/(12926:12926): Finalizando programa
+[INFO] 01:36:36:195 log_informacion/(13022:13022): Instrucciones correctas
+[INFO] 01:36:36:214 log_informacion/(13022:13022): Conectando a servidor
+[INFO] 01:36:36:214 log_informacion/(13022:13022): Enviando instrucciones
+[INFO] 01:36:36:216 log_informacion/(13022:13022): Finalizando programa
+[INFO] 01:38:58:781 log_informacion/(13118:13118): Instrucciones correctas
+[INFO] 01:38:58:809 log_informacion/(13118:13118): Conectando a servidor
+[INFO] 01:38:58:809 log_informacion/(13118:13118): Enviando instrucciones
+[INFO] 01:38:58:809 log_informacion/(13118:13118): Finalizando programa
+[INFO] 01:39:33:879 log_informacion/(13196:13196): Instrucciones correctas
+[INFO] 01:39:33:914 log_informacion/(13196:13196): Conectando a servidor
+[INFO] 01:39:33:914 log_informacion/(13196:13196): Enviando instrucciones
+[INFO] 01:39:33:915 log_informacion/(13196:13196): Finalizando programa
+[INFO] 01:41:51:917 log_informacion/(13308:13308): Instrucciones correctas
+[INFO] 01:41:51:939 log_informacion/(13308:13308): Conectando a servidor
+[INFO] 01:41:51:939 log_informacion/(13308:13308): Enviando instrucciones
+[INFO] 01:41:51:941 log_informacion/(13308:13308): Finalizando programa
+[INFO] 01:44:18:595 log_informacion/(13437:13437): Instrucciones correctas
+[INFO] 01:44:18:618 log_informacion/(13437:13437): Conectando a servidor
+[INFO] 01:44:18:618 log_informacion/(13437:13437): Enviando instrucciones
+[INFO] 01:44:18:618 log_informacion/(13437:13437): Finalizando programa
+[INFO] 01:51:49:062 log_informacion/(13535:13535): Instrucciones correctas
+[INFO] 01:51:49:080 log_informacion/(13535:13535): Conectando a servidor
+[INFO] 01:51:49:080 log_informacion/(13535:13535): Enviando instrucciones
+[INFO] 01:51:49:080 log_informacion/(13535:13535): Finalizando programa
+[INFO] 01:57:33:930 log_informacion/(13630:13630): Instrucciones correctas
+[INFO] 01:57:33:931 log_informacion/(13630:13630): Conectando a servidor
+[INFO] 01:57:33:943 log_informacion/(13630:13630): Enviando instrucciones
+[INFO] 01:57:33:945 log_informacion/(13630:13630): Finalizando programa
+[INFO] 13:15:47:827 log_informacion/(14121:14121): Instrucciones correctas
+[INFO] 13:15:47:849 log_informacion/(14121:14121): Conectando a servidor
+[INFO] 13:15:47:849 log_informacion/(14121:14121): Enviando instrucciones
+[INFO] 13:15:47:849 log_informacion/(14121:14121): Finalizando programa
+[INFO] 13:16:55:962 log_informacion/(14207:14207): Instrucciones correctas
+[INFO] 13:16:55:984 log_informacion/(14207:14207): Conectando a servidor
+[INFO] 13:16:55:984 log_informacion/(14207:14207): Enviando instrucciones
+[INFO] 13:16:55:984 log_informacion/(14207:14207): Finalizando programa
+[INFO] 13:21:43:364 log_informacion/(14352:14352): Instrucciones correctas
+[INFO] 13:21:43:384 log_informacion/(14352:14352): Conectando a servidor
+[INFO] 13:21:43:384 log_informacion/(14352:14352): Enviando instrucciones
+[INFO] 13:21:43:384 log_informacion/(14352:14352): Finalizando programa
+[INFO] 13:24:22:947 log_informacion/(14510:14510): Instrucciones correctas
+[INFO] 13:24:22:972 log_informacion/(14510:14510): Conectando a servidor
+[INFO] 13:24:22:972 log_informacion/(14510:14510): Enviando instrucciones
+[INFO] 13:24:22:972 log_informacion/(14510:14510): Finalizando programa
+[INFO] 13:25:45:854 log_informacion/(14650:14650): Instrucciones correctas
+[INFO] 13:25:45:855 log_informacion/(14650:14650): Conectando a servidor
+[INFO] 13:25:45:856 log_informacion/(14650:14650): Enviando instrucciones
+[INFO] 13:25:45:856 log_informacion/(14650:14650): Finalizando programa
+[INFO] 13:26:18:137 log_informacion/(14735:14735): Instrucciones correctas
+[INFO] 13:26:18:158 log_informacion/(14735:14735): Conectando a servidor
+[INFO] 13:26:18:158 log_informacion/(14735:14735): Enviando instrucciones
+[INFO] 13:26:18:158 log_informacion/(14735:14735): Finalizando programa
+[INFO] 13:27:36:948 log_informacion/(14896:14896): Instrucciones correctas
+[INFO] 13:27:36:989 log_informacion/(14896:14896): Conectando a servidor
+[INFO] 13:27:36:989 log_informacion/(14896:14896): Enviando instrucciones
+[INFO] 13:27:36:990 log_informacion/(14896:14896): Finalizando programa
+[INFO] 13:52:44:405 log_informacion/(15584:15584): Instrucciones correctas
+[INFO] 13:52:44:427 log_informacion/(15584:15584): Conectando a servidor
+[INFO] 13:52:44:427 log_informacion/(15584:15584): Enviando instrucciones
+[INFO] 13:52:44:427 log_informacion/(15584:15584): Finalizando programa
+[INFO] 14:28:57:957 log_informacion/(16580:16580): Instrucciones correctas
+[INFO] 14:28:57:978 log_informacion/(16580:16580): Conectando a servidor
+[INFO] 14:28:57:979 log_informacion/(16580:16580): Enviando instrucciones
+[INFO] 14:28:57:987 log_informacion/(16580:16580): Finalizando programa
+[INFO] 16:03:22:109 log_informacion/(19617:19617): Instrucciones correctas
+[INFO] 16:03:22:173 log_informacion/(19617:19617): Conectando a servidor
+[INFO] 16:03:22:173 log_informacion/(19617:19617): Enviando instrucciones
+[INFO] 16:03:22:173 log_informacion/(19617:19617): Finalizando programa
+[INFO] 16:03:23:100 log_informacion/(19625:19625): Instrucciones correctas
+[INFO] 16:03:23:100 log_informacion/(19625:19625): Conectando a servidor
+[INFO] 16:03:23:101 log_informacion/(19625:19625): Enviando instrucciones
+[INFO] 16:03:23:101 log_informacion/(19625:19625): Finalizando programa
+[INFO] 16:05:42:419 log_informacion/(19707:19707): Instrucciones correctas
+[INFO] 16:05:42:419 log_informacion/(19707:19707): Conectando a servidor
+[INFO] 16:05:42:421 log_informacion/(19707:19707): Enviando instrucciones
+[INFO] 16:05:42:421 log_informacion/(19707:19707): Finalizando programa
+[INFO] 16:07:02:072 log_informacion/(19804:19804): Instrucciones correctas
+[INFO] 16:07:02:072 log_informacion/(19804:19804): Conectando a servidor
+[INFO] 16:07:02:074 log_informacion/(19804:19804): Enviando instrucciones
+[INFO] 16:07:02:074 log_informacion/(19804:19804): Finalizando programa
+[INFO] 16:11:56:139 log_informacion/(19923:19923): Instrucciones correctas
+[INFO] 16:11:56:164 log_informacion/(19923:19923): Conectando a servidor
+[INFO] 16:11:56:164 log_informacion/(19923:19923): Enviando instrucciones
+[INFO] 16:11:56:164 log_informacion/(19923:19923): Finalizando programa
+[INFO] 16:15:20:365 log_informacion/(20085:20085): Instrucciones correctas
+[INFO] 16:15:20:365 log_informacion/(20085:20085): Conectando a servidor
+[INFO] 16:15:20:369 log_informacion/(20085:20085): Enviando instrucciones
+[INFO] 16:15:20:369 log_informacion/(20085:20085): Finalizando programa
+[INFO] 16:19:04:094 log_informacion/(20224:20224): Instrucciones correctas
+[INFO] 16:19:04:094 log_informacion/(20224:20224): Conectando a servidor
+[INFO] 16:19:04:094 log_informacion/(20224:20224): Enviando instrucciones
+[INFO] 16:19:04:094 log_informacion/(20224:20224): Finalizando programa
+[INFO] 16:23:58:112 log_informacion/(20359:20359): Instrucciones correctas
+[INFO] 16:23:58:113 log_informacion/(20359:20359): Conectando a servidor
+[INFO] 16:23:58:118 log_informacion/(20359:20359): Enviando instrucciones
+[INFO] 16:23:58:124 log_informacion/(20359:20359): Finalizando programa
+[INFO] 16:24:29:233 log_informacion/(20437:20437): Instrucciones correctas
+[INFO] 16:24:29:233 log_informacion/(20437:20437): Conectando a servidor
+[INFO] 16:24:29:234 log_informacion/(20437:20437): Enviando instrucciones
+[INFO] 16:24:29:235 log_informacion/(20437:20437): Finalizando programa
+[INFO] 16:27:10:042 log_informacion/(20579:20579): Instrucciones correctas
+[INFO] 16:27:10:042 log_informacion/(20579:20579): Conectando a servidor
+[INFO] 16:27:10:043 log_informacion/(20579:20579): Enviando instrucciones
+[INFO] 16:27:10:044 log_informacion/(20579:20579): Finalizando programa
+[INFO] 16:28:38:154 log_informacion/(20672:20672): Instrucciones correctas
+[INFO] 16:28:38:154 log_informacion/(20672:20672): Conectando a servidor
+[INFO] 16:28:38:165 log_informacion/(20672:20672): Enviando instrucciones
+[INFO] 16:28:38:168 log_informacion/(20672:20672): Finalizando programa
+[INFO] 16:31:55:008 log_informacion/(20879:20879): Instrucciones correctas
+[INFO] 16:31:55:013 log_informacion/(20879:20879): Conectando a servidor
+[INFO] 16:31:55:022 log_informacion/(20879:20879): Enviando instrucciones
+[INFO] 16:31:55:024 log_informacion/(20879:20879): Finalizando programa
+[INFO] 16:32:58:688 log_informacion/(20989:20989): Instrucciones correctas
+[INFO] 16:32:58:688 log_informacion/(20989:20989): Conectando a servidor
+[INFO] 16:32:58:688 log_informacion/(20989:20989): Enviando instrucciones
+[INFO] 16:32:58:688 log_informacion/(20989:20989): Finalizando programa
+[INFO] 16:37:00:827 log_informacion/(21076:21076): Instrucciones correctas
+[INFO] 16:37:00:828 log_informacion/(21076:21076): Conectando a servidor
+[INFO] 16:37:00:829 log_informacion/(21076:21076): Enviando instrucciones
+[INFO] 16:37:00:830 log_informacion/(21076:21076): Finalizando programa
+[INFO] 20:06:56:396 log_informacion/(21347:21347): Instrucciones correctas
+[INFO] 20:06:56:421 log_informacion/(21347:21347): Conectando a servidor
+[INFO] 20:06:56:425 log_informacion/(21347:21347): Enviando instrucciones
+[INFO] 20:06:56:425 log_informacion/(21347:21347): Finalizando programa
+[INFO] 20:07:25:124 log_informacion/(21431:21431): Instrucciones correctas
+[INFO] 20:07:25:125 log_informacion/(21431:21431): Conectando a servidor
+[INFO] 20:07:25:126 log_informacion/(21431:21431): Enviando instrucciones
+[INFO] 20:07:25:126 log_informacion/(21431:21431): Finalizando programa
+[INFO] 20:14:02:672 log_informacion/(21635:21635): Instrucciones correctas
+[INFO] 20:15:26:007 log_informacion/(21684:21684): Instrucciones correctas
+[INFO] 20:16:05:723 log_informacion/(21721:21721): Instrucciones correctas
+[INFO] 20:17:50:743 log_informacion/(21836:21836): Instrucciones correctas
+[INFO] 20:17:50:743 log_informacion/(21836:21836): Conectando a servidor
+[INFO] 20:17:50:744 log_informacion/(21836:21836): Enviando instrucciones
+[INFO] 20:17:50:744 log_informacion/(21836:21836): Finalizando programa
+[INFO] 20:29:58:824 log_informacion/(22134:22134): Instrucciones correctas
+[INFO] 20:29:58:824 log_informacion/(22134:22134): Conectando a servidor
+[INFO] 20:29:58:824 log_informacion/(22134:22134): Enviando instrucciones
+[INFO] 20:29:58:825 log_informacion/(22134:22134): Finalizando programa
+[INFO] 20:30:29:932 log_informacion/(22283:22283): Instrucciones correctas
+[INFO] 20:30:29:932 log_informacion/(22283:22283): Conectando a servidor
+[INFO] 20:30:29:933 log_informacion/(22283:22283): Enviando instrucciones
+[INFO] 20:30:29:933 log_informacion/(22283:22283): Finalizando programa
+[INFO] 20:34:41:676 log_informacion/(22485:22485): Instrucciones correctas
+[INFO] 20:34:41:676 log_informacion/(22485:22485): Conectando a servidor
+[INFO] 20:34:41:680 log_informacion/(22485:22485): Enviando instrucciones
+[INFO] 20:34:41:681 log_informacion/(22485:22485): Finalizando programa
+[INFO] 20:38:08:756 log_informacion/(22868:22868): Instrucciones correctas
+[INFO] 20:38:08:759 log_informacion/(22868:22868): Conectando a servidor
+[INFO] 20:38:08:760 log_informacion/(22868:22868): Enviando instrucciones
+[INFO] 20:38:08:760 log_informacion/(22868:22868): Finalizando programa
+[INFO] 20:50:36:962 log_informacion/(23157:23157): Instrucciones correctas
+[INFO] 20:50:36:962 log_informacion/(23157:23157): Conectando a servidor
+[INFO] 20:50:36:968 log_informacion/(23157:23157): Enviando instrucciones
+[INFO] 20:50:36:971 log_informacion/(23157:23157): Finalizando programa
+[INFO] 20:58:38:769 log_informacion/(23462:23462): Instrucciones correctas
+[INFO] 20:58:38:770 log_informacion/(23462:23462): Conectando a servidor
+[INFO] 20:58:38:771 log_informacion/(23462:23462): Enviando instrucciones
+[INFO] 20:58:38:772 log_informacion/(23462:23462): Finalizando programa
+[INFO] 21:03:03:450 log_informacion/(23655:23655): Instrucciones correctas
+[INFO] 21:03:03:507 log_informacion/(23655:23655): Conectando a servidor
+[INFO] 21:03:03:507 log_informacion/(23655:23655): Enviando instrucciones
+[INFO] 21:03:03:507 log_informacion/(23655:23655): Finalizando programa
+[INFO] 21:06:10:297 log_informacion/(23784:23784): Instrucciones correctas
+[INFO] 21:06:10:297 log_informacion/(23784:23784): Conectando a servidor
+[INFO] 21:06:10:303 log_informacion/(23784:23784): Enviando instrucciones
+[INFO] 21:06:10:306 log_informacion/(23784:23784): Finalizando programa
+[INFO] 21:06:46:369 log_informacion/(23856:23856): Instrucciones correctas
+[INFO] 21:06:46:369 log_informacion/(23856:23856): Conectando a servidor
+[INFO] 21:06:46:369 log_informacion/(23856:23856): Enviando instrucciones
+[INFO] 21:06:46:370 log_informacion/(23856:23856): Finalizando programa
+[INFO] 21:09:03:435 log_informacion/(24024:24024): Instrucciones correctas
+[INFO] 21:09:03:436 log_informacion/(24024:24024): Conectando a servidor
+[INFO] 21:09:03:436 log_informacion/(24024:24024): Enviando instrucciones
+[INFO] 21:09:03:436 log_informacion/(24024:24024): Finalizando programa
+[INFO] 21:09:07:509 log_informacion/(24005:24005): Instrucciones correctas
+[INFO] 21:09:07:509 log_informacion/(24005:24005): Conectando a servidor
+[INFO] 21:09:07:509 log_informacion/(24005:24005): Enviando instrucciones
+[INFO] 21:09:11:487 log_informacion/(24041:24041): Instrucciones correctas
+[INFO] 21:09:11:487 log_informacion/(24041:24041): Conectando a servidor
+[INFO] 21:09:11:487 log_informacion/(24041:24041): Enviando instrucciones
+[INFO] 21:09:11:487 log_informacion/(24041:24041): Finalizando programa
+[INFO] 21:09:35:072 log_informacion/(24102:24102): Instrucciones correctas
+[INFO] 21:09:35:075 log_informacion/(24102:24102): Conectando a servidor
+[INFO] 21:09:35:075 log_informacion/(24102:24102): Enviando instrucciones
+[INFO] 21:09:35:075 log_informacion/(24102:24102): Finalizando programa
+[INFO] 21:10:44:395 log_informacion/(24233:24233): Instrucciones correctas
+[INFO] 21:10:44:401 log_informacion/(24233:24233): Conectando a servidor
+[INFO] 21:10:44:405 log_informacion/(24233:24233): Enviando instrucciones
+[INFO] 21:10:44:411 log_informacion/(24233:24233): Finalizando programa
+[INFO] 21:12:33:749 log_informacion/(24377:24377): Instrucciones correctas
+[INFO] 21:12:33:752 log_informacion/(24377:24377): Conectando a servidor
+[INFO] 21:12:33:761 log_informacion/(24377:24377): Enviando instrucciones
+[INFO] 21:12:33:766 log_informacion/(24377:24377): Finalizando programa
+[INFO] 21:13:02:482 log_informacion/(24437:24437): Instrucciones correctas
+[INFO] 21:13:02:482 log_informacion/(24437:24437): Conectando a servidor
+[INFO] 21:13:02:485 log_informacion/(24437:24437): Enviando instrucciones
+[INFO] 21:13:02:485 log_informacion/(24437:24437): Finalizando programa
+[INFO] 21:48:06:558 log_informacion/(24551:24551): Instrucciones correctas
+[INFO] 21:48:06:558 log_informacion/(24551:24551): Conectando a servidor
+[INFO] 21:48:06:559 log_informacion/(24551:24551): Enviando instrucciones
+[INFO] 21:48:06:560 log_informacion/(24551:24551): Finalizando programa
+[INFO] 21:50:26:843 log_informacion/(24649:24649): Instrucciones correctas
+[INFO] 21:50:26:843 log_informacion/(24649:24649): Conectando a servidor
+[INFO] 21:50:26:844 log_informacion/(24649:24649): Enviando instrucciones
+[INFO] 21:50:26:844 log_informacion/(24649:24649): Finalizando programa
+[INFO] 21:53:34:590 log_informacion/(24761:24761): Instrucciones correctas
+[INFO] 21:53:34:590 log_informacion/(24761:24761): Conectando a servidor
+[INFO] 21:53:34:595 log_informacion/(24761:24761): Enviando instrucciones
+[INFO] 21:53:34:598 log_informacion/(24761:24761): Finalizando programa
+[INFO] 21:54:18:240 log_informacion/(24872:24872): Instrucciones correctas
+[INFO] 21:54:18:244 log_informacion/(24872:24872): Conectando a servidor
+[INFO] 21:54:18:248 log_informacion/(24872:24872): Enviando instrucciones
+[INFO] 21:54:18:255 log_informacion/(24872:24872): Finalizando programa
+[INFO] 22:00:29:983 log_informacion/(24969:24969): Instrucciones correctas
+[INFO] 22:00:29:987 log_informacion/(24969:24969): Conectando a servidor
+[INFO] 22:00:29:995 log_informacion/(24969:24969): Enviando instrucciones
+[INFO] 22:00:29:997 log_informacion/(24969:24969): Finalizando programa
+[INFO] 22:01:02:796 log_informacion/(25073:25073): Instrucciones correctas
+[INFO] 22:01:02:800 log_informacion/(25073:25073): Conectando a servidor
+[INFO] 22:01:02:802 log_informacion/(25073:25073): Enviando instrucciones
+[INFO] 22:01:02:807 log_informacion/(25073:25073): Finalizando programa
+[INFO] 22:02:01:821 log_informacion/(25170:25170): Instrucciones correctas
+[INFO] 22:02:01:821 log_informacion/(25170:25170): Conectando a servidor
+[INFO] 22:02:01:831 log_informacion/(25170:25170): Enviando instrucciones
+[INFO] 22:02:01:834 log_informacion/(25170:25170): Finalizando programa
+[INFO] 22:02:32:009 log_informacion/(25227:25227): Instrucciones correctas
+[INFO] 22:02:32:009 log_informacion/(25227:25227): Conectando a servidor
+[INFO] 22:02:32:018 log_informacion/(25227:25227): Enviando instrucciones
+[INFO] 22:02:32:021 log_informacion/(25227:25227): Finalizando programa
+[INFO] 22:03:47:275 log_informacion/(25336:25336): Instrucciones correctas
+[INFO] 22:03:47:275 log_informacion/(25336:25336): Conectando a servidor
+[INFO] 22:03:47:276 log_informacion/(25336:25336): Enviando instrucciones
+[INFO] 22:03:47:276 log_informacion/(25336:25336): Finalizando programa
+[INFO] 22:14:58:838 log_informacion/(25517:25517): Instrucciones correctas
+[INFO] 22:14:58:838 log_informacion/(25517:25517): Conectando a servidor
+[INFO] 22:14:58:839 log_informacion/(25517:25517): Enviando instrucciones
+[INFO] 22:14:58:839 log_informacion/(25517:25517): Finalizando programa
+[INFO] 22:17:07:521 log_informacion/(25742:25742): Instrucciones correctas
+[INFO] 22:17:07:521 log_informacion/(25742:25742): Conectando a servidor
+[INFO] 22:17:07:536 log_informacion/(25742:25742): Enviando instrucciones
+[INFO] 22:17:07:537 log_informacion/(25742:25742): Finalizando programa
+[INFO] 22:17:55:125 log_informacion/(25878:25878): Instrucciones correctas
+[INFO] 22:17:55:125 log_informacion/(25878:25878): Conectando a servidor
+[INFO] 22:17:55:125 log_informacion/(25878:25878): Enviando instrucciones
+[INFO] 22:17:55:125 log_informacion/(25878:25878): Finalizando programa
+[INFO] 22:24:14:904 log_informacion/(26175:26175): Instrucciones correctas
+[INFO] 22:24:14:904 log_informacion/(26175:26175): Conectando a servidor
+[INFO] 22:24:14:905 log_informacion/(26175:26175): Enviando instrucciones
+[INFO] 22:24:14:906 log_informacion/(26175:26175): Finalizando programa
+[INFO] 15:10:43:492 log_informacion/(27049:27049): Instrucciones correctas
+[INFO] 15:10:43:522 log_informacion/(27049:27049): Conectando a servidor
+[INFO] 15:10:43:522 log_informacion/(27049:27049): Enviando instrucciones
+[INFO] 15:10:43:522 log_informacion/(27049:27049): Finalizando programa
+[INFO] 16:36:40:174 log_informacion/(28700:28700): Conectando a servidor
+[INFO] 16:36:40:175 log_informacion/(28700:28700): Enviando instrucciones
+[INFO] 16:36:40:175 log_informacion/(28700:28700): Finalizando programa
+[ERROR] 16:37:03:246 log_informacion/(28719:28719): La instrucción DELETE_SEGMENT requiere 1 parámetros.
+
+[ERROR] 16:37:03:246 log_informacion/(28719:28719): Se detecto una instruccion incorrecta
+[ERROR] 16:37:32:396 log_informacion/(28736:28736): Se detecto una instruccion incorrecta
+[INFO] 16:37:42:973 log_informacion/(28753:28753): Conectando a servidor
+[INFO] 16:37:42:973 log_informacion/(28753:28753): Enviando instrucciones
+[INFO] 16:37:42:973 log_informacion/(28753:28753): Finalizando programa
+[INFO] 16:46:14:605 log_informacion/(29166:29166): Conectando a servidor
+[INFO] 16:46:14:606 log_informacion/(29166:29166): Enviando instrucciones
+[INFO] 16:46:14:606 log_informacion/(29166:29166): Finalizando programa
+[INFO] 16:47:45:349 log_informacion/(29231:29231): Conectando a servidor
+[INFO] 16:47:45:351 log_informacion/(29231:29231): Enviando instrucciones
+[INFO] 16:47:45:351 log_informacion/(29231:29231): Esperando finalizacion del proceso
+[INFO] 16:47:45:351 log_informacion/(29231:29231): Proceso finalizado con exito
+[INFO] 16:47:45:351 log_informacion/(29231:29231): Finalizando programa
+[INFO] 16:51:31:070 log_informacion/(29308:29308): Conectando a servidor
+[INFO] 16:51:31:071 log_informacion/(29308:29308): Enviando instrucciones
+[INFO] 16:51:31:071 log_informacion/(29308:29308): Esperando finalizacion del proceso
+[INFO] 16:51:31:071 log_informacion/(29308:29308): Proceso finalizado con exito
+[INFO] 16:51:31:071 log_informacion/(29308:29308): Finalizando programa
+[INFO] 16:57:43:205 log_informacion/(29451:29451): Conectando a servidor
+[INFO] 16:57:43:207 log_informacion/(29451:29451): Enviando instrucciones
+[INFO] 16:57:43:207 log_informacion/(29451:29451): Esperando finalizacion del proceso
+[INFO] 16:57:43:207 log_informacion/(29451:29451): Proceso finalizado con exito
+[INFO] 16:57:43:207 log_informacion/(29451:29451): Finalizando programa
+[INFO] 16:58:29:667 log_informacion/(29549:29549): Conectando a servidor
+[INFO] 16:58:29:667 log_informacion/(29549:29549): Enviando instrucciones
+[INFO] 16:58:29:667 log_informacion/(29549:29549): Esperando finalizacion del proceso
+[INFO] 16:58:30:552 log_informacion/(29549:29549): Proceso finalizado con exito
+[INFO] 16:58:30:552 log_informacion/(29549:29549): Finalizando programa
+[INFO] 16:59:16:957 log_informacion/(29587:29587): Conectando a servidor
+[INFO] 16:59:16:958 log_informacion/(29587:29587): Enviando instrucciones
+[INFO] 16:59:16:958 log_informacion/(29587:29587): Esperando finalizacion del proceso
+[ERROR] 16:59:16:958 log_informacion/(29587:29587): Proceso finalizado con codigo de error: -1
+[INFO] 16:59:16:958 log_informacion/(29587:29587): Finalizando programa
+[INFO] 17:02:22:295 log_informacion/(29675:29675): Conectando a servidor
+[INFO] 17:02:22:296 log_informacion/(29675:29675): Enviando instrucciones
+[INFO] 17:02:22:296 log_informacion/(29675:29675): Esperando finalizacion del proceso
+[ERROR] 17:02:22:524 log_informacion/(29675:29675): Proceso finalizado con codigo de error: -1
+[INFO] 17:02:22:524 log_informacion/(29675:29675): Finalizando programa
+[INFO] 17:43:34:404 log_informacion/(29869:29869): Conectando a servidor
+[INFO] 17:43:34:430 log_informacion/(29869:29869): Enviando instrucciones
+[INFO] 17:43:34:430 log_informacion/(29869:29869): Esperando finalizacion del proceso
+[ERROR] 17:43:34:430 log_informacion/(29869:29869): Proceso finalizado con codigo de error: -1
+[INFO] 17:43:34:430 log_informacion/(29869:29869): Finalizando programa
+[INFO] 18:24:10:945 log_informacion/(31456:31456): Conectando a servidor
+[INFO] 18:24:10:971 log_informacion/(31456:31456): Enviando instrucciones
+[INFO] 18:24:10:972 log_informacion/(31456:31456): Esperando finalizacion del proceso
+[ERROR] 18:24:11:304 log_informacion/(31456:31456): Proceso finalizado con codigo de error: -1
+[INFO] 18:24:11:304 log_informacion/(31456:31456): Finalizando programa
+[INFO] 18:27:29:288 log_informacion/(31578:31578): Conectando a servidor
+[INFO] 18:27:29:288 log_informacion/(31578:31578): Enviando instrucciones
+[INFO] 18:27:29:288 log_informacion/(31578:31578): Esperando finalizacion del proceso
+[ERROR] 18:28:57:401 log_informacion/(31578:31578): Proceso finalizado con codigo de error: -1
+[INFO] 18:28:57:621 log_informacion/(31578:31578): Finalizando programa
+[INFO] 18:36:08:440 log_informacion/(2023:2023): Conectando a servidor
+[INFO] 18:36:08:457 log_informacion/(2023:2023): Enviando instrucciones
+[INFO] 18:36:08:457 log_informacion/(2023:2023): Esperando finalizacion del proceso
+[ERROR] 18:36:56:757 log_informacion/(2023:2023): Proceso finalizado con codigo de error: -1
+[INFO] 18:36:56:900 log_informacion/(2023:2023): Finalizando programa
+[INFO] 18:41:39:876 log_informacion/(1975:1975): Conectando a servidor
+[INFO] 18:41:39:905 log_informacion/(1975:1975): Enviando instrucciones
+[INFO] 18:41:39:913 log_informacion/(1975:1975): Esperando finalizacion del proceso
+[ERROR] 18:41:39:913 log_informacion/(1975:1975): Proceso finalizado con codigo de error: -1
+[INFO] 18:41:39:914 log_informacion/(1975:1975): Finalizando programa
+[INFO] 18:43:36:490 log_informacion/(2076:2076): Conectando a servidor
+[INFO] 18:43:36:492 log_informacion/(2076:2076): Enviando instrucciones
+[INFO] 18:43:36:532 log_informacion/(2076:2076): Esperando finalizacion del proceso
+[ERROR] 18:43:36:532 log_informacion/(2076:2076): Proceso finalizado con codigo de error: -1
+[INFO] 18:43:36:532 log_informacion/(2076:2076): Finalizando programa
+[INFO] 18:50:53:132 log_informacion/(2188:2188): Conectando a servidor
+[INFO] 18:50:53:134 log_informacion/(2188:2188): Enviando instrucciones
+[INFO] 18:50:53:138 log_informacion/(2188:2188): Esperando finalizacion del proceso
+[ERROR] 18:50:53:139 log_informacion/(2188:2188): Proceso finalizado con codigo de error: -1
+[INFO] 18:50:53:139 log_informacion/(2188:2188): Finalizando programa
+[INFO] 19:09:08:783 log_informacion/(2450:2450): Conectando a servidor
+[INFO] 19:09:08:814 log_informacion/(2450:2450): Enviando instrucciones
+[INFO] 19:09:08:814 log_informacion/(2450:2450): Esperando finalizacion del proceso
+[ERROR] 19:09:08:814 log_informacion/(2450:2450): Proceso finalizado con codigo de error: -1
+[INFO] 19:09:08:814 log_informacion/(2450:2450): Finalizando programa
+[INFO] 19:17:27:155 log_informacion/(2044:2044): Conectando a servidor
+[INFO] 19:17:27:203 log_informacion/(2044:2044): Enviando instrucciones
+[INFO] 19:17:27:215 log_informacion/(2044:2044): Esperando finalizacion del proceso
+[ERROR] 19:17:27:215 log_informacion/(2044:2044): Proceso finalizado con codigo de error: -1
+[INFO] 19:17:27:215 log_informacion/(2044:2044): Finalizando programa
+[INFO] 19:21:30:094 log_informacion/(2283:2283): Conectando a servidor
+[INFO] 19:21:30:095 log_informacion/(2283:2283): Enviando instrucciones
+[INFO] 19:21:30:127 log_informacion/(2283:2283): Esperando finalizacion del proceso
+[ERROR] 19:21:30:130 log_informacion/(2283:2283): Proceso finalizado con codigo de error: -1
+[INFO] 19:21:30:130 log_informacion/(2283:2283): Finalizando programa
+[INFO] 19:23:13:487 log_informacion/(2364:2364): Conectando a servidor
+[INFO] 19:23:13:489 log_informacion/(2364:2364): Enviando instrucciones
+[INFO] 19:23:13:498 log_informacion/(2364:2364): Esperando finalizacion del proceso
+[ERROR] 19:23:13:499 log_informacion/(2364:2364): Proceso finalizado con codigo de error: -1
+[INFO] 19:23:13:499 log_informacion/(2364:2364): Finalizando programa
+[INFO] 19:30:28:019 log_informacion/(2051:2051): Conectando a servidor
+[INFO] 19:30:28:045 log_informacion/(2051:2051): Enviando instrucciones
+[INFO] 19:30:28:045 log_informacion/(2051:2051): Esperando finalizacion del proceso
+[ERROR] 19:30:28:049 log_informacion/(2051:2051): Proceso finalizado con codigo de error: -1
+[INFO] 19:30:28:049 log_informacion/(2051:2051): Finalizando programa
+[INFO] 19:44:39:644 log_informacion/(2462:2462): Conectando a servidor
+[INFO] 19:47:22:693 log_informacion/(2462:2462): Enviando instrucciones
+[INFO] 19:47:22:693 log_informacion/(2462:2462): Esperando finalizacion del proceso
+[ERROR] 19:47:22:695 log_informacion/(2462:2462): Proceso finalizado con codigo de error: -1
+[INFO] 19:47:22:695 log_informacion/(2462:2462): Finalizando programa
+[INFO] 23:17:37:317 log_informacion/(3300:3300): Conectando a servidor
+[INFO] 23:18:27:670 log_informacion/(3349:3349): Conectando a servidor
+[INFO] 23:26:03:360 log_informacion/(3707:3707): Conectando a servidor
+[INFO] 23:26:03:368 log_informacion/(3707:3707): Enviando instrucciones
+[INFO] 23:26:03:370 log_informacion/(3707:3707): Esperando finalizacion del proceso
+[ERROR] 23:26:03:589 log_informacion/(3707:3707): Proceso finalizado con codigo de error: -1
+[INFO] 23:26:03:589 log_informacion/(3707:3707): Finalizando programa
+[INFO] 23:36:56:379 log_informacion/(4175:4175): Conectando a servidor
+[INFO] 23:36:56:380 log_informacion/(4175:4175): Conexion establecida con el servidor
+[INFO] 23:36:56:380 log_informacion/(4175:4175): Enviando instrucciones
+[INFO] 23:36:56:381 log_informacion/(4175:4175): Esperando finalizacion del proceso
+[ERROR] 23:36:56:746 log_informacion/(4175:4175): Proceso finalizado con codigo de error: -1
+[INFO] 23:36:56:747 log_informacion/(4175:4175): Finalizando programa
+[INFO] 00:10:06:145 log_informacion/(5657:5657): Conectando a servidor
+[INFO] 00:10:06:150 log_informacion/(5657:5657): Conexion establecida con el servidor
+[INFO] 00:10:06:151 log_informacion/(5657:5657): Enviando instrucciones
+[INFO] 00:10:06:152 log_informacion/(5657:5657): Esperando finalizacion del proceso
+[ERROR] 00:10:06:564 log_informacion/(5657:5657): Proceso finalizado con codigo de error: -1
+[INFO] 00:10:06:565 log_informacion/(5657:5657): Finalizando programa
+[INFO] 02:21:01:281 log_informacion/(6031:6031): Conectando a servidor
+[INFO] 02:21:01:281 log_informacion/(6031:6031): Conexion establecida con el servidor
+[INFO] 02:21:01:286 log_informacion/(6031:6031): Enviando instrucciones
+[INFO] 02:21:01:307 log_informacion/(6031:6031): Esperando finalizacion del proceso
+[INFO] 02:21:04:788 log_informacion/(6046:6046): Conectando a servidor
+[INFO] 02:21:04:806 log_informacion/(6046:6046): Conexion establecida con el servidor
+[INFO] 02:21:04:806 log_informacion/(6046:6046): Enviando instrucciones
+[INFO] 02:21:04:807 log_informacion/(6046:6046): Esperando finalizacion del proceso
+[ERROR] 02:21:05:197 log_informacion/(6031:6031): Proceso finalizado con codigo de error: -1
+[INFO] 02:21:05:197 log_informacion/(6031:6031): Finalizando programa
+[ERROR] 02:21:05:198 log_informacion/(6046:6046): Proceso finalizado con codigo de error: -1
+[INFO] 02:21:05:198 log_informacion/(6046:6046): Finalizando programa
+[INFO] 02:21:32:517 log_informacion/(6099:6099): Conectando a servidor
+[ERROR] 02:21:32:517 log_informacion/(6099:6099): Error al intentar conectar con el servidor
+[INFO] 02:21:32:517 log_informacion/(6099:6099): Enviando instrucciones
+[INFO] 02:21:32:517 log_informacion/(6099:6099): Esperando finalizacion del proceso
+[ERROR] 02:21:32:517 log_informacion/(6099:6099): Proceso finalizado con codigo de error: -1
+[INFO] 02:21:32:517 log_informacion/(6099:6099): Finalizando programa
+[INFO] 04:10:06:526 log_informacion/(6648:6648): Conectando a servidor
+[INFO] 04:10:06:527 log_informacion/(6648:6648): Conexion establecida con el servidor
+[INFO] 04:10:06:527 log_informacion/(6648:6648): Enviando instrucciones
+[INFO] 04:10:06:528 log_informacion/(6648:6648): Esperando finalizacion del proceso
+[INFO] 04:10:10:407 log_informacion/(6664:6664): Conectando a servidor
+[INFO] 04:10:10:408 log_informacion/(6664:6664): Conexion establecida con el servidor
+[INFO] 04:10:10:408 log_informacion/(6664:6664): Enviando instrucciones
+[INFO] 04:10:10:409 log_informacion/(6664:6664): Esperando finalizacion del proceso
+[ERROR] 04:10:11:416 log_informacion/(6664:6664): Proceso finalizado con codigo de error: -1
+[ERROR] 04:10:11:416 log_informacion/(6648:6648): Proceso finalizado con codigo de error: -1
+[INFO] 04:10:11:416 log_informacion/(6648:6648): Finalizando programa
+[INFO] 04:10:11:417 log_informacion/(6664:6664): Finalizando programa
+[INFO] 04:11:18:626 log_informacion/(6711:6711): Conectando a servidor
+[INFO] 04:11:18:626 log_informacion/(6711:6711): Conexion establecida con el servidor
+[INFO] 04:11:18:626 log_informacion/(6711:6711): Enviando instrucciones
+[INFO] 04:11:18:627 log_informacion/(6711:6711): Esperando finalizacion del proceso
+[INFO] 04:28:40:977 log_informacion/(7049:7049): Conectando a servidor
+[INFO] 04:28:40:978 log_informacion/(7049:7049): Conexion establecida con el servidor
+[INFO] 04:28:40:979 log_informacion/(7049:7049): Enviando instrucciones
+[INFO] 04:28:40:981 log_informacion/(7049:7049): Esperando finalizacion del proceso
+[ERROR] 04:29:51:380 log_informacion/(7049:7049): Proceso finalizado con codigo de error: -1
+[INFO] 04:29:51:380 log_informacion/(7049:7049): Finalizando programa
+[INFO] 04:30:03:743 log_informacion/(7124:7124): Conectando a servidor
+[ERROR] 04:30:03:743 log_informacion/(7124:7124): Error al intentar conectar con el servidor
+[INFO] 04:30:03:743 log_informacion/(7124:7124): Enviando instrucciones
+[INFO] 04:30:03:743 log_informacion/(7124:7124): Esperando finalizacion del proceso
+[ERROR] 04:30:03:743 log_informacion/(7124:7124): Proceso finalizado con codigo de error: -1
+[INFO] 04:30:03:743 log_informacion/(7124:7124): Finalizando programa
+[INFO] 04:30:19:190 log_informacion/(7168:7168): Conectando a servidor
+[ERROR] 04:30:19:190 log_informacion/(7168:7168): Error al intentar conectar con el servidor
+[INFO] 04:30:19:190 log_informacion/(7168:7168): Enviando instrucciones
+[INFO] 04:30:19:190 log_informacion/(7168:7168): Esperando finalizacion del proceso
+[ERROR] 04:30:19:190 log_informacion/(7168:7168): Proceso finalizado con codigo de error: -1
+[INFO] 04:30:19:190 log_informacion/(7168:7168): Finalizando programa
+[INFO] 04:30:36:091 log_informacion/(7210:7210): Conectando a servidor
+[ERROR] 04:30:36:091 log_informacion/(7210:7210): Error al intentar conectar con el servidor
+[INFO] 04:30:36:091 log_informacion/(7210:7210): Enviando instrucciones
+[INFO] 04:30:36:091 log_informacion/(7210:7210): Esperando finalizacion del proceso
+[ERROR] 04:30:36:091 log_informacion/(7210:7210): Proceso finalizado con codigo de error: -1
+[INFO] 04:30:36:091 log_informacion/(7210:7210): Finalizando programa
+[INFO] 04:30:49:173 log_informacion/(7247:7247): Conectando a servidor
+[ERROR] 04:30:49:173 log_informacion/(7247:7247): Error al intentar conectar con el servidor
+[INFO] 04:30:49:174 log_informacion/(7247:7247): Enviando instrucciones
+[INFO] 04:30:49:174 log_informacion/(7247:7247): Esperando finalizacion del proceso
+[ERROR] 04:30:49:174 log_informacion/(7247:7247): Proceso finalizado con codigo de error: -1
+[INFO] 04:30:49:174 log_informacion/(7247:7247): Finalizando programa
+[INFO] 04:33:16:086 log_informacion/(7297:7297): Conectando a servidor
+[INFO] 04:33:16:086 log_informacion/(7297:7297): Conexion establecida con el servidor
+[INFO] 04:33:16:086 log_informacion/(7297:7297): Enviando instrucciones
+[INFO] 04:33:16:087 log_informacion/(7297:7297): Esperando finalizacion del proceso
+[ERROR] 04:34:07:371 log_informacion/(7297:7297): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:07:372 log_informacion/(7297:7297): Finalizando programa
+[INFO] 04:34:22:048 log_informacion/(7381:7381): Conectando a servidor
+[ERROR] 04:34:22:048 log_informacion/(7381:7381): Error al intentar conectar con el servidor
+[INFO] 04:34:22:048 log_informacion/(7381:7381): Enviando instrucciones
+[INFO] 04:34:22:048 log_informacion/(7381:7381): Esperando finalizacion del proceso
+[ERROR] 04:34:22:049 log_informacion/(7381:7381): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:22:049 log_informacion/(7381:7381): Finalizando programa
+[INFO] 04:34:27:214 log_informacion/(7397:7397): Conectando a servidor
+[ERROR] 04:34:27:215 log_informacion/(7397:7397): Error al intentar conectar con el servidor
+[INFO] 04:34:27:215 log_informacion/(7397:7397): Enviando instrucciones
+[INFO] 04:34:27:215 log_informacion/(7397:7397): Esperando finalizacion del proceso
+[ERROR] 04:34:27:215 log_informacion/(7397:7397): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:27:215 log_informacion/(7397:7397): Finalizando programa
+[INFO] 04:34:29:063 log_informacion/(7407:7407): Conectando a servidor
+[ERROR] 04:34:29:063 log_informacion/(7407:7407): Error al intentar conectar con el servidor
+[INFO] 04:34:29:064 log_informacion/(7407:7407): Enviando instrucciones
+[INFO] 04:34:29:064 log_informacion/(7407:7407): Esperando finalizacion del proceso
+[ERROR] 04:34:29:064 log_informacion/(7407:7407): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:29:064 log_informacion/(7407:7407): Finalizando programa
+[INFO] 04:34:30:973 log_informacion/(7417:7417): Conectando a servidor
+[ERROR] 04:34:30:973 log_informacion/(7417:7417): Error al intentar conectar con el servidor
+[INFO] 04:34:30:973 log_informacion/(7417:7417): Enviando instrucciones
+[INFO] 04:34:30:974 log_informacion/(7417:7417): Esperando finalizacion del proceso
+[ERROR] 04:34:30:974 log_informacion/(7417:7417): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:30:974 log_informacion/(7417:7417): Finalizando programa
+[INFO] 04:34:32:572 log_informacion/(7427:7427): Conectando a servidor
+[ERROR] 04:34:32:572 log_informacion/(7427:7427): Error al intentar conectar con el servidor
+[INFO] 04:34:32:572 log_informacion/(7427:7427): Enviando instrucciones
+[INFO] 04:34:32:572 log_informacion/(7427:7427): Esperando finalizacion del proceso
+[ERROR] 04:34:32:572 log_informacion/(7427:7427): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:32:572 log_informacion/(7427:7427): Finalizando programa
+[INFO] 04:34:34:433 log_informacion/(7437:7437): Conectando a servidor
+[ERROR] 04:34:34:433 log_informacion/(7437:7437): Error al intentar conectar con el servidor
+[INFO] 04:34:34:433 log_informacion/(7437:7437): Enviando instrucciones
+[INFO] 04:34:34:434 log_informacion/(7437:7437): Esperando finalizacion del proceso
+[ERROR] 04:34:34:434 log_informacion/(7437:7437): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:34:434 log_informacion/(7437:7437): Finalizando programa
+[INFO] 04:34:46:079 log_informacion/(7477:7477): Conectando a servidor
+[ERROR] 04:34:46:080 log_informacion/(7477:7477): Error al intentar conectar con el servidor
+[INFO] 04:34:46:080 log_informacion/(7477:7477): Enviando instrucciones
+[INFO] 04:34:46:080 log_informacion/(7477:7477): Esperando finalizacion del proceso
+[ERROR] 04:34:46:080 log_informacion/(7477:7477): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:46:080 log_informacion/(7477:7477): Finalizando programa
+[INFO] 04:34:56:297 log_informacion/(7519:7519): Conectando a servidor
+[ERROR] 04:34:56:297 log_informacion/(7519:7519): Error al intentar conectar con el servidor
+[INFO] 04:34:56:297 log_informacion/(7519:7519): Enviando instrucciones
+[INFO] 04:34:56:297 log_informacion/(7519:7519): Esperando finalizacion del proceso
+[ERROR] 04:34:56:297 log_informacion/(7519:7519): Proceso finalizado con codigo de error: -1
+[INFO] 04:34:56:297 log_informacion/(7519:7519): Finalizando programa
+[INFO] 04:35:33:432 log_informacion/(7606:7606): Conectando a servidor
+[INFO] 04:35:33:433 log_informacion/(7606:7606): Conexion establecida con el servidor
+[INFO] 04:35:33:433 log_informacion/(7606:7606): Enviando instrucciones
+[INFO] 04:35:33:434 log_informacion/(7606:7606): Esperando finalizacion del proceso
+[INFO] 04:41:29:523 log_informacion/(7900:7900): Conectando a servidor
+[INFO] 04:41:29:523 log_informacion/(7900:7900): Conexion establecida con el servidor
+[INFO] 04:41:29:523 log_informacion/(7900:7900): Enviando instrucciones
+[INFO] 04:41:29:524 log_informacion/(7900:7900): Esperando finalizacion del proceso
+[INFO] 04:41:33:627 log_informacion/(7915:7915): Conectando a servidor
+[INFO] 04:41:33:627 log_informacion/(7915:7915): Conexion establecida con el servidor
+[INFO] 04:41:33:627 log_informacion/(7915:7915): Enviando instrucciones
+[INFO] 04:41:33:629 log_informacion/(7915:7915): Esperando finalizacion del proceso
+[INFO] 04:41:35:899 log_informacion/(7925:7925): Conectando a servidor
+[INFO] 04:41:35:921 log_informacion/(7925:7925): Conexion establecida con el servidor
+[INFO] 04:41:35:921 log_informacion/(7925:7925): Enviando instrucciones
+[INFO] 04:41:35:921 log_informacion/(7925:7925): Esperando finalizacion del proceso
+[INFO] 04:41:40:008 log_informacion/(7936:7936): Conectando a servidor
+[INFO] 04:41:40:008 log_informacion/(7936:7936): Conexion establecida con el servidor
+[INFO] 04:41:40:009 log_informacion/(7936:7936): Enviando instrucciones
+[INFO] 04:41:40:012 log_informacion/(7936:7936): Esperando finalizacion del proceso
+[INFO] 04:41:45:444 log_informacion/(7951:7951): Conectando a servidor
+[INFO] 04:41:45:445 log_informacion/(7951:7951): Conexion establecida con el servidor
+[INFO] 04:41:45:445 log_informacion/(7951:7951): Enviando instrucciones
+[INFO] 04:41:45:450 log_informacion/(7951:7951): Esperando finalizacion del proceso
+[INFO] 04:41:47:465 log_informacion/(7962:7962): Conectando a servidor
+[INFO] 04:41:47:466 log_informacion/(7962:7962): Conexion establecida con el servidor
+[INFO] 04:41:47:466 log_informacion/(7962:7962): Enviando instrucciones
+[INFO] 04:41:47:466 log_informacion/(7962:7962): Esperando finalizacion del proceso
+[INFO] 04:41:49:724 log_informacion/(7975:7975): Conectando a servidor
+[INFO] 04:41:49:754 log_informacion/(7975:7975): Conexion establecida con el servidor
+[INFO] 04:41:49:754 log_informacion/(7975:7975): Enviando instrucciones
+[INFO] 04:41:49:759 log_informacion/(7975:7975): Esperando finalizacion del proceso
+[INFO] 04:41:53:867 log_informacion/(7985:7985): Conectando a servidor
+[INFO] 04:41:53:867 log_informacion/(7985:7985): Conexion establecida con el servidor
+[INFO] 04:41:53:867 log_informacion/(7985:7985): Enviando instrucciones
+[INFO] 04:41:53:868 log_informacion/(7985:7985): Esperando finalizacion del proceso
+[INFO] 04:41:56:342 log_informacion/(7995:7995): Conectando a servidor
+[INFO] 04:41:56:343 log_informacion/(7995:7995): Conexion establecida con el servidor
+[INFO] 04:41:56:343 log_informacion/(7995:7995): Enviando instrucciones
+[INFO] 04:41:56:343 log_informacion/(7995:7995): Esperando finalizacion del proceso
+[INFO] 04:41:58:075 log_informacion/(8008:8008): Conectando a servidor
+[INFO] 04:41:58:075 log_informacion/(8008:8008): Conexion establecida con el servidor
+[INFO] 04:41:58:075 log_informacion/(8008:8008): Enviando instrucciones
+[INFO] 04:41:58:076 log_informacion/(8008:8008): Esperando finalizacion del proceso
+[ERROR] 04:41:59:858 log_informacion/(7962:7962): Proceso finalizado con codigo de error: -1
+[ERROR] 04:41:59:858 log_informacion/(7936:7936): Proceso finalizado con codigo de error: -1
+[ERROR] 04:41:59:858 log_informacion/(7925:7925): Proceso finalizado con codigo de error: -1
+[ERROR] 04:41:59:858 log_informacion/(7995:7995): Proceso finalizado con codigo de error: -1
+[INFO] 04:41:59:858 log_informacion/(7995:7995): Finalizando programa
+[INFO] 04:41:59:859 log_informacion/(7936:7936): Finalizando programa
+[INFO] 04:41:59:859 log_informacion/(7925:7925): Finalizando programa
+[INFO] 04:41:59:860 log_informacion/(7962:7962): Finalizando programa
+[ERROR] 04:41:59:866 log_informacion/(7900:7900): Proceso finalizado con codigo de error: -1
+[ERROR] 04:41:59:866 log_informacion/(7915:7915): Proceso finalizado con codigo de error: -1
+[ERROR] 04:41:59:867 log_informacion/(7951:7951): Proceso finalizado con codigo de error: -1
+[ERROR] 04:41:59:867 log_informacion/(7975:7975): Proceso finalizado con codigo de error: -1
+[ERROR] 04:41:59:867 log_informacion/(7985:7985): Proceso finalizado con codigo de error: -1
+[ERROR] 04:41:59:867 log_informacion/(8008:8008): Proceso finalizado con codigo de error: -1
+[INFO] 04:41:59:867 log_informacion/(7985:7985): Finalizando programa
+[INFO] 04:41:59:867 log_informacion/(7975:7975): Finalizando programa
+[INFO] 04:41:59:867 log_informacion/(8008:8008): Finalizando programa
+[INFO] 04:41:59:869 log_informacion/(7951:7951): Finalizando programa
+[INFO] 04:41:59:871 log_informacion/(7900:7900): Finalizando programa
+[INFO] 04:41:59:871 log_informacion/(7915:7915): Finalizando programa
+[INFO] 04:42:17:845 log_informacion/(8046:8046): Conectando a servidor
+[ERROR] 04:42:17:846 log_informacion/(8046:8046): Error al intentar conectar con el servidor
+[INFO] 04:42:17:846 log_informacion/(8046:8046): Enviando instrucciones
+[INFO] 04:42:17:846 log_informacion/(8046:8046): Esperando finalizacion del proceso
+[ERROR] 04:42:17:846 log_informacion/(8046:8046): Proceso finalizado con codigo de error: -1
+[INFO] 04:42:17:846 log_informacion/(8046:8046): Finalizando programa
+[INFO] 04:42:23:151 log_informacion/(8061:8061): Conectando a servidor
+[ERROR] 04:42:23:151 log_informacion/(8061:8061): Error al intentar conectar con el servidor
+[INFO] 04:42:23:151 log_informacion/(8061:8061): Enviando instrucciones
+[INFO] 04:42:23:151 log_informacion/(8061:8061): Esperando finalizacion del proceso
+[ERROR] 04:42:23:151 log_informacion/(8061:8061): Proceso finalizado con codigo de error: -1
+[INFO] 04:42:23:151 log_informacion/(8061:8061): Finalizando programa
+[INFO] 04:42:25:069 log_informacion/(8071:8071): Conectando a servidor
+[ERROR] 04:42:25:069 log_informacion/(8071:8071): Error al intentar conectar con el servidor
+[INFO] 04:42:25:069 log_informacion/(8071:8071): Enviando instrucciones
+[INFO] 04:42:25:069 log_informacion/(8071:8071): Esperando finalizacion del proceso
+[ERROR] 04:42:25:069 log_informacion/(8071:8071): Proceso finalizado con codigo de error: -1
+[INFO] 04:42:25:069 log_informacion/(8071:8071): Finalizando programa
+[INFO] 04:42:38:711 log_informacion/(8113:8113): Conectando a servidor
+[ERROR] 04:42:38:711 log_informacion/(8113:8113): Error al intentar conectar con el servidor
+[INFO] 04:42:38:711 log_informacion/(8113:8113): Enviando instrucciones
+[INFO] 04:42:38:712 log_informacion/(8113:8113): Esperando finalizacion del proceso
+[ERROR] 04:42:38:712 log_informacion/(8113:8113): Proceso finalizado con codigo de error: -1
+[INFO] 04:42:38:712 log_informacion/(8113:8113): Finalizando programa
+[INFO] 04:43:11:461 log_informacion/(8155:8155): Conectando a servidor
+[INFO] 04:43:11:461 log_informacion/(8155:8155): Conexion establecida con el servidor
+[INFO] 04:43:11:461 log_informacion/(8155:8155): Enviando instrucciones
+[INFO] 04:43:11:470 log_informacion/(8155:8155): Esperando finalizacion del proceso
+[INFO] 04:43:14:151 log_informacion/(8165:8165): Conectando a servidor
+[INFO] 04:43:14:152 log_informacion/(8165:8165): Conexion establecida con el servidor
+[INFO] 04:43:14:152 log_informacion/(8165:8165): Enviando instrucciones
+[INFO] 04:43:14:158 log_informacion/(8165:8165): Esperando finalizacion del proceso
+[ERROR] 04:43:15:603 log_informacion/(8165:8165): Proceso finalizado con codigo de error: -1
+[INFO] 04:43:15:604 log_informacion/(8165:8165): Finalizando programa
+[ERROR] 04:43:15:603 log_informacion/(8155:8155): Proceso finalizado con codigo de error: -1
+[INFO] 04:43:15:604 log_informacion/(8155:8155): Finalizando programa
+[INFO] 04:48:07:444 log_informacion/(8395:8395): Conectando a servidor
+[INFO] 04:48:07:444 log_informacion/(8395:8395): Conexion establecida con el servidor
+[INFO] 04:48:07:444 log_informacion/(8395:8395): Enviando instrucciones
+[INFO] 04:48:07:450 log_informacion/(8395:8395): Esperando finalizacion del proceso
+[ERROR] 04:48:09:399 log_informacion/(8395:8395): Proceso finalizado con codigo de error: -1
+[INFO] 04:48:09:399 log_informacion/(8395:8395): Finalizando programa
+[INFO] 06:37:52:718 log_informacion/(8946:8946): Conectando a servidor
+[INFO] 06:37:52:719 log_informacion/(8946:8946): Conexion establecida con el servidor
+[INFO] 06:37:52:719 log_informacion/(8946:8946): Enviando instrucciones
+[INFO] 06:37:52:722 log_informacion/(8946:8946): Esperando finalizacion del proceso
+[INFO] 06:38:27:158 log_informacion/(8992:8992): Conectando a servidor
+[INFO] 06:38:27:159 log_informacion/(8992:8992): Conexion establecida con el servidor
+[INFO] 06:38:27:159 log_informacion/(8992:8992): Enviando instrucciones
+[INFO] 06:38:27:162 log_informacion/(8992:8992): Esperando finalizacion del proceso
+[ERROR] 06:38:32:018 log_informacion/(8992:8992): Proceso finalizado con codigo de error: -1
+[INFO] 06:38:32:018 log_informacion/(8992:8992): Finalizando programa
+[INFO] 06:54:24:720 log_informacion/(9073:9073): Conectando a servidor
+[INFO] 06:54:24:721 log_informacion/(9073:9073): Conexion establecida con el servidor
+[INFO] 06:54:24:721 log_informacion/(9073:9073): Enviando instrucciones
+[INFO] 06:54:24:727 log_informacion/(9073:9073): Esperando finalizacion del proceso
+[INFO] 06:54:36:445 log_informacion/(9088:9088): Conectando a servidor
+[INFO] 06:54:36:446 log_informacion/(9088:9088): Conexion establecida con el servidor
+[INFO] 06:54:36:446 log_informacion/(9088:9088): Enviando instrucciones
+[INFO] 06:54:36:450 log_informacion/(9088:9088): Esperando finalizacion del proceso
+[INFO] 06:54:39:141 log_informacion/(9099:9099): Conectando a servidor
+[INFO] 06:54:39:142 log_informacion/(9099:9099): Conexion establecida con el servidor
+[INFO] 06:54:39:142 log_informacion/(9099:9099): Enviando instrucciones
+[INFO] 06:54:39:142 log_informacion/(9099:9099): Esperando finalizacion del proceso
+[INFO] 06:54:40:823 log_informacion/(9110:9110): Conectando a servidor
+[INFO] 06:54:40:824 log_informacion/(9110:9110): Conexion establecida con el servidor
+[INFO] 06:54:40:824 log_informacion/(9110:9110): Enviando instrucciones
+[INFO] 06:54:40:824 log_informacion/(9110:9110): Esperando finalizacion del proceso
+[INFO] 06:54:42:406 log_informacion/(9122:9122): Conectando a servidor
+[INFO] 06:54:42:407 log_informacion/(9122:9122): Conexion establecida con el servidor
+[INFO] 06:54:42:407 log_informacion/(9122:9122): Enviando instrucciones
+[INFO] 06:54:42:408 log_informacion/(9122:9122): Esperando finalizacion del proceso
+[ERROR] 06:54:43:940 log_informacion/(9122:9122): Proceso finalizado con codigo de error: -1
+[ERROR] 06:54:43:941 log_informacion/(9088:9088): Proceso finalizado con codigo de error: -1
+[ERROR] 06:54:43:941 log_informacion/(9099:9099): Proceso finalizado con codigo de error: -1
+[ERROR] 06:54:43:941 log_informacion/(9073:9073): Proceso finalizado con codigo de error: -1
+[INFO] 06:54:43:941 log_informacion/(9099:9099): Finalizando programa
+[ERROR] 06:54:43:941 log_informacion/(9110:9110): Proceso finalizado con codigo de error: -1
+[INFO] 06:54:43:941 log_informacion/(9110:9110): Finalizando programa
+[INFO] 06:54:43:942 log_informacion/(9088:9088): Finalizando programa
+[INFO] 06:54:43:943 log_informacion/(9073:9073): Finalizando programa
+[INFO] 06:54:43:943 log_informacion/(9122:9122): Finalizando programa
+[INFO] 06:56:03:130 log_informacion/(9195:9195): Conectando a servidor
+[INFO] 06:56:03:131 log_informacion/(9195:9195): Conexion establecida con el servidor
+[INFO] 06:56:03:131 log_informacion/(9195:9195): Enviando instrucciones
+[INFO] 06:56:03:146 log_informacion/(9195:9195): Esperando finalizacion del proceso
+[INFO] 06:58:07:898 log_informacion/(9439:9439): Conectando a servidor
+[INFO] 06:58:07:898 log_informacion/(9439:9439): Conexion establecida con el servidor
+[INFO] 06:58:07:898 log_informacion/(9439:9439): Enviando instrucciones
+[INFO] 06:58:07:908 log_informacion/(9439:9439): Esperando finalizacion del proceso
+[INFO] 07:01:55:722 log_informacion/(9543:9543): Conectando a servidor
+[INFO] 07:01:55:722 log_informacion/(9543:9543): Conexion establecida con el servidor
+[INFO] 07:01:55:722 log_informacion/(9543:9543): Enviando instrucciones
+[INFO] 07:01:55:730 log_informacion/(9543:9543): Esperando finalizacion del proceso
+[INFO] 07:06:16:374 log_informacion/(9674:9674): Conectando a servidor
+[INFO] 07:06:16:394 log_informacion/(9674:9674): Conexion establecida con el servidor
+[INFO] 07:06:16:394 log_informacion/(9674:9674): Enviando instrucciones
+[INFO] 07:06:16:395 log_informacion/(9674:9674): Esperando finalizacion del proceso
+[INFO] 07:58:12:891 log_informacion/(9934:9934): Conectando a servidor
+[INFO] 07:58:12:892 log_informacion/(9934:9934): Conexion establecida con el servidor
+[INFO] 07:58:12:892 log_informacion/(9934:9934): Enviando instrucciones
+[INFO] 07:58:12:901 log_informacion/(9934:9934): Esperando finalizacion del proceso
+[ERROR] 07:58:13:622 log_informacion/(9934:9934): Proceso finalizado con codigo de error: -1
+[INFO] 07:58:13:622 log_informacion/(9934:9934): Finalizando programa
+[INFO] 07:58:35:869 log_informacion/(10013:10013): Conectando a servidor
+[INFO] 07:58:35:870 log_informacion/(10013:10013): Conexion establecida con el servidor
+[INFO] 07:58:35:870 log_informacion/(10013:10013): Enviando instrucciones
+[INFO] 07:58:35:870 log_informacion/(10013:10013): Esperando finalizacion del proceso
+[INFO] 07:58:35:870 log_informacion/(10013:10013): Proceso finalizado con exito
+[INFO] 07:58:35:870 log_informacion/(10013:10013): Finalizando programa
+[INFO] 08:00:33:156 log_informacion/(10180:10180): Conectando a servidor
+[INFO] 08:01:11:007 log_informacion/(10234:10234): Conectando a servidor
+[INFO] 08:01:11:008 log_informacion/(10234:10234): Conexion establecida con el servidor
+[INFO] 08:01:11:008 log_informacion/(10234:10234): Enviando instrucciones
+[INFO] 08:01:11:028 log_informacion/(10234:10234): Esperando finalizacion del proceso
+[ERROR] 08:01:37:448 log_informacion/(10234:10234): Proceso finalizado con codigo de error: -1
+[INFO] 08:01:37:449 log_informacion/(10234:10234): Finalizando programa
+[INFO] 08:03:44:667 log_informacion/(10342:10342): Conectando a servidor
+[INFO] 08:03:44:668 log_informacion/(10342:10342): Conexion establecida con el servidor
+[INFO] 08:03:44:668 log_informacion/(10342:10342): Enviando instrucciones
+[INFO] 08:03:44:670 log_informacion/(10342:10342): Esperando finalizacion del proceso
+[ERROR] 08:04:41:165 log_informacion/(10342:10342): Proceso finalizado con codigo de error: -1
+[INFO] 08:04:41:165 log_informacion/(10342:10342): Finalizando programa
+[INFO] 08:05:17:582 log_informacion/(10445:10445): Conectando a servidor
+[INFO] 08:05:17:582 log_informacion/(10445:10445): Conexion establecida con el servidor
+[INFO] 08:05:17:582 log_informacion/(10445:10445): Enviando instrucciones
+[INFO] 08:05:17:597 log_informacion/(10445:10445): Esperando finalizacion del proceso
+[ERROR] 08:05:43:165 log_informacion/(10445:10445): Proceso finalizado con codigo de error: -1
+[INFO] 08:05:43:165 log_informacion/(10445:10445): Finalizando programa
+[INFO] 08:07:14:677 log_informacion/(10575:10575): Conectando a servidor
+[INFO] 08:07:14:678 log_informacion/(10575:10575): Conexion establecida con el servidor
+[INFO] 08:07:14:678 log_informacion/(10575:10575): Enviando instrucciones
+[INFO] 08:07:14:687 log_informacion/(10575:10575): Esperando finalizacion del proceso
+[ERROR] 08:09:26:266 log_informacion/(10575:10575): Proceso finalizado con codigo de error: -1
+[INFO] 08:09:26:267 log_informacion/(10575:10575): Finalizando programa
+[INFO] 08:09:45:381 log_informacion/(10666:10666): Conectando a servidor
+[INFO] 08:09:45:383 log_informacion/(10666:10666): Conexion establecida con el servidor
+[INFO] 08:09:45:383 log_informacion/(10666:10666): Enviando instrucciones
+[INFO] 08:09:45:394 log_informacion/(10666:10666): Esperando finalizacion del proceso
+[ERROR] 08:10:10:538 log_informacion/(10666:10666): Proceso finalizado con codigo de error: -1
+[INFO] 08:10:10:540 log_informacion/(10666:10666): Finalizando programa
+[INFO] 08:10:14:289 log_informacion/(10694:10694): Conectando a servidor
+[ERROR] 08:10:14:290 log_informacion/(10694:10694): Error al intentar conectar con el servidor
+[INFO] 08:10:14:290 log_informacion/(10694:10694): Enviando instrucciones
+[INFO] 08:10:14:290 log_informacion/(10694:10694): Esperando finalizacion del proceso
+[ERROR] 08:10:14:290 log_informacion/(10694:10694): Proceso finalizado con codigo de error: -1
+[INFO] 08:10:14:291 log_informacion/(10694:10694): Finalizando programa
+[INFO] 08:10:33:775 log_informacion/(10743:10743): Conectando a servidor
+[INFO] 08:10:33:776 log_informacion/(10743:10743): Conexion establecida con el servidor
+[INFO] 08:10:33:776 log_informacion/(10743:10743): Enviando instrucciones
+[INFO] 08:10:33:784 log_informacion/(10743:10743): Esperando finalizacion del proceso
+[ERROR] 08:10:41:777 log_informacion/(10743:10743): Proceso finalizado con codigo de error: -1
+[INFO] 08:10:41:778 log_informacion/(10743:10743): Finalizando programa
+[INFO] 08:11:48:336 log_informacion/(10835:10835): Conectando a servidor
+[INFO] 08:11:48:359 log_informacion/(10835:10835): Conexion establecida con el servidor
+[INFO] 08:11:48:359 log_informacion/(10835:10835): Enviando instrucciones
+[INFO] 08:11:48:369 log_informacion/(10835:10835): Esperando finalizacion del proceso
+[ERROR] 08:12:07:147 log_informacion/(10835:10835): Proceso finalizado con codigo de error: -1
+[INFO] 08:12:07:147 log_informacion/(10835:10835): Finalizando programa
+[INFO] 08:13:21:162 log_informacion/(10923:10923): Conectando a servidor
+[INFO] 08:13:21:163 log_informacion/(10923:10923): Conexion establecida con el servidor
+[INFO] 08:13:21:163 log_informacion/(10923:10923): Enviando instrucciones
+[INFO] 08:13:21:170 log_informacion/(10923:10923): Esperando finalizacion del proceso
+[ERROR] 08:13:30:978 log_informacion/(10923:10923): Proceso finalizado con codigo de error: -1
+[INFO] 08:13:30:978 log_informacion/(10923:10923): Finalizando programa
+[INFO] 08:17:56:909 log_informacion/(11056:11056): Conectando a servidor
+[INFO] 08:17:56:912 log_informacion/(11056:11056): Conexion establecida con el servidor
+[INFO] 08:17:56:924 log_informacion/(11056:11056): Enviando instrucciones
+[INFO] 08:17:56:934 log_informacion/(11056:11056): Esperando finalizacion del proceso
+[ERROR] 08:18:05:709 log_informacion/(11056:11056): Proceso finalizado con codigo de error: -1
+[INFO] 08:18:05:709 log_informacion/(11056:11056): Finalizando programa
+[INFO] 08:21:01:110 log_informacion/(11211:11211): Conectando a servidor
+[INFO] 08:21:01:111 log_informacion/(11211:11211): Conexion establecida con el servidor
+[INFO] 08:21:01:111 log_informacion/(11211:11211): Enviando instrucciones
+[INFO] 08:21:01:118 log_informacion/(11211:11211): Esperando finalizacion del proceso
+[ERROR] 08:21:11:543 log_informacion/(11211:11211): Proceso finalizado con codigo de error: -1
+[INFO] 08:21:11:543 log_informacion/(11211:11211): Finalizando programa
+[INFO] 08:26:38:686 log_informacion/(11595:11595): Conectando a servidor
+[INFO] 08:26:38:687 log_informacion/(11595:11595): Conexion establecida con el servidor
+[INFO] 08:26:38:687 log_informacion/(11595:11595): Enviando instrucciones
+[INFO] 08:26:38:696 log_informacion/(11595:11595): Esperando finalizacion del proceso
+[ERROR] 08:27:58:333 log_informacion/(11595:11595): Proceso finalizado con codigo de error: -1
+[INFO] 08:27:58:333 log_informacion/(11595:11595): Finalizando programa
+[INFO] 08:28:40:431 log_informacion/(11697:11697): Conectando a servidor
+[INFO] 08:28:40:431 log_informacion/(11697:11697): Conexion establecida con el servidor
+[INFO] 08:28:40:431 log_informacion/(11697:11697): Enviando instrucciones
+[INFO] 08:28:40:443 log_informacion/(11697:11697): Esperando finalizacion del proceso
+[ERROR] 08:30:46:182 log_informacion/(11697:11697): Proceso finalizado con codigo de error: -1
+[INFO] 08:30:46:183 log_informacion/(11697:11697): Finalizando programa
+[INFO] 08:50:22:335 log_informacion/(12670:12670): Conectando a servidor
+[INFO] 08:50:22:337 log_informacion/(12670:12670): Conexion establecida con el servidor
+[INFO] 08:50:22:337 log_informacion/(12670:12670): Enviando instrucciones
+[INFO] 08:50:22:350 log_informacion/(12670:12670): Esperando finalizacion del proceso
+[ERROR] 08:52:00:196 log_informacion/(12670:12670): Proceso finalizado con codigo de error: -1
+[INFO] 08:52:00:196 log_informacion/(12670:12670): Finalizando programa
+[INFO] 08:57:48:019 log_informacion/(13140:13140): Conectando a servidor
+[INFO] 08:57:48:020 log_informacion/(13140:13140): Conexion establecida con el servidor
+[INFO] 08:57:48:020 log_informacion/(13140:13140): Enviando instrucciones
+[INFO] 08:57:48:036 log_informacion/(13140:13140): Esperando finalizacion del proceso
+[INFO] 09:03:08:294 log_informacion/(13566:13566): Conectando a servidor
+[INFO] 09:03:08:294 log_informacion/(13566:13566): Conexion establecida con el servidor
+[INFO] 09:03:08:294 log_informacion/(13566:13566): Enviando instrucciones
+[INFO] 09:03:08:299 log_informacion/(13566:13566): Esperando finalizacion del proceso
+[ERROR] 09:03:08:710 log_informacion/(13566:13566): Proceso finalizado con codigo de error: -1
+[INFO] 09:03:08:710 log_informacion/(13566:13566): Finalizando programa
+[INFO] 09:03:45:692 log_informacion/(13648:13648): Conectando a servidor
+[INFO] 09:03:45:692 log_informacion/(13648:13648): Conexion establecida con el servidor
+[INFO] 09:03:45:692 log_informacion/(13648:13648): Enviando instrucciones
+[INFO] 09:03:45:697 log_informacion/(13648:13648): Esperando finalizacion del proceso
+[ERROR] 09:03:46:029 log_informacion/(13648:13648): Proceso finalizado con codigo de error: -1
+[INFO] 09:03:46:029 log_informacion/(13648:13648): Finalizando programa
+[INFO] 09:04:32:070 log_informacion/(13741:13741): Conectando a servidor
+[INFO] 09:04:32:071 log_informacion/(13741:13741): Conexion establecida con el servidor
+[INFO] 09:04:32:071 log_informacion/(13741:13741): Enviando instrucciones
+[INFO] 09:04:32:072 log_informacion/(13741:13741): Esperando finalizacion del proceso
+[ERROR] 09:04:32:287 log_informacion/(13741:13741): Proceso finalizado con codigo de error: -1
+[INFO] 09:04:32:287 log_informacion/(13741:13741): Finalizando programa
+[INFO] 18:28:22:294 log_informacion/(15027:15027): Conectando a servidor
+[INFO] 18:28:22:318 log_informacion/(15027:15027): Conexion establecida con el servidor
+[INFO] 18:28:22:318 log_informacion/(15027:15027): Enviando instrucciones
+[INFO] 18:28:22:318 log_informacion/(15027:15027): Esperando finalizacion del proceso
+[ERROR] 18:28:28:609 log_informacion/(15027:15027): Proceso finalizado con codigo de error: -1
+[INFO] 18:28:28:609 log_informacion/(15027:15027): Finalizando programa
+[INFO] 18:54:00:183 log_informacion/(15321:15321): Conectando a servidor
+[INFO] 18:54:00:186 log_informacion/(15321:15321): Conexion establecida con el servidor
+[INFO] 18:54:00:189 log_informacion/(15321:15321): Enviando instrucciones
+[INFO] 18:54:00:197 log_informacion/(15321:15321): Esperando finalizacion del proceso
+[ERROR] 18:54:00:702 log_informacion/(15321:15321): Proceso finalizado con codigo de error: -1
+[INFO] 18:54:00:702 log_informacion/(15321:15321): Finalizando programa
+[INFO] 19:14:32:469 log_informacion/(16164:16164): Conectando a servidor
+[INFO] 19:14:32:470 log_informacion/(16164:16164): Conexion establecida con el servidor
+[INFO] 19:14:32:470 log_informacion/(16164:16164): Enviando instrucciones
+[INFO] 19:14:32:477 log_informacion/(16164:16164): Esperando finalizacion del proceso
+[ERROR] 19:14:32:733 log_informacion/(16164:16164): Proceso finalizado con codigo de error: -1
+[INFO] 19:14:32:733 log_informacion/(16164:16164): Finalizando programa
+[INFO] 19:34:56:755 log_informacion/(16364:16364): Conectando a servidor
+[INFO] 19:34:56:755 log_informacion/(16364:16364): Conexion establecida con el servidor
+[INFO] 19:34:56:755 log_informacion/(16364:16364): Enviando instrucciones
+[INFO] 19:34:56:762 log_informacion/(16364:16364): Esperando finalizacion del proceso
+[ERROR] 19:35:03:031 log_informacion/(16364:16364): Proceso finalizado con codigo de error: -1
+[INFO] 19:35:03:031 log_informacion/(16364:16364): Finalizando programa
+[INFO] 19:46:29:885 log_informacion/(16722:16722): Conectando a servidor
+[INFO] 19:46:29:885 log_informacion/(16722:16722): Conexion establecida con el servidor
+[INFO] 19:46:29:885 log_informacion/(16722:16722): Enviando instrucciones
+[INFO] 19:46:29:899 log_informacion/(16722:16722): Esperando finalizacion del proceso
+[ERROR] 19:46:36:110 log_informacion/(16722:16722): Proceso finalizado con codigo de error: -1
+[INFO] 19:46:36:111 log_informacion/(16722:16722): Finalizando programa
+[INFO] 19:50:28:884 log_informacion/(16941:16941): Conectando a servidor
+[INFO] 19:50:28:884 log_informacion/(16941:16941): Conexion establecida con el servidor
+[INFO] 19:50:28:884 log_informacion/(16941:16941): Enviando instrucciones
+[INFO] 19:50:28:893 log_informacion/(16941:16941): Esperando finalizacion del proceso
+[ERROR] 19:50:35:090 log_informacion/(16941:16941): Proceso finalizado con codigo de error: -1
+[INFO] 19:50:35:091 log_informacion/(16941:16941): Finalizando programa
+[INFO] 21:59:49:231 log_informacion/(17420:17420): Conectando a servidor
+[INFO] 21:59:49:232 log_informacion/(17420:17420): Conexion establecida con el servidor
+[INFO] 21:59:49:232 log_informacion/(17420:17420): Enviando instrucciones
+[INFO] 21:59:49:239 log_informacion/(17420:17420): Esperando finalizacion del proceso
+[ERROR] 21:59:55:453 log_informacion/(17420:17420): Proceso finalizado con codigo de error: -1
+[INFO] 21:59:55:453 log_informacion/(17420:17420): Finalizando programa
+[INFO] 22:00:22:063 log_informacion/(17503:17503): Conectando a servidor
+[INFO] 22:00:22:064 log_informacion/(17503:17503): Conexion establecida con el servidor
+[INFO] 22:00:22:064 log_informacion/(17503:17503): Enviando instrucciones
+[INFO] 22:00:22:070 log_informacion/(17503:17503): Esperando finalizacion del proceso
+[ERROR] 22:06:20:263 log_informacion/(17503:17503): Proceso finalizado con codigo de error: -1
+[INFO] 22:06:20:263 log_informacion/(17503:17503): Finalizando programa
+[INFO] 22:09:07:661 log_informacion/(17660:17660): Conectando a servidor
+[INFO] 22:09:07:662 log_informacion/(17660:17660): Conexion establecida con el servidor
+[INFO] 22:09:07:662 log_informacion/(17660:17660): Enviando instrucciones
+[INFO] 22:09:07:669 log_informacion/(17660:17660): Esperando finalizacion del proceso
+[ERROR] 22:09:13:850 log_informacion/(17660:17660): Proceso finalizado con codigo de error: -1
+[INFO] 22:09:13:850 log_informacion/(17660:17660): Finalizando programa
+[INFO] 22:10:08:037 log_informacion/(17782:17782): Conectando a servidor
+[INFO] 22:10:08:037 log_informacion/(17782:17782): Conexion establecida con el servidor
+[INFO] 22:10:08:037 log_informacion/(17782:17782): Enviando instrucciones
+[INFO] 22:10:08:041 log_informacion/(17782:17782): Esperando finalizacion del proceso
+[ERROR] 22:13:30:649 log_informacion/(17782:17782): Proceso finalizado con codigo de error: -1
+[INFO] 22:13:30:649 log_informacion/(17782:17782): Finalizando programa
+[INFO] 22:15:02:223 log_informacion/(17909:17909): Conectando a servidor
+[INFO] 22:15:02:224 log_informacion/(17909:17909): Conexion establecida con el servidor
+[INFO] 22:15:02:224 log_informacion/(17909:17909): Enviando instrucciones
+[INFO] 22:15:02:235 log_informacion/(17909:17909): Esperando finalizacion del proceso
+[ERROR] 22:15:40:245 log_informacion/(17909:17909): Proceso finalizado con codigo de error: -1
+[INFO] 22:15:40:245 log_informacion/(17909:17909): Finalizando programa
+[INFO] 22:24:49:912 log_informacion/(18072:18072): Conectando a servidor
+[INFO] 22:24:49:946 log_informacion/(18072:18072): Conexion establecida con el servidor
+[INFO] 22:24:49:946 log_informacion/(18072:18072): Enviando instrucciones
+[INFO] 22:24:49:954 log_informacion/(18072:18072): Esperando finalizacion del proceso
+[INFO] 22:24:52:639 log_informacion/(18086:18086): Conectando a servidor
+[ERROR] 22:25:06:594 log_informacion/(18072:18072): Proceso finalizado con codigo de error: -1
+[INFO] 22:25:06:594 log_informacion/(18072:18072): Finalizando programa
+[INFO] 22:26:18:579 log_informacion/(18192:18192): Conectando a servidor
+[INFO] 22:26:18:581 log_informacion/(18192:18192): Conexion establecida con el servidor
+[INFO] 22:26:18:581 log_informacion/(18192:18192): Enviando instrucciones
+[INFO] 22:26:18:590 log_informacion/(18192:18192): Esperando finalizacion del proceso
+[ERROR] 22:26:19:204 log_informacion/(18192:18192): Proceso finalizado con codigo de error: -1
+[INFO] 22:26:19:204 log_informacion/(18192:18192): Finalizando programa
+[INFO] 22:26:59:601 log_informacion/(18272:18272): Conectando a servidor
+[INFO] 22:26:59:601 log_informacion/(18272:18272): Conexion establecida con el servidor
+[INFO] 22:26:59:601 log_informacion/(18272:18272): Enviando instrucciones
+[INFO] 22:26:59:606 log_informacion/(18272:18272): Esperando finalizacion del proceso
+[ERROR] 22:27:33:892 log_informacion/(18272:18272): Proceso finalizado con codigo de error: -1
+[INFO] 22:27:33:892 log_informacion/(18272:18272): Finalizando programa
+[INFO] 22:28:30:872 log_informacion/(18393:18393): Conectando a servidor
+[INFO] 22:28:30:874 log_informacion/(18393:18393): Conexion establecida con el servidor
+[INFO] 22:28:30:874 log_informacion/(18393:18393): Enviando instrucciones
+[INFO] 22:28:30:898 log_informacion/(18393:18393): Esperando finalizacion del proceso
+[ERROR] 22:29:34:886 log_informacion/(18393:18393): Proceso finalizado con codigo de error: -1
+[INFO] 22:29:34:886 log_informacion/(18393:18393): Finalizando programa
+[INFO] 22:31:39:624 log_informacion/(18611:18611): Conectando a servidor
+[INFO] 22:31:39:626 log_informacion/(18611:18611): Conexion establecida con el servidor
+[INFO] 22:31:39:626 log_informacion/(18611:18611): Enviando instrucciones
+[INFO] 22:31:39:636 log_informacion/(18611:18611): Esperando finalizacion del proceso
+[ERROR] 22:32:16:700 log_informacion/(18611:18611): Proceso finalizado con codigo de error: -1
+[INFO] 22:32:16:700 log_informacion/(18611:18611): Finalizando programa
+[INFO] 22:33:47:131 log_informacion/(18710:18710): Conectando a servidor
+[INFO] 22:33:47:132 log_informacion/(18710:18710): Conexion establecida con el servidor
+[INFO] 22:33:47:132 log_informacion/(18710:18710): Enviando instrucciones
+[INFO] 22:33:47:140 log_informacion/(18710:18710): Esperando finalizacion del proceso
+[ERROR] 22:33:47:749 log_informacion/(18710:18710): Proceso finalizado con codigo de error: -1
+[INFO] 22:33:47:749 log_informacion/(18710:18710): Finalizando programa
+[INFO] 22:35:19:524 log_informacion/(18820:18820): Conectando a servidor
+[INFO] 22:35:19:527 log_informacion/(18820:18820): Conexion establecida con el servidor
+[INFO] 22:35:19:527 log_informacion/(18820:18820): Enviando instrucciones
+[INFO] 22:35:19:538 log_informacion/(18820:18820): Esperando finalizacion del proceso
+[INFO] 22:35:25:540 log_informacion/(18820:18820): Proceso finalizado con exito
+[INFO] 22:35:25:540 log_informacion/(18820:18820): Finalizando programa
+[INFO] 04:41:35:783 log_informacion/(20383:20383): Conectando a servidor
+[INFO] 04:41:35:803 log_informacion/(20383:20383): Conexion establecida con el servidor
+[INFO] 04:41:35:803 log_informacion/(20383:20383): Enviando instrucciones
+[INFO] 04:41:35:804 log_informacion/(20383:20383): Esperando finalizacion del proceso
+[ERROR] 04:41:36:953 log_informacion/(20383:20383): Proceso finalizado con codigo de error: -1
+[INFO] 04:41:36:954 log_informacion/(20383:20383): Finalizando programa
+[INFO] 04:44:43:521 log_informacion/(20583:20583): Conectando a servidor
+[INFO] 04:44:43:522 log_informacion/(20583:20583): Conexion establecida con el servidor
+[INFO] 04:44:43:522 log_informacion/(20583:20583): Enviando instrucciones
+[INFO] 04:44:43:522 log_informacion/(20583:20583): Esperando finalizacion del proceso
+[ERROR] 04:44:43:733 log_informacion/(20583:20583): Proceso finalizado con codigo de error: -1
+[INFO] 04:44:43:733 log_informacion/(20583:20583): Finalizando programa
+[INFO] 04:45:38:906 log_informacion/(20658:20658): Conectando a servidor
+[INFO] 04:45:38:907 log_informacion/(20658:20658): Conexion establecida con el servidor
+[INFO] 04:45:38:907 log_informacion/(20658:20658): Enviando instrucciones
+[INFO] 04:45:38:907 log_informacion/(20658:20658): Esperando finalizacion del proceso
+[ERROR] 04:46:32:369 log_informacion/(20658:20658): Proceso finalizado con codigo de error: -1
+[INFO] 04:46:32:369 log_informacion/(20658:20658): Finalizando programa
+[INFO] 04:47:01:703 log_informacion/(20773:20773): Conectando a servidor
+[INFO] 04:47:01:703 log_informacion/(20773:20773): Conexion establecida con el servidor
+[INFO] 04:47:01:703 log_informacion/(20773:20773): Enviando instrucciones
+[INFO] 04:47:01:710 log_informacion/(20773:20773): Esperando finalizacion del proceso
+[ERROR] 04:47:02:005 log_informacion/(20773:20773): Proceso finalizado con codigo de error: -1
+[INFO] 04:47:02:005 log_informacion/(20773:20773): Finalizando programa
+[INFO] 04:48:26:518 log_informacion/(20845:20845): Conectando a servidor
+[INFO] 04:48:26:518 log_informacion/(20845:20845): Conexion establecida con el servidor
+[INFO] 04:48:26:518 log_informacion/(20845:20845): Enviando instrucciones
+[INFO] 04:48:49:832 log_informacion/(20865:20865): Conectando a servidor
+[INFO] 04:48:49:838 log_informacion/(20865:20865): Conexion establecida con el servidor
+[INFO] 04:48:49:839 log_informacion/(20865:20865): Enviando instrucciones
+[INFO] 04:48:52:110 log_informacion/(20877:20877): Conectando a servidor
+[ERROR] 04:48:58:957 log_informacion/(20877:20877): Error al intentar conectar con el servidor
+[INFO] 04:48:58:958 log_informacion/(20877:20877): Enviando instrucciones
+[INFO] 04:51:54:135 log_informacion/(21172:21172): Conectando a servidor
+[INFO] 04:51:54:136 log_informacion/(21172:21172): Conexion establecida con el servidor
+[INFO] 04:51:54:136 log_informacion/(21172:21172): Enviando instrucciones
+[INFO] 04:51:54:136 log_informacion/(21172:21172): Finalizando programa
+[INFO] 04:51:56:597 log_informacion/(21183:21183): Conectando a servidor
+[INFO] 04:51:56:597 log_informacion/(21183:21183): Conexion establecida con el servidor
+[INFO] 04:51:56:597 log_informacion/(21183:21183): Enviando instrucciones
+[INFO] 04:51:56:597 log_informacion/(21183:21183): Finalizando programa
+[INFO] 04:51:58:406 log_informacion/(21194:21194): Conectando a servidor
+[ERROR] 04:52:04:687 log_informacion/(21194:21194): Error al intentar conectar con el servidor
+[INFO] 04:52:04:689 log_informacion/(21194:21194): Enviando instrucciones
+[INFO] 04:52:04:689 log_informacion/(21194:21194): Finalizando programa
+[INFO] 04:52:51:813 log_informacion/(21270:21270): Conectando a servidor
+[INFO] 04:52:51:817 log_informacion/(21270:21270): Conexion establecida con el servidor
+[INFO] 04:52:51:817 log_informacion/(21270:21270): Enviando instrucciones
+[INFO] 04:52:51:817 log_informacion/(21270:21270): Finalizando programa
+[INFO] 04:52:53:770 log_informacion/(21281:21281): Conectando a servidor
+[INFO] 04:52:53:770 log_informacion/(21281:21281): Conexion establecida con el servidor
+[INFO] 04:52:53:770 log_informacion/(21281:21281): Enviando instrucciones
+[INFO] 04:52:53:770 log_informacion/(21281:21281): Finalizando programa
+[INFO] 04:52:56:290 log_informacion/(21292:21292): Conectando a servidor
+[ERROR] 04:53:00:769 log_informacion/(21292:21292): Error al intentar conectar con el servidor
+[INFO] 04:53:00:769 log_informacion/(21292:21292): Enviando instrucciones
+[INFO] 04:53:00:769 log_informacion/(21292:21292): Finalizando programa
+[INFO] 04:54:26:708 log_informacion/(21377:21377): Conectando a servidor
+[INFO] 04:54:26:716 log_informacion/(21377:21377): Conexion establecida con el servidor
+[INFO] 04:54:26:716 log_informacion/(21377:21377): Enviando instrucciones
+[INFO] 04:54:26:717 log_informacion/(21377:21377): Finalizando programa
+[INFO] 04:54:28:983 log_informacion/(21388:21388): Conectando a servidor
+[INFO] 04:54:28:983 log_informacion/(21388:21388): Conexion establecida con el servidor
+[INFO] 04:54:28:984 log_informacion/(21388:21388): Enviando instrucciones
+[INFO] 04:54:28:984 log_informacion/(21388:21388): Finalizando programa
+[INFO] 04:54:31:276 log_informacion/(21399:21399): Conectando a servidor
+[INFO] 04:54:31:276 log_informacion/(21399:21399): Conexion establecida con el servidor
+[INFO] 04:54:31:276 log_informacion/(21399:21399): Enviando instrucciones
+[INFO] 04:54:31:277 log_informacion/(21399:21399): Finalizando programa
+[INFO] 04:54:33:138 log_informacion/(21410:21410): Conectando a servidor
+[INFO] 04:54:33:138 log_informacion/(21410:21410): Conexion establecida con el servidor
+[INFO] 04:54:33:138 log_informacion/(21410:21410): Enviando instrucciones
+[INFO] 04:54:33:138 log_informacion/(21410:21410): Finalizando programa
+[INFO] 05:02:42:369 log_informacion/(21693:21693): Conectando a servidor
+[INFO] 05:02:42:369 log_informacion/(21693:21693): Enviando instrucciones
+[INFO] 05:02:42:369 log_informacion/(21693:21693): Finalizando programa
+[INFO] 05:05:28:325 log_informacion/(22033:22033): Conectando a servidor
+[INFO] 05:05:28:326 log_informacion/(22033:22033): Conexion establecida con el servidor
+[INFO] 05:05:28:326 log_informacion/(22033:22033): Enviando instrucciones
+[INFO] 05:05:28:327 log_informacion/(22033:22033): Finalizando programa
+[INFO] 05:06:22:347 log_informacion/(22099:22099): Conectando a servidor
+[INFO] 05:06:22:348 log_informacion/(22099:22099): Conexion establecida con el servidor
+[INFO] 05:06:22:348 log_informacion/(22099:22099): Enviando instrucciones
+[INFO] 05:06:22:348 log_informacion/(22099:22099): Finalizando programa
+[INFO] 05:09:17:535 log_informacion/(22223:22223): Conectando a servidor
+[INFO] 05:09:17:540 log_informacion/(22223:22223): Conexion establecida con el servidor
+[INFO] 05:09:17:540 log_informacion/(22223:22223): Enviando instrucciones
+[INFO] 05:09:17:541 log_informacion/(22223:22223): Finalizando programa
+[INFO] 05:09:32:498 log_informacion/(22240:22240): Conectando a servidor
+[INFO] 05:09:32:499 log_informacion/(22240:22240): Conexion establecida con el servidor
+[INFO] 05:09:32:499 log_informacion/(22240:22240): Enviando instrucciones
+[INFO] 05:09:32:499 log_informacion/(22240:22240): Finalizando programa
+[INFO] 05:09:34:662 log_informacion/(22252:22252): Conectando a servidor
+[INFO] 05:09:34:663 log_informacion/(22252:22252): Conexion establecida con el servidor
+[INFO] 05:09:34:663 log_informacion/(22252:22252): Enviando instrucciones
+[INFO] 05:09:34:663 log_informacion/(22252:22252): Finalizando programa
+[INFO] 05:09:36:622 log_informacion/(22264:22264): Conectando a servidor
+[INFO] 05:09:36:622 log_informacion/(22264:22264): Conexion establecida con el servidor
+[INFO] 05:09:36:622 log_informacion/(22264:22264): Enviando instrucciones
+[INFO] 05:09:36:622 log_informacion/(22264:22264): Finalizando programa
+[INFO] 05:10:32:671 log_informacion/(22356:22356): Conectando a servidor
+[INFO] 05:10:32:672 log_informacion/(22356:22356): Conexion establecida con el servidor
+[INFO] 05:10:32:672 log_informacion/(22356:22356): Enviando instrucciones
+[INFO] 05:10:32:672 log_informacion/(22356:22356): Finalizando programa
+[INFO] 05:10:40:421 log_informacion/(22368:22368): Conectando a servidor
+[INFO] 05:10:40:421 log_informacion/(22368:22368): Conexion establecida con el servidor
+[INFO] 05:10:40:421 log_informacion/(22368:22368): Enviando instrucciones
+[INFO] 05:10:40:422 log_informacion/(22368:22368): Finalizando programa
+[INFO] 05:11:07:658 log_informacion/(22455:22455): Conectando a servidor
+[INFO] 05:11:07:659 log_informacion/(22455:22455): Conexion establecida con el servidor
+[INFO] 05:11:07:659 log_informacion/(22455:22455): Enviando instrucciones
+[INFO] 05:11:07:659 log_informacion/(22455:22455): Finalizando programa
+[INFO] 05:11:10:655 log_informacion/(22467:22467): Conectando a servidor
+[INFO] 05:11:10:655 log_informacion/(22467:22467): Conexion establecida con el servidor
+[INFO] 05:11:10:655 log_informacion/(22467:22467): Enviando instrucciones
+[INFO] 05:11:10:655 log_informacion/(22467:22467): Finalizando programa
+[INFO] 05:12:10:325 log_informacion/(22536:22536): Conectando a servidor
+[INFO] 05:12:10:325 log_informacion/(22536:22536): Conexion establecida con el servidor
+[INFO] 05:12:10:326 log_informacion/(22536:22536): Enviando instrucciones
+[INFO] 05:12:15:327 log_informacion/(22536:22536): Finalizando programa
+[INFO] 05:17:00:675 log_informacion/(22677:22677): Conectando a servidor
+[INFO] 05:17:00:675 log_informacion/(22677:22677): Conexion establecida con el servidor
+[INFO] 05:17:00:675 log_informacion/(22677:22677): Enviando instrucciones
+[INFO] 05:17:05:675 log_informacion/(22677:22677): Finalizando programa
+[INFO] 05:20:01:833 log_informacion/(22869:22869): Conectando a servidor
+[INFO] 05:20:09:576 log_informacion/(22869:22869): Conexion establecida con el servidor
+[INFO] 05:20:09:576 log_informacion/(22869:22869): Enviando instrucciones
+[INFO] 05:20:14:576 log_informacion/(22869:22869): Finalizando programa
+[INFO] 05:21:03:126 log_informacion/(23004:23004): Conectando a servidor
+[INFO] 05:21:10:897 log_informacion/(23004:23004): Conexion establecida con el servidor
+[INFO] 05:21:10:897 log_informacion/(23004:23004): Enviando instrucciones
+[INFO] 05:21:15:897 log_informacion/(23004:23004): Finalizando programa
+[INFO] 05:21:46:300 log_informacion/(23055:23055): Conectando a servidor
+[INFO] 05:21:55:165 log_informacion/(23055:23055): Conexion establecida con el servidor
+[INFO] 05:21:55:165 log_informacion/(23055:23055): Enviando instrucciones
+[INFO] 05:22:00:165 log_informacion/(23055:23055): Finalizando programa
+[INFO] 05:22:18:124 log_informacion/(23131:23131): Conectando a servidor
+[INFO] 05:22:18:125 log_informacion/(23131:23131): Conexion establecida con el servidor
+[INFO] 05:22:18:125 log_informacion/(23131:23131): Enviando instrucciones
+[INFO] 05:22:23:126 log_informacion/(23131:23131): Finalizando programa
+[INFO] 05:22:26:997 log_informacion/(23148:23148): Conectando a servidor
+[INFO] 05:22:26:998 log_informacion/(23148:23148): Conexion establecida con el servidor
+[INFO] 05:22:26:998 log_informacion/(23148:23148): Enviando instrucciones
+[INFO] 05:22:31:999 log_informacion/(23148:23148): Finalizando programa
+[INFO] 05:22:50:521 log_informacion/(23209:23209): Conectando a servidor
+[INFO] 05:22:50:522 log_informacion/(23209:23209): Conexion establecida con el servidor
+[INFO] 05:22:50:522 log_informacion/(23209:23209): Enviando instrucciones
+[INFO] 05:22:50:522 log_informacion/(23209:23209): Finalizando programa
+[INFO] 05:22:53:576 log_informacion/(23226:23226): Conectando a servidor
+[INFO] 05:22:53:577 log_informacion/(23226:23226): Conexion establecida con el servidor
+[INFO] 05:22:53:577 log_informacion/(23226:23226): Enviando instrucciones
+[INFO] 05:22:53:577 log_informacion/(23226:23226): Finalizando programa
+[INFO] 05:22:55:726 log_informacion/(23238:23238): Conectando a servidor
+[INFO] 05:22:55:728 log_informacion/(23238:23238): Conexion establecida con el servidor
+[INFO] 05:22:55:728 log_informacion/(23238:23238): Enviando instrucciones
+[INFO] 05:22:55:728 log_informacion/(23238:23238): Finalizando programa
+[INFO] 05:22:58:068 log_informacion/(23254:23254): Conectando a servidor
+[INFO] 05:22:58:078 log_informacion/(23254:23254): Conexion establecida con el servidor
+[INFO] 05:22:58:078 log_informacion/(23254:23254): Enviando instrucciones
+[INFO] 05:22:58:078 log_informacion/(23254:23254): Finalizando programa
+[INFO] 05:22:59:315 log_informacion/(23266:23266): Conectando a servidor
+[INFO] 05:22:59:316 log_informacion/(23266:23266): Conexion establecida con el servidor
+[INFO] 05:22:59:316 log_informacion/(23266:23266): Enviando instrucciones
+[INFO] 05:22:59:316 log_informacion/(23266:23266): Finalizando programa
+[INFO] 05:23:00:199 log_informacion/(23274:23274): Conectando a servidor
+[INFO] 05:23:00:200 log_informacion/(23274:23274): Conexion establecida con el servidor
+[INFO] 05:23:00:200 log_informacion/(23274:23274): Enviando instrucciones
+[INFO] 05:23:00:201 log_informacion/(23274:23274): Finalizando programa
+[INFO] 05:23:23:154 log_informacion/(23338:23338): Conectando a servidor
+[INFO] 05:23:23:155 log_informacion/(23338:23338): Conexion establecida con el servidor
+[INFO] 05:23:23:155 log_informacion/(23338:23338): Enviando instrucciones
+[INFO] 05:23:23:155 log_informacion/(23338:23338): Esperando finalizacion del proceso
+[ERROR] 05:23:23:381 log_informacion/(23338:23338): Proceso finalizado con codigo de error: -1
+[INFO] 05:23:23:381 log_informacion/(23338:23338): Finalizando programa
+[INFO] 05:23:43:758 log_informacion/(23420:23420): Conectando a servidor
+[INFO] 05:23:43:761 log_informacion/(23420:23420): Conexion establecida con el servidor
+[INFO] 05:23:43:761 log_informacion/(23420:23420): Enviando instrucciones
+[INFO] 05:23:43:761 log_informacion/(23420:23420): Esperando finalizacion del proceso
+[INFO] 05:23:46:611 log_informacion/(23433:23433): Conectando a servidor
+[INFO] 05:23:46:612 log_informacion/(23433:23433): Conexion establecida con el servidor
+[INFO] 05:23:46:612 log_informacion/(23433:23433): Enviando instrucciones
+[INFO] 05:23:46:612 log_informacion/(23433:23433): Esperando finalizacion del proceso
+[INFO] 05:23:52:791 log_informacion/(23420:23420): Proceso finalizado con exito
+[INFO] 05:23:52:791 log_informacion/(23420:23420): Finalizando programa
+[INFO] 05:23:55:624 log_informacion/(23433:23433): Proceso finalizado con exito
+[INFO] 05:23:55:624 log_informacion/(23433:23433): Finalizando programa
+[INFO] 05:27:51:135 log_informacion/(23653:23653): Conectando a servidor
+[INFO] 05:27:51:136 log_informacion/(23653:23653): Conexion establecida con el servidor
+[INFO] 05:27:51:136 log_informacion/(23653:23653): Enviando instrucciones
+[INFO] 05:27:51:136 log_informacion/(23653:23653): Esperando finalizacion del proceso
+[INFO] 05:27:53:623 log_informacion/(23667:23667): Conectando a servidor
+[INFO] 05:27:53:623 log_informacion/(23667:23667): Conexion establecida con el servidor
+[INFO] 05:27:53:624 log_informacion/(23667:23667): Enviando instrucciones
+[INFO] 05:27:53:624 log_informacion/(23667:23667): Esperando finalizacion del proceso
+[INFO] 05:27:56:148 log_informacion/(23681:23681): Conectando a servidor
+[INFO] 05:27:56:156 log_informacion/(23681:23681): Conexion establecida con el servidor
+[INFO] 05:27:56:160 log_informacion/(23681:23681): Enviando instrucciones
+[INFO] 05:27:56:164 log_informacion/(23681:23681): Esperando finalizacion del proceso
+[INFO] 05:27:59:186 log_informacion/(23695:23695): Conectando a servidor
+[INFO] 05:27:59:189 log_informacion/(23695:23695): Conexion establecida con el servidor
+[INFO] 05:27:59:189 log_informacion/(23695:23695): Enviando instrucciones
+[INFO] 05:27:59:189 log_informacion/(23695:23695): Esperando finalizacion del proceso
+[INFO] 05:28:00:146 log_informacion/(23653:23653): Proceso finalizado con exito
+[INFO] 05:28:00:147 log_informacion/(23653:23653): Finalizando programa
+[INFO] 05:28:02:645 log_informacion/(23667:23667): Proceso finalizado con exito
+[INFO] 05:28:02:645 log_informacion/(23667:23667): Finalizando programa
+[INFO] 05:28:05:190 log_informacion/(23681:23681): Proceso finalizado con exito
+[INFO] 05:28:05:190 log_informacion/(23681:23681): Finalizando programa
+[INFO] 05:28:08:216 log_informacion/(23695:23695): Proceso finalizado con exito
+[INFO] 05:28:08:216 log_informacion/(23695:23695): Finalizando programa
+[INFO] 18:08:11:013 log_informacion/(3042:3042): Conectando a servidor
+[INFO] 18:08:11:049 log_informacion/(3042:3042): Conexion establecida con el servidor
+[INFO] 18:08:11:049 log_informacion/(3042:3042): Enviando instrucciones
+[INFO] 18:08:11:050 log_informacion/(3042:3042): Esperando finalizacion del proceso
+[ERROR] 18:08:11:670 log_informacion/(3042:3042): Proceso finalizado con codigo de error: -1
+[INFO] 18:08:11:670 log_informacion/(3042:3042): Finalizando programa
+[INFO] 18:11:35:151 log_informacion/(3190:3190): Conectando a servidor
+[INFO] 18:11:35:152 log_informacion/(3190:3190): Conexion establecida con el servidor
+[INFO] 18:11:35:152 log_informacion/(3190:3190): Enviando instrucciones
+[INFO] 18:11:35:153 log_informacion/(3190:3190): Esperando finalizacion del proceso
+[ERROR] 18:11:35:602 log_informacion/(3190:3190): Proceso finalizado con codigo de error: -1
+[INFO] 18:11:35:602 log_informacion/(3190:3190): Finalizando programa
+[INFO] 18:13:21:501 log_informacion/(3284:3284): Conectando a servidor
+[INFO] 18:13:21:506 log_informacion/(3284:3284): Conexion establecida con el servidor
+[INFO] 18:13:21:506 log_informacion/(3284:3284): Enviando instrucciones
+[INFO] 18:13:21:506 log_informacion/(3284:3284): Esperando finalizacion del proceso
+[ERROR] 18:14:02:202 log_informacion/(3284:3284): Proceso finalizado con codigo de error: -1
+[INFO] 18:14:02:202 log_informacion/(3284:3284): Finalizando programa
+[INFO] 18:14:47:619 log_informacion/(3392:3392): Conectando a servidor
+[INFO] 18:14:47:621 log_informacion/(3392:3392): Conexion establecida con el servidor
+[INFO] 18:14:47:621 log_informacion/(3392:3392): Enviando instrucciones
+[INFO] 18:14:47:621 log_informacion/(3392:3392): Esperando finalizacion del proceso
+[ERROR] 18:14:48:093 log_informacion/(3392:3392): Proceso finalizado con codigo de error: -1
+[INFO] 18:14:48:093 log_informacion/(3392:3392): Finalizando programa
+[INFO] 18:15:46:096 log_informacion/(3476:3476): Conectando a servidor
+[INFO] 18:15:46:098 log_informacion/(3476:3476): Conexion establecida con el servidor
+[INFO] 18:15:46:098 log_informacion/(3476:3476): Enviando instrucciones
+[INFO] 18:15:46:098 log_informacion/(3476:3476): Esperando finalizacion del proceso
+[ERROR] 18:16:16:270 log_informacion/(3476:3476): Proceso finalizado con codigo de error: -1
+[INFO] 18:16:16:271 log_informacion/(3476:3476): Finalizando programa
+[INFO] 18:17:06:706 log_informacion/(3631:3631): Conectando a servidor
+[INFO] 18:17:06:707 log_informacion/(3631:3631): Conexion establecida con el servidor
+[INFO] 18:17:06:707 log_informacion/(3631:3631): Enviando instrucciones
+[INFO] 18:17:06:707 log_informacion/(3631:3631): Esperando finalizacion del proceso
+[ERROR] 18:18:15:689 log_informacion/(3631:3631): Proceso finalizado con codigo de error: -1
+[INFO] 18:18:15:694 log_informacion/(3631:3631): Finalizando programa
+[INFO] 18:18:41:810 log_informacion/(3768:3768): Conectando a servidor
+[INFO] 18:18:41:810 log_informacion/(3768:3768): Conexion establecida con el servidor
+[INFO] 18:18:41:810 log_informacion/(3768:3768): Enviando instrucciones
+[INFO] 18:18:41:810 log_informacion/(3768:3768): Esperando finalizacion del proceso
+[ERROR] 18:18:42:329 log_informacion/(3768:3768): Proceso finalizado con codigo de error: -1
+[INFO] 18:18:42:330 log_informacion/(3768:3768): Finalizando programa
+[INFO] 18:29:43:114 log_informacion/(3881:3881): Conectando a servidor
+[INFO] 18:29:43:115 log_informacion/(3881:3881): Conexion establecida con el servidor
+[INFO] 18:29:43:115 log_informacion/(3881:3881): Enviando instrucciones
+[INFO] 18:29:43:115 log_informacion/(3881:3881): Esperando finalizacion del proceso
+[ERROR] 18:30:21:818 log_informacion/(3881:3881): Proceso finalizado con codigo de error: -1
+[INFO] 18:30:21:818 log_informacion/(3881:3881): Finalizando programa
+[INFO] 18:31:32:257 log_informacion/(4041:4041): Conectando a servidor
+[INFO] 18:31:32:261 log_informacion/(4041:4041): Conexion establecida con el servidor
+[INFO] 18:31:32:261 log_informacion/(4041:4041): Enviando instrucciones
+[INFO] 18:31:32:262 log_informacion/(4041:4041): Esperando finalizacion del proceso
+[ERROR] 18:31:32:756 log_informacion/(4041:4041): Proceso finalizado con codigo de error: -1
+[INFO] 18:31:32:756 log_informacion/(4041:4041): Finalizando programa
+[INFO] 18:36:43:517 log_informacion/(4123:4123): Conectando a servidor
+[INFO] 18:36:43:518 log_informacion/(4123:4123): Conexion establecida con el servidor
+[INFO] 18:36:43:518 log_informacion/(4123:4123): Enviando instrucciones
+[INFO] 18:36:43:518 log_informacion/(4123:4123): Esperando finalizacion del proceso
+[ERROR] 18:36:43:969 log_informacion/(4123:4123): Proceso finalizado con codigo de error: -1
+[INFO] 18:36:43:969 log_informacion/(4123:4123): Finalizando programa
+[INFO] 18:42:41:478 log_informacion/(4316:4316): Conectando a servidor
+[INFO] 18:42:41:479 log_informacion/(4316:4316): Conexion establecida con el servidor
+[INFO] 18:42:41:479 log_informacion/(4316:4316): Enviando instrucciones
+[INFO] 18:42:41:479 log_informacion/(4316:4316): Esperando finalizacion del proceso
+[ERROR] 18:42:41:968 log_informacion/(4316:4316): Proceso finalizado con codigo de error: -1
+[INFO] 18:42:41:968 log_informacion/(4316:4316): Finalizando programa
+[INFO] 18:46:36:554 log_informacion/(4414:4414): Conectando a servidor
+[INFO] 18:46:36:560 log_informacion/(4414:4414): Conexion establecida con el servidor
+[INFO] 18:46:36:560 log_informacion/(4414:4414): Enviando instrucciones
+[INFO] 18:46:36:560 log_informacion/(4414:4414): Esperando finalizacion del proceso
+[ERROR] 18:51:50:251 log_informacion/(4414:4414): Proceso finalizado con codigo de error: -1
+[INFO] 18:51:50:253 log_informacion/(4414:4414): Finalizando programa
+[INFO] 18:54:05:526 log_informacion/(4702:4702): Conectando a servidor
+[INFO] 18:54:05:527 log_informacion/(4702:4702): Conexion establecida con el servidor
+[INFO] 18:54:05:527 log_informacion/(4702:4702): Enviando instrucciones
+[INFO] 18:54:05:527 log_informacion/(4702:4702): Esperando finalizacion del proceso
+[ERROR] 18:54:14:846 log_informacion/(4702:4702): Proceso finalizado con codigo de error: -1
+[INFO] 18:54:14:847 log_informacion/(4702:4702): Finalizando programa
+[INFO] 18:56:09:307 log_informacion/(4907:4907): Conectando a servidor
+[INFO] 18:56:09:308 log_informacion/(4907:4907): Conexion establecida con el servidor
+[INFO] 18:56:09:308 log_informacion/(4907:4907): Enviando instrucciones
+[INFO] 18:56:09:308 log_informacion/(4907:4907): Esperando finalizacion del proceso
+[ERROR] 18:59:55:777 log_informacion/(4907:4907): Proceso finalizado con codigo de error: -1
+[INFO] 18:59:55:777 log_informacion/(4907:4907): Finalizando programa
+[INFO] 19:01:48:485 log_informacion/(5251:5251): Conectando a servidor
+[INFO] 19:01:48:507 log_informacion/(5251:5251): Conexion establecida con el servidor
+[INFO] 19:01:48:507 log_informacion/(5251:5251): Enviando instrucciones
+[INFO] 19:01:48:507 log_informacion/(5251:5251): Esperando finalizacion del proceso
+[INFO] 19:01:57:554 log_informacion/(5251:5251): Proceso finalizado con exito
+[INFO] 19:01:57:554 log_informacion/(5251:5251): Finalizando programa
+[INFO] 19:33:38:495 log_informacion/(5584:5584): Conectando a servidor
+[INFO] 19:33:38:496 log_informacion/(5584:5584): Conexion establecida con el servidor
+[INFO] 19:33:38:496 log_informacion/(5584:5584): Enviando instrucciones
+[INFO] 19:33:38:496 log_informacion/(5584:5584): Esperando finalizacion del proceso
+[ERROR] 19:33:38:905 log_informacion/(5584:5584): Proceso finalizado con codigo de error: -1
+[INFO] 19:33:38:905 log_informacion/(5584:5584): Finalizando programa
+[INFO] 19:34:24:686 log_informacion/(5643:5643): Conectando a servidor
+[INFO] 19:34:24:687 log_informacion/(5643:5643): Conexion establecida con el servidor
+[INFO] 19:34:24:687 log_informacion/(5643:5643): Enviando instrucciones
+[INFO] 19:34:24:687 log_informacion/(5643:5643): Esperando finalizacion del proceso
+[INFO] 19:34:29:697 log_informacion/(5643:5643): Proceso finalizado con exito
+[INFO] 19:34:29:697 log_informacion/(5643:5643): Finalizando programa
+[INFO] 19:46:06:079 log_informacion/(5803:5803): Conectando a servidor
+[INFO] 19:46:06:080 log_informacion/(5803:5803): Conexion establecida con el servidor
+[INFO] 19:46:06:081 log_informacion/(5803:5803): Enviando instrucciones
+[INFO] 19:46:06:081 log_informacion/(5803:5803): Esperando finalizacion del proceso
+[ERROR] 19:46:06:352 log_informacion/(5803:5803): Proceso finalizado con codigo de error: -1
+[INFO] 19:46:06:352 log_informacion/(5803:5803): Finalizando programa
+[INFO] 00:38:30:407 log_informacion/(6587:6587): Conectando a servidor
+[INFO] 00:38:30:408 log_informacion/(6587:6587): Enviando instrucciones
+[INFO] 00:38:30:408 log_informacion/(6587:6587): Esperando finalizacion del proceso
+[ERROR] 00:38:30:408 log_informacion/(6587:6587): Proceso finalizado con codigo de error: -1
+[INFO] 00:38:30:408 log_informacion/(6587:6587): Finalizando programa
+[INFO] 00:39:33:750 log_informacion/(6693:6693): Conectando a servidor
+[INFO] 00:39:33:773 log_informacion/(6693:6693): Conexion establecida con el servidor
+[INFO] 00:39:33:773 log_informacion/(6693:6693): Enviando instrucciones
+[INFO] 00:39:33:773 log_informacion/(6693:6693): Esperando finalizacion del proceso
+[ERROR] 00:42:08:889 log_informacion/(6693:6693): Proceso finalizado con codigo de error: -1
+[INFO] 00:42:08:889 log_informacion/(6693:6693): Finalizando programa
+[INFO] 00:42:56:340 log_informacion/(6906:6906): Conectando a servidor
+[INFO] 00:42:56:341 log_informacion/(6906:6906): Conexion establecida con el servidor
+[INFO] 00:42:56:341 log_informacion/(6906:6906): Enviando instrucciones
+[INFO] 00:42:56:341 log_informacion/(6906:6906): Esperando finalizacion del proceso
+[ERROR] 00:42:56:587 log_informacion/(6906:6906): Proceso finalizado con codigo de error: -1
+[INFO] 00:42:56:587 log_informacion/(6906:6906): Finalizando programa
+[INFO] 00:45:11:897 log_informacion/(7042:7042): Conectando a servidor
+[INFO] 00:45:11:898 log_informacion/(7042:7042): Conexion establecida con el servidor
+[INFO] 00:45:11:899 log_informacion/(7042:7042): Enviando instrucciones
+[INFO] 00:45:11:899 log_informacion/(7042:7042): Esperando finalizacion del proceso
+[ERROR] 00:48:00:682 log_informacion/(7042:7042): Proceso finalizado con codigo de error: -1
+[INFO] 00:48:00:682 log_informacion/(7042:7042): Finalizando programa
+[INFO] 00:54:24:765 log_informacion/(7370:7370): Conectando a servidor
+[INFO] 00:54:24:766 log_informacion/(7370:7370): Conexion establecida con el servidor
+[INFO] 00:54:24:766 log_informacion/(7370:7370): Enviando instrucciones
+[INFO] 00:54:24:766 log_informacion/(7370:7370): Esperando finalizacion del proceso
+[ERROR] 00:54:25:329 log_informacion/(7370:7370): Proceso finalizado con codigo de error: -1
+[INFO] 00:54:25:329 log_informacion/(7370:7370): Finalizando programa
+[INFO] 00:56:31:845 log_informacion/(7599:7599): Conectando a servidor
+[INFO] 00:56:31:845 log_informacion/(7599:7599): Conexion establecida con el servidor
+[INFO] 00:56:31:845 log_informacion/(7599:7599): Enviando instrucciones
+[INFO] 00:56:31:845 log_informacion/(7599:7599): Esperando finalizacion del proceso
+[ERROR] 00:56:32:306 log_informacion/(7599:7599): Proceso finalizado con codigo de error: -1
+[INFO] 00:56:32:306 log_informacion/(7599:7599): Finalizando programa
+[INFO] 00:57:27:033 log_informacion/(7690:7690): Conectando a servidor
+[INFO] 00:57:27:033 log_informacion/(7690:7690): Conexion establecida con el servidor
+[INFO] 00:57:27:033 log_informacion/(7690:7690): Enviando instrucciones
+[INFO] 00:57:27:033 log_informacion/(7690:7690): Esperando finalizacion del proceso
+[ERROR] 00:57:33:884 log_informacion/(7690:7690): Proceso finalizado con codigo de error: -1
+[INFO] 00:57:33:884 log_informacion/(7690:7690): Finalizando programa
+[INFO] 00:57:56:151 log_informacion/(7771:7771): Conectando a servidor
+[INFO] 00:57:56:151 log_informacion/(7771:7771): Conexion establecida con el servidor
+[INFO] 00:57:56:151 log_informacion/(7771:7771): Enviando instrucciones
+[INFO] 00:57:56:151 log_informacion/(7771:7771): Esperando finalizacion del proceso
+[ERROR] 01:01:55:781 log_informacion/(7771:7771): Proceso finalizado con codigo de error: -1
+[INFO] 01:01:55:781 log_informacion/(7771:7771): Finalizando programa
+[INFO] 01:04:20:601 log_informacion/(8079:8079): Conectando a servidor
+[INFO] 01:04:20:602 log_informacion/(8079:8079): Conexion establecida con el servidor
+[INFO] 01:04:20:602 log_informacion/(8079:8079): Enviando instrucciones
+[INFO] 01:04:20:602 log_informacion/(8079:8079): Esperando finalizacion del proceso
+[ERROR] 01:04:20:790 log_informacion/(8079:8079): Proceso finalizado con codigo de error: -1
+[INFO] 01:04:20:792 log_informacion/(8079:8079): Finalizando programa
+[INFO] 04:26:52:513 log_informacion/(9206:9206): Conectando a servidor
+[INFO] 04:26:52:534 log_informacion/(9206:9206): Conexion establecida con el servidor
+[INFO] 04:26:52:534 log_informacion/(9206:9206): Enviando instrucciones
+[INFO] 04:26:52:534 log_informacion/(9206:9206): Esperando finalizacion del proceso
+[ERROR] 04:27:05:673 log_informacion/(9206:9206): Proceso finalizado con codigo de error: -1
+[INFO] 04:27:05:674 log_informacion/(9206:9206): Finalizando programa
+[INFO] 04:27:37:540 log_informacion/(9290:9290): Conectando a servidor
+[INFO] 04:27:37:540 log_informacion/(9290:9290): Conexion establecida con el servidor
+[INFO] 04:27:37:540 log_informacion/(9290:9290): Enviando instrucciones
+[INFO] 04:27:37:540 log_informacion/(9290:9290): Esperando finalizacion del proceso
+[ERROR] 04:29:40:423 log_informacion/(9290:9290): Proceso finalizado con codigo de error: -1
+[INFO] 04:29:40:423 log_informacion/(9290:9290): Finalizando programa
+[INFO] 04:31:31:464 log_informacion/(9504:9504): Conectando a servidor
+[INFO] 04:31:31:464 log_informacion/(9504:9504): Conexion establecida con el servidor
+[INFO] 04:31:31:464 log_informacion/(9504:9504): Enviando instrucciones
+[INFO] 04:31:31:464 log_informacion/(9504:9504): Esperando finalizacion del proceso
+[ERROR] 04:31:31:927 log_informacion/(9504:9504): Proceso finalizado con codigo de error: -1
+[INFO] 04:31:31:927 log_informacion/(9504:9504): Finalizando programa
+[INFO] 04:39:41:308 log_informacion/(9659:9659): Conectando a servidor
+[INFO] 04:39:41:310 log_informacion/(9659:9659): Conexion establecida con el servidor
+[INFO] 04:39:41:310 log_informacion/(9659:9659): Enviando instrucciones
+[INFO] 04:39:41:310 log_informacion/(9659:9659): Esperando finalizacion del proceso
+[INFO] 04:39:41:315 log_informacion/(9659:9659): Proceso finalizado con exito
+[INFO] 04:39:41:316 log_informacion/(9659:9659): Finalizando programa
+[INFO] 04:49:11:622 log_informacion/(10117:10117): Conectando a servidor
+[INFO] 04:49:11:622 log_informacion/(10117:10117): Conexion establecida con el servidor
+[INFO] 04:49:11:622 log_informacion/(10117:10117): Enviando instrucciones
+[INFO] 04:49:11:622 log_informacion/(10117:10117): Esperando finalizacion del proceso
+[ERROR] 04:49:12:154 log_informacion/(10117:10117): Proceso finalizado con codigo de error: -1
+[INFO] 04:49:12:154 log_informacion/(10117:10117): Finalizando programa
+[INFO] 04:56:53:853 log_informacion/(10238:10238): Conectando a servidor
+[INFO] 04:56:53:853 log_informacion/(10238:10238): Conexion establecida con el servidor
+[INFO] 04:56:53:853 log_informacion/(10238:10238): Enviando instrucciones
+[INFO] 04:56:53:854 log_informacion/(10238:10238): Esperando finalizacion del proceso
+[ERROR] 04:56:54:414 log_informacion/(10238:10238): Proceso finalizado con codigo de error: -1
+[INFO] 04:56:54:414 log_informacion/(10238:10238): Finalizando programa
+[INFO] 04:58:01:926 log_informacion/(10296:10296): Conectando a servidor
+[INFO] 04:58:01:927 log_informacion/(10296:10296): Conexion establecida con el servidor
+[INFO] 04:58:01:927 log_informacion/(10296:10296): Enviando instrucciones
+[INFO] 04:58:01:927 log_informacion/(10296:10296): Esperando finalizacion del proceso
+[ERROR] 04:58:02:244 log_informacion/(10296:10296): Proceso finalizado con codigo de error: -1
+[INFO] 04:58:02:245 log_informacion/(10296:10296): Finalizando programa
+[INFO] 04:58:22:483 log_informacion/(10375:10375): Conectando a servidor
+[INFO] 04:58:22:483 log_informacion/(10375:10375): Conexion establecida con el servidor
+[INFO] 04:58:22:483 log_informacion/(10375:10375): Enviando instrucciones
+[INFO] 04:58:22:484 log_informacion/(10375:10375): Esperando finalizacion del proceso
+[ERROR] 04:58:22:902 log_informacion/(10375:10375): Proceso finalizado con codigo de error: -1
+[INFO] 04:58:22:902 log_informacion/(10375:10375): Finalizando programa
+[INFO] 05:00:48:845 log_informacion/(10500:10500): Conectando a servidor
+[INFO] 05:00:48:846 log_informacion/(10500:10500): Conexion establecida con el servidor
+[INFO] 05:00:48:846 log_informacion/(10500:10500): Enviando instrucciones
+[INFO] 05:00:48:846 log_informacion/(10500:10500): Esperando finalizacion del proceso
+[ERROR] 05:00:49:457 log_informacion/(10500:10500): Proceso finalizado con codigo de error: -1
+[INFO] 05:00:49:457 log_informacion/(10500:10500): Finalizando programa
+[INFO] 05:01:29:084 log_informacion/(10586:10586): Conectando a servidor
+[INFO] 05:01:29:085 log_informacion/(10586:10586): Conexion establecida con el servidor
+[INFO] 05:01:29:085 log_informacion/(10586:10586): Enviando instrucciones
+[INFO] 05:01:29:085 log_informacion/(10586:10586): Esperando finalizacion del proceso
+[ERROR] 05:01:29:619 log_informacion/(10586:10586): Proceso finalizado con codigo de error: -1
+[INFO] 05:01:29:619 log_informacion/(10586:10586): Finalizando programa
+[INFO] 05:11:59:631 log_informacion/(10717:10717): Conectando a servidor
+[INFO] 05:11:59:637 log_informacion/(10717:10717): Conexion establecida con el servidor
+[INFO] 05:11:59:637 log_informacion/(10717:10717): Enviando instrucciones
+[INFO] 05:11:59:650 log_informacion/(10717:10717): Esperando finalizacion del proceso
+[ERROR] 05:12:00:073 log_informacion/(10717:10717): Proceso finalizado con codigo de error: -1
+[INFO] 05:12:00:073 log_informacion/(10717:10717): Finalizando programa
+[INFO] 05:15:52:869 log_informacion/(10837:10837): Conectando a servidor
+[INFO] 05:15:52:870 log_informacion/(10837:10837): Conexion establecida con el servidor
+[INFO] 05:15:52:870 log_informacion/(10837:10837): Enviando instrucciones
+[INFO] 05:15:52:870 log_informacion/(10837:10837): Esperando finalizacion del proceso
+[ERROR] 05:20:29:768 log_informacion/(10837:10837): Proceso finalizado con codigo de error: -1
+[INFO] 05:20:29:768 log_informacion/(10837:10837): Finalizando programa
+[INFO] 05:32:13:938 log_informacion/(11147:11147): Conectando a servidor
+[INFO] 05:32:13:939 log_informacion/(11147:11147): Conexion establecida con el servidor
+[INFO] 05:32:13:940 log_informacion/(11147:11147): Enviando instrucciones
+[INFO] 05:32:13:940 log_informacion/(11147:11147): Esperando finalizacion del proceso
+[ERROR] 05:32:14:798 log_informacion/(11147:11147): Proceso finalizado con codigo de error: -1
+[INFO] 05:32:14:798 log_informacion/(11147:11147): Finalizando programa
+[INFO] 06:51:54:341 log_informacion/(11327:11327): Conectando a servidor
+[INFO] 06:51:54:351 log_informacion/(11327:11327): Conexion establecida con el servidor
+[INFO] 06:51:54:351 log_informacion/(11327:11327): Enviando instrucciones
+[INFO] 06:51:54:351 log_informacion/(11327:11327): Esperando finalizacion del proceso
+[ERROR] 06:52:23:150 log_informacion/(11327:11327): Proceso finalizado con codigo de error: -1
+[INFO] 06:52:23:150 log_informacion/(11327:11327): Finalizando programa
+[INFO] 07:07:43:382 log_informacion/(11615:11615): Conectando a servidor
+[INFO] 07:07:43:383 log_informacion/(11615:11615): Conexion establecida con el servidor
+[INFO] 07:07:43:383 log_informacion/(11615:11615): Enviando instrucciones
+[INFO] 07:07:43:383 log_informacion/(11615:11615): Esperando finalizacion del proceso
+[ERROR] 07:07:43:841 log_informacion/(11615:11615): Proceso finalizado con codigo de error: -1
+[INFO] 07:07:43:841 log_informacion/(11615:11615): Finalizando programa
+[INFO] 07:10:56:775 log_informacion/(11746:11746): Conectando a servidor
+[INFO] 07:10:56:775 log_informacion/(11746:11746): Conexion establecida con el servidor
+[INFO] 07:10:56:776 log_informacion/(11746:11746): Enviando instrucciones
+[INFO] 07:10:56:776 log_informacion/(11746:11746): Esperando finalizacion del proceso
+[ERROR] 07:10:57:208 log_informacion/(11746:11746): Proceso finalizado con codigo de error: -1
+[INFO] 07:10:57:208 log_informacion/(11746:11746): Finalizando programa
+[INFO] 07:11:31:433 log_informacion/(11827:11827): Conectando a servidor
+[INFO] 07:11:31:434 log_informacion/(11827:11827): Conexion establecida con el servidor
+[INFO] 07:11:31:434 log_informacion/(11827:11827): Enviando instrucciones
+[INFO] 07:11:31:434 log_informacion/(11827:11827): Esperando finalizacion del proceso
+[ERROR] 07:12:26:623 log_informacion/(11827:11827): Proceso finalizado con codigo de error: -1
+[INFO] 07:12:26:624 log_informacion/(11827:11827): Finalizando programa
+[INFO] 07:14:36:706 log_informacion/(12063:12063): Conectando a servidor
+[INFO] 07:14:36:706 log_informacion/(12063:12063): Conexion establecida con el servidor
+[INFO] 07:14:36:706 log_informacion/(12063:12063): Enviando instrucciones
+[INFO] 07:14:36:706 log_informacion/(12063:12063): Esperando finalizacion del proceso
+[ERROR] 07:14:37:156 log_informacion/(12063:12063): Proceso finalizado con codigo de error: -1
+[INFO] 07:14:37:156 log_informacion/(12063:12063): Finalizando programa
+[INFO] 07:15:12:051 log_informacion/(12144:12144): Conectando a servidor
+[INFO] 07:15:12:052 log_informacion/(12144:12144): Conexion establecida con el servidor
+[INFO] 07:15:12:052 log_informacion/(12144:12144): Enviando instrucciones
+[INFO] 07:15:12:052 log_informacion/(12144:12144): Esperando finalizacion del proceso
+[ERROR] 07:16:07:879 log_informacion/(12144:12144): Proceso finalizado con codigo de error: -1
+[INFO] 07:16:07:879 log_informacion/(12144:12144): Finalizando programa
+[INFO] 07:19:17:423 log_informacion/(12271:12271): Conectando a servidor
+[INFO] 07:19:17:423 log_informacion/(12271:12271): Conexion establecida con el servidor
+[INFO] 07:19:17:423 log_informacion/(12271:12271): Enviando instrucciones
+[INFO] 07:19:17:424 log_informacion/(12271:12271): Esperando finalizacion del proceso
+[ERROR] 07:19:17:821 log_informacion/(12271:12271): Proceso finalizado con codigo de error: -1
+[INFO] 07:19:17:821 log_informacion/(12271:12271): Finalizando programa
+[INFO] 07:20:04:040 log_informacion/(12379:12379): Conectando a servidor
+[INFO] 07:20:04:041 log_informacion/(12379:12379): Conexion establecida con el servidor
+[INFO] 07:20:04:041 log_informacion/(12379:12379): Enviando instrucciones
+[INFO] 07:20:04:042 log_informacion/(12379:12379): Esperando finalizacion del proceso
+[ERROR] 07:20:04:506 log_informacion/(12379:12379): Proceso finalizado con codigo de error: -1
+[INFO] 07:20:04:506 log_informacion/(12379:12379): Finalizando programa
+[INFO] 07:20:40:356 log_informacion/(12464:12464): Conectando a servidor
+[INFO] 07:20:40:357 log_informacion/(12464:12464): Conexion establecida con el servidor
+[INFO] 07:20:40:357 log_informacion/(12464:12464): Enviando instrucciones
+[INFO] 07:20:40:357 log_informacion/(12464:12464): Esperando finalizacion del proceso
+[ERROR] 07:22:10:612 log_informacion/(12464:12464): Proceso finalizado con codigo de error: -1
+[INFO] 07:22:10:612 log_informacion/(12464:12464): Finalizando programa
+[INFO] 07:23:19:555 log_informacion/(12705:12705): Conectando a servidor
+[INFO] 07:23:19:556 log_informacion/(12705:12705): Conexion establecida con el servidor
+[INFO] 07:23:19:556 log_informacion/(12705:12705): Enviando instrucciones
+[INFO] 07:23:19:556 log_informacion/(12705:12705): Esperando finalizacion del proceso
+[INFO] 07:25:17:455 log_informacion/(12705:12705): Proceso finalizado con exito
+[INFO] 07:25:17:455 log_informacion/(12705:12705): Finalizando programa
+[INFO] 07:27:21:044 log_informacion/(12922:12922): Conectando a servidor
+[INFO] 07:27:21:045 log_informacion/(12922:12922): Conexion establecida con el servidor
+[INFO] 07:27:21:045 log_informacion/(12922:12922): Enviando instrucciones
+[INFO] 07:27:21:045 log_informacion/(12922:12922): Esperando finalizacion del proceso
+[INFO] 07:27:21:047 log_informacion/(12922:12922): Proceso finalizado con exito
+[INFO] 07:27:21:047 log_informacion/(12922:12922): Finalizando programa
+[INFO] 07:31:05:190 log_informacion/(13155:13155): Conectando a servidor
+[INFO] 07:31:05:192 log_informacion/(13155:13155): Conexion establecida con el servidor
+[INFO] 07:31:05:192 log_informacion/(13155:13155): Enviando instrucciones
+[INFO] 07:31:05:192 log_informacion/(13155:13155): Esperando finalizacion del proceso
+[INFO] 07:31:05:205 log_informacion/(13155:13155): Proceso finalizado con exito
+[INFO] 07:31:05:205 log_informacion/(13155:13155): Finalizando programa
+[INFO] 07:33:02:711 log_informacion/(13315:13315): Conectando a servidor
+[INFO] 07:33:02:712 log_informacion/(13315:13315): Conexion establecida con el servidor
+[INFO] 07:33:02:713 log_informacion/(13315:13315): Enviando instrucciones
+[INFO] 07:33:02:713 log_informacion/(13315:13315): Esperando finalizacion del proceso
+[ERROR] 07:33:02:911 log_informacion/(13315:13315): Proceso finalizado con codigo de error: -1
+[INFO] 07:33:02:911 log_informacion/(13315:13315): Finalizando programa
+[INFO] 07:48:37:965 log_informacion/(13464:13464): Conectando a servidor
+[INFO] 07:48:37:966 log_informacion/(13464:13464): Conexion establecida con el servidor
+[INFO] 07:48:37:967 log_informacion/(13464:13464): Enviando instrucciones
+[INFO] 07:48:37:967 log_informacion/(13464:13464): Esperando finalizacion del proceso
+[ERROR] 07:48:38:269 log_informacion/(13464:13464): Proceso finalizado con codigo de error: -1
+[INFO] 07:48:38:270 log_informacion/(13464:13464): Finalizando programa
+[INFO] 07:49:20:338 log_informacion/(13600:13600): Conectando a servidor
+[INFO] 07:49:20:339 log_informacion/(13600:13600): Conexion establecida con el servidor
+[INFO] 07:49:20:339 log_informacion/(13600:13600): Enviando instrucciones
+[INFO] 07:49:20:339 log_informacion/(13600:13600): Esperando finalizacion del proceso
+[ERROR] 07:49:20:821 log_informacion/(13600:13600): Proceso finalizado con codigo de error: -1
+[INFO] 07:49:20:821 log_informacion/(13600:13600): Finalizando programa
+[INFO] 07:51:00:145 log_informacion/(13701:13701): Conectando a servidor
+[INFO] 07:51:00:146 log_informacion/(13701:13701): Conexion establecida con el servidor
+[INFO] 07:51:00:146 log_informacion/(13701:13701): Enviando instrucciones
+[INFO] 07:51:00:146 log_informacion/(13701:13701): Esperando finalizacion del proceso
+[ERROR] 07:51:00:678 log_informacion/(13701:13701): Proceso finalizado con codigo de error: -1
+[INFO] 07:51:00:678 log_informacion/(13701:13701): Finalizando programa
+[INFO] 07:55:14:680 log_informacion/(13928:13928): Conectando a servidor
+[INFO] 07:55:14:681 log_informacion/(13928:13928): Conexion establecida con el servidor
+[INFO] 07:55:14:681 log_informacion/(13928:13928): Enviando instrucciones
+[INFO] 07:55:14:699 log_informacion/(13928:13928): Esperando finalizacion del proceso
+[ERROR] 07:55:33:655 log_informacion/(13928:13928): Proceso finalizado con codigo de error: -1
+[INFO] 07:55:33:655 log_informacion/(13928:13928): Finalizando programa
+[INFO] 07:56:57:144 log_informacion/(14048:14048): Conectando a servidor
+[INFO] 07:56:57:145 log_informacion/(14048:14048): Conexion establecida con el servidor
+[INFO] 07:56:57:145 log_informacion/(14048:14048): Enviando instrucciones
+[INFO] 07:56:57:145 log_informacion/(14048:14048): Esperando finalizacion del proceso
+[ERROR] 08:00:16:036 log_informacion/(14048:14048): Proceso finalizado con codigo de error: -1
+[INFO] 08:00:16:036 log_informacion/(14048:14048): Finalizando programa
+[INFO] 08:00:47:004 log_informacion/(14298:14298): Conectando a servidor
+[INFO] 08:00:47:005 log_informacion/(14298:14298): Conexion establecida con el servidor
+[INFO] 08:00:47:005 log_informacion/(14298:14298): Enviando instrucciones
+[INFO] 08:00:47:005 log_informacion/(14298:14298): Esperando finalizacion del proceso
+[ERROR] 08:03:31:993 log_informacion/(14298:14298): Proceso finalizado con codigo de error: -1
+[INFO] 08:03:31:993 log_informacion/(14298:14298): Finalizando programa
+[INFO] 08:04:37:369 log_informacion/(14433:14433): Conectando a servidor
+[INFO] 08:04:37:369 log_informacion/(14433:14433): Conexion establecida con el servidor
+[INFO] 08:04:37:370 log_informacion/(14433:14433): Enviando instrucciones
+[INFO] 08:04:37:370 log_informacion/(14433:14433): Esperando finalizacion del proceso
+[ERROR] 08:04:37:817 log_informacion/(14433:14433): Proceso finalizado con codigo de error: -1
+[INFO] 08:04:37:817 log_informacion/(14433:14433): Finalizando programa
+[INFO] 08:06:18:275 log_informacion/(14587:14587): Conectando a servidor
+[INFO] 08:06:18:276 log_informacion/(14587:14587): Conexion establecida con el servidor
+[INFO] 08:06:18:276 log_informacion/(14587:14587): Enviando instrucciones
+[INFO] 08:06:18:276 log_informacion/(14587:14587): Esperando finalizacion del proceso
+[ERROR] 08:06:33:769 log_informacion/(14587:14587): Proceso finalizado con codigo de error: -1
+[INFO] 08:06:33:769 log_informacion/(14587:14587): Finalizando programa
+[INFO] 08:06:59:304 log_informacion/(14733:14733): Conectando a servidor
+[INFO] 08:06:59:305 log_informacion/(14733:14733): Conexion establecida con el servidor
+[INFO] 08:06:59:305 log_informacion/(14733:14733): Enviando instrucciones
+[INFO] 08:06:59:305 log_informacion/(14733:14733): Esperando finalizacion del proceso
+[INFO] 08:06:59:307 log_informacion/(14733:14733): Proceso finalizado con exito
+[INFO] 08:06:59:307 log_informacion/(14733:14733): Finalizando programa
