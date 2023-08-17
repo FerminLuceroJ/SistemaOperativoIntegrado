@@ -1,4 +1,4 @@
-# tp-2023-1c-The-Kernel-Crew
+# Sistema Operativo Integrado en C
 
 ## Distribución de Roles
 
